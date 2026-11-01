@@ -305,7 +305,7 @@
   "durationMs": 49893,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113185847566876679"
  },
@@ -869,7 +869,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon\n\nSVG of a bicycle riding a cow\n\nlook at all the attention to details. from cows eye to bicycle’s peddle everything is perfectly synced in one motion",
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115512016811307487"
  },
@@ -996,7 +996,7 @@
   "durationMs": 25170,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115556773901807873"
  },
@@ -1088,7 +1088,7 @@
   "durationMs": 28733,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115727629861130735/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115727629861130735/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115727629861130735"
  },
@@ -1143,7 +1143,7 @@
   "durationMs": 97421,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115794531136258115/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115794531136258115/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115794531136258115"
  },
@@ -1314,6 +1314,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115918611676041698"
  },
  {
+  "id": "2115918919303069762",
+  "title": "Island with pumpkin and bats prompt comparison",
+  "title_zh": "带有南瓜和蝙蝠的小岛生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xlillyy",
+   "name": "Lilly"
+  },
+  "postUrl": "https://x.com/0xlillyy/status/2115918919303069762",
+  "createdAt": "2026-10-29T21:29:16.000Z",
+  "durationMs": 12900,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115918919303069762/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115918919303069762/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115918919303069762"
+ },
+ {
   "id": "2115935747798950069",
   "title": "JS sleep loop with girl in rain SVG",
   "title_zh": "雨中女孩 SVG 与背景音乐助眠动画",
@@ -1363,27 +1381,9 @@
   "durationMs": 15000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116055328005685507/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116055328005685507/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116055328005685507"
- },
- {
-  "id": "2116082604151914668",
-  "title": "Greek world built in Three.js",
-  "title_zh": "Three.js 构建的希腊世界场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "chetaslua",
-   "name": "Chetaslua"
-  },
-  "postUrl": "https://x.com/chetaslua/status/2116082604151914668",
-  "createdAt": "2026-10-30T08:19:42.000Z",
-  "durationMs": 37763,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116082604151914668/video.mp4",
-  "promptShared": false,
-  "featured": 1,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116082604151914668/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116082604151914668"
  },
  {
   "id": "2116108534051905642",
@@ -1527,7 +1527,7 @@
   "durationMs": 50000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116392703357558821"
  },
@@ -1790,5 +1790,207 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116621901934002336/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116621901934002336"
+ },
+ {
+  "id": "2116633632869613723",
+  "title": "Playable game of a button climbing a sleeping giant",
+  "title_zh": "纽扣攀爬沉睡巨人的可玩游戏",
+  "category": "game",
+  "author": {
+   "handle": "0xRhinoX",
+   "name": "Rhino"
+  },
+  "postUrl": "https://x.com/0xRhinoX/status/2116633632869613723",
+  "createdAt": "2026-10-31T20:49:17.000Z",
+  "durationMs": 41000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116633632869613723/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116633632869613723/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116633632869613723"
+ },
+ {
+  "id": "2116757313575145683",
+  "title": "Avengers fighting each other and Ironman transforming",
+  "title_zh": "复仇者联盟混战与钢铁侠变身",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2116757313575145683",
+  "createdAt": "2026-11-01T05:00:45.000Z",
+  "durationMs": 68816,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116757313575145683/video.mp4",
+  "promptShared": false,
+  "featured": 0,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116757313575145683/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116757313575145683"
+ },
+ {
+  "id": "2116767284618486044",
+  "title": "Three.js mechanical eagle comparison",
+  "title_zh": "Three.js 机械鹰生成模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2116767284618486044",
+  "createdAt": "2026-11-01T05:40:22.000Z",
+  "durationMs": 26602,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116767284618486044/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Carbon VS Gemini 4 Argon.\n\n- Create a 3D mechanical eagle in Three.js\n\nEagle with steel feathers, intricate gears can has detailed designed it.\n\nWhich model actually nailed it?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116767284618486044/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116767284618486044"
+ },
+ {
+  "id": "2116799920523153750",
+  "title": "Pelican riding visual comparison between models",
+  "title_zh": "骑乘鹈鹕视觉效果模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "insanekrishnaa",
+   "name": "krisha"
+  },
+  "postUrl": "https://x.com/insanekrishnaa/status/2116799920523153750",
+  "createdAt": "2026-11-01T07:50:03.000Z",
+  "durationMs": 8000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116799920523153750/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116799920523153750/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116799920523153750"
+ },
+ {
+  "id": "2116800047195025596",
+  "title": "Playable 3D car racing game in Gemini",
+  "title_zh": "Gemini 4 Carbon构建的3D赛车游戏",
+  "category": "game",
+  "author": {
+   "handle": "ashawv5i",
+   "name": "asha"
+  },
+  "postUrl": "https://x.com/ashawv5i/status/2116800047195025596",
+  "createdAt": "2026-11-01T07:50:34.000Z",
+  "durationMs": 42887,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116800047195025596/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116800047195025596/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116800047195025596"
+ },
+ {
+  "id": "2116813166009106935",
+  "title": "Opus 5.5 versus Gemini 4 Carbon comparison",
+  "title_zh": "Opus 5.5 与 Gemini 4 Carbon 对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Haleeeemahh",
+   "name": "Haleemah"
+  },
+  "postUrl": "https://x.com/Haleeeemahh/status/2116813166009106935",
+  "createdAt": "2026-11-01T08:42:41.000Z",
+  "durationMs": 25500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116813166009106935/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116813166009106935/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116813166009106935"
+ },
+ {
+  "id": "2116853285617336424",
+  "title": "Nine-cylinder radial engine animation comparison",
+  "title_zh": "九缸星型发动机动画多模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "m1lad_az",
+   "name": "MiLad"
+  },
+  "postUrl": "https://x.com/m1lad_az/status/2116853285617336424",
+  "createdAt": "2026-11-01T11:22:07.000Z",
+  "durationMs": 10935,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116853285617336424/video.mp4",
+  "promptShared": true,
+  "promptText": "Four models. One prompt. A 9-cylinder radial engine. ⚙️🔧\n\n🔥 Gemini 4 Carbon — Cleanest flames and sharpest overall look\n🛠️ Opus 5.5 — Best mechanical detail and piping\n🌫️ Gemini 4 Argon — Nice atmosphere, softer edges\n☀️ GPT-6.1 Sol — Clean, but the flames feel weak\n\nAll of them got the pistons moving ✅\n\nOnly one actually feels engineered 🧠\n\nCarbon or Opus — which one wins? 🏆",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116853285617336424/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116853285617336424"
+ },
+ {
+  "id": "2116879524671475759",
+  "title": "Gemini 4 Carbon versus Claude Opus 5.5 comparison",
+  "title_zh": "Gemini 4 Carbon 与 Claude Opus 5.5 性能对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xPorterio",
+   "name": "Porterio"
+  },
+  "postUrl": "https://x.com/0xPorterio/status/2116879524671475759",
+  "createdAt": "2026-11-01T13:06:23.000Z",
+  "durationMs": 42300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116879524671475759/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116879524671475759/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116879524671475759"
+ },
+ {
+  "id": "2116883000361427433",
+  "title": "Pelican riding a bicycle SVG animation",
+  "title_zh": "鹈鹕骑自行车的SVG动画",
+  "category": "comparison",
+  "author": {
+   "handle": "xiax0603",
+   "name": "xiax｜AI & Agents"
+  },
+  "postUrl": "https://x.com/xiax0603/status/2116883000361427433",
+  "createdAt": "2026-11-01T13:20:11.000Z",
+  "durationMs": 39018,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116883000361427433/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116883000361427433/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116883000361427433"
+ },
+ {
+  "id": "2116892619309461745",
+  "title": "Two-stroke chainsaw engine cutaway comparison",
+  "title_zh": "二冲程油锯发动机剖面动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "olezhavich",
+   "name": "Olezhka"
+  },
+  "postUrl": "https://x.com/olezhavich/status/2116892619309461745",
+  "createdAt": "2026-11-01T13:58:25.000Z",
+  "durationMs": 11377,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116892619309461745/video.mp4",
+  "promptShared": true,
+  "promptText": "Round 2: is Gemini 4 Carbon still that good? I gave four models a two-stroke engine ⚙️\n\nSame prompt, one try each: an animated cutaway of the engine inside a chainsaw. The one thing it has to show is the explosion that pushes the piston down.\n\n>Gemini 4 Carbon: crisp lines, nice mist, but the flame is barely there. You have to hunt for the power stroke.\n\n>Gemini 4 Argon: lovely particle flow, but the flame is small.\n\n>Opus 5.5: the clearest story. Blue fresh mix, a big orange burn, grey exhaust leaving the pipe. You understand the engine in 3 seconds.\n\n>6 Astra: the most real-looking hardware. Bolts, fins, a ceramic spark plug and the longest burn of the four.\n\nMy pick: Astra for realism. Carbon, this time you lost. Is it still the king?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116892619309461745/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116892619309461745"
+ },
+ {
+  "id": "2116927253980594275",
+  "title": "Interactive running V8 engine model comparison",
+  "title_zh": "运行中V8引擎交互模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "dromexa",
+   "name": "Dromexa"
+  },
+  "postUrl": "https://x.com/dromexa/status/2116927253980594275",
+  "createdAt": "2026-11-01T16:16:02.000Z",
+  "durationMs": 28600,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116927253980594275/video.mp4",
+  "promptShared": true,
+  "promptText": "🚨 Gemini 4 Carbon vs Opus 5.5, round 3\n\nSame prompt, one shot each: a running V8 you can X-ray, cut in half, explode and lay out part by part.\n\nA motorcycle, a watch, and now an engine.\n\n3 for 3. Carbon swept it\n\nWhat should round 4 be? 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116927253980594275/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116927253980594275"
  }
 ]

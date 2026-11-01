@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 28 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 32 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
 - [动效](#motion-graphics) (2)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (18)
+- [测试对比](#comparison) (22)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -413,6 +413,75 @@ All four got the mechanics right (pistons fire in the correct order, I checked),
 >GPT-6.1 Sol: a clean blueprint, but the flames are tiny and dim.
 
 Is Carbon the new king, or does Opus still win on engineering?
+```
+
+### Three.js 机械鹰生成模型对比
+
+[@srikanthvaluri](https://x.com/srikanthvaluri/status/2116767284618486044) · 0:27 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116767284618486044/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116767284618486044?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon VS Gemini 4 Argon.
+
+- Create a 3D mechanical eagle in Three.js
+
+Eagle with steel feathers, intricate gears can has detailed designed it.
+
+Which model actually nailed it?
+```
+
+### 九缸星型发动机动画多模型对比
+
+[@m1lad_az](https://x.com/m1lad_az/status/2116853285617336424) · 0:11 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116853285617336424/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116853285617336424?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Four models. One prompt. A 9-cylinder radial engine. ⚙️🔧
+
+🔥 Gemini 4 Carbon — Cleanest flames and sharpest overall look
+🛠️ Opus 5.5 — Best mechanical detail and piping
+🌫️ Gemini 4 Argon — Nice atmosphere, softer edges
+☀️ GPT-6.1 Sol — Clean, but the flames feel weak
+
+All of them got the pistons moving ✅
+
+Only one actually feels engineered 🧠
+
+Carbon or Opus — which one wins? 🏆
+```
+
+### 二冲程油锯发动机剖面动画对比
+
+[@olezhavich](https://x.com/olezhavich/status/2116892619309461745) · 0:11 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116892619309461745/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116892619309461745?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Round 2: is Gemini 4 Carbon still that good? I gave four models a two-stroke engine ⚙️
+
+Same prompt, one try each: an animated cutaway of the engine inside a chainsaw. The one thing it has to show is the explosion that pushes the piston down.
+
+>Gemini 4 Carbon: crisp lines, nice mist, but the flame is barely there. You have to hunt for the power stroke.
+
+>Gemini 4 Argon: lovely particle flow, but the flame is small.
+
+>Opus 5.5: the clearest story. Blue fresh mix, a big orange burn, grey exhaust leaving the pipe. You understand the engine in 3 seconds.
+
+>6 Astra: the most real-looking hardware. Bolts, fins, a ceramic spark plug and the longest burn of the four.
+
+My pick: Astra for realism. Carbon, this time you lost. Is it still the king?
+```
+
+### 运行中V8引擎交互模型对比
+
+[@dromexa](https://x.com/dromexa/status/2116927253980594275) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116927253980594275/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116927253980594275?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+🚨 Gemini 4 Carbon vs Opus 5.5, round 3
+
+Same prompt, one shot each: a running V8 you can X-ray, cut in half, explode and lay out part by part.
+
+A motorcycle, a watch, and now an engine.
+
+3 for 3. Carbon swept it
+
+What should round 4 be? 👇
 ```
 
 <a id="showcase"></a>

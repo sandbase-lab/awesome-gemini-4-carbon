@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-28 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+32 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
 - [Motion graphics](#motion-graphics) (2)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (18)
+- [Tests & comparisons](#comparison) (22)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -413,6 +413,75 @@ All four got the mechanics right (pistons fire in the correct order, I checked),
 >GPT-6.1 Sol: a clean blueprint, but the flames are tiny and dim.
 
 Is Carbon the new king, or does Opus still win on engineering?
+```
+
+### Three.js mechanical eagle comparison
+
+[@srikanthvaluri](https://x.com/srikanthvaluri/status/2116767284618486044) · 0:27 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116767284618486044/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116767284618486044?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon VS Gemini 4 Argon.
+
+- Create a 3D mechanical eagle in Three.js
+
+Eagle with steel feathers, intricate gears can has detailed designed it.
+
+Which model actually nailed it?
+```
+
+### Nine-cylinder radial engine animation comparison
+
+[@m1lad_az](https://x.com/m1lad_az/status/2116853285617336424) · 0:11 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116853285617336424/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116853285617336424?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Four models. One prompt. A 9-cylinder radial engine. ⚙️🔧
+
+🔥 Gemini 4 Carbon — Cleanest flames and sharpest overall look
+🛠️ Opus 5.5 — Best mechanical detail and piping
+🌫️ Gemini 4 Argon — Nice atmosphere, softer edges
+☀️ GPT-6.1 Sol — Clean, but the flames feel weak
+
+All of them got the pistons moving ✅
+
+Only one actually feels engineered 🧠
+
+Carbon or Opus — which one wins? 🏆
+```
+
+### Two-stroke chainsaw engine cutaway comparison
+
+[@olezhavich](https://x.com/olezhavich/status/2116892619309461745) · 0:11 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116892619309461745/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116892619309461745?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Round 2: is Gemini 4 Carbon still that good? I gave four models a two-stroke engine ⚙️
+
+Same prompt, one try each: an animated cutaway of the engine inside a chainsaw. The one thing it has to show is the explosion that pushes the piston down.
+
+>Gemini 4 Carbon: crisp lines, nice mist, but the flame is barely there. You have to hunt for the power stroke.
+
+>Gemini 4 Argon: lovely particle flow, but the flame is small.
+
+>Opus 5.5: the clearest story. Blue fresh mix, a big orange burn, grey exhaust leaving the pipe. You understand the engine in 3 seconds.
+
+>6 Astra: the most real-looking hardware. Bolts, fins, a ceramic spark plug and the longest burn of the four.
+
+My pick: Astra for realism. Carbon, this time you lost. Is it still the king?
+```
+
+### Interactive running V8 engine model comparison
+
+[@dromexa](https://x.com/dromexa/status/2116927253980594275) · 0:29 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116927253980594275/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116927253980594275?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+🚨 Gemini 4 Carbon vs Opus 5.5, round 3
+
+Same prompt, one shot each: a running V8 you can X-ray, cut in half, explode and lay out part by part.
+
+A motorcycle, a watch, and now an engine.
+
+3 for 3. Carbon swept it
+
+What should round 4 be? 👇
 ```
 
 <a id="showcase"></a>
