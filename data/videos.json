@@ -305,7 +305,7 @@
   "durationMs": 49893,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113185847566876679"
  },
@@ -869,7 +869,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon\n\nSVG of a bicycle riding a cow\n\nlook at all the attention to details. from cows eye to bicycle’s peddle everything is perfectly synced in one motion",
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115512016811307487"
  },
@@ -996,7 +996,7 @@
   "durationMs": 25170,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115556773901807873"
  },
@@ -1202,24 +1202,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115823149849714738/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115823149849714738"
- },
- {
-  "id": "2115839073701257422",
-  "title": "Interactive 3D Oxford city comparison",
-  "title_zh": "可交互牛津3D城市对比",
-  "category": "comparison",
-  "author": {
-   "handle": "leo114119",
-   "name": "Leo · Building w/ AI"
-  },
-  "postUrl": "https://x.com/leo114119/status/2115839073701257422",
-  "createdAt": "2026-10-29T16:12:00.000Z",
-  "durationMs": 8466,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115839073701257422/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115839073701257422/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115839073701257422"
  },
  {
   "id": "2115840921342456062",
@@ -1618,7 +1600,7 @@
   "durationMs": 60000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116502497158201520/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116502497158201520/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116502497158201520"
  },
@@ -1823,7 +1805,7 @@
   "durationMs": 68816,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116757313575145683/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116757313575145683/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116757313575145683"
  },
@@ -1845,6 +1827,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116767284618486044/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116767284618486044"
+ },
+ {
+  "id": "2116798612361375995",
+  "title": "A playable 3D car racing game",
+  "title_zh": "可玩的3D赛车游戏",
+  "category": "game",
+  "author": {
+   "handle": "Mr_Salio",
+   "name": "Salio"
+  },
+  "postUrl": "https://x.com/Mr_Salio/status/2116798612361375995",
+  "createdAt": "2026-11-01T07:44:52.000Z",
+  "durationMs": 42841,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116798612361375995/video.mp4",
+  "promptShared": false,
+  "featured": 6,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116798612361375995/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116798612361375995"
  },
  {
   "id": "2116799920523153750",
@@ -1992,5 +1992,79 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116927253980594275/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116927253980594275"
+ },
+ {
+  "id": "2117003519832068329",
+  "title": "Giraffe and gorilla boxing comparison",
+  "title_zh": "长颈鹿与大猩猩拳击对决对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ValencianaAbel",
+   "name": "Valenciana"
+  },
+  "postUrl": "https://x.com/ValencianaAbel/status/2117003519832068329",
+  "createdAt": "2026-11-01T21:19:05.000Z",
+  "durationMs": 8000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117003519832068329/video.mp4",
+  "promptShared": true,
+  "promptText": "I asked for a giraffe and a gorilla boxing 🥊\n\nClaude Opus 5.5 vs Gemini 4 Carbon\n\nSame prompt, both low effort: gloves on, flat ring, fight loop.\n\nwho's better",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117003519832068329/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117003519832068329"
+ },
+ {
+  "id": "2117142662100754825",
+  "title": "A dynamic motion design showreel in SVG",
+  "title_zh": "SVG动态设计展示短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "leo114119",
+   "name": "Leo · Building w/ AI"
+  },
+  "postUrl": "https://x.com/leo114119/status/2117142662100754825",
+  "createdAt": "2026-11-02T06:31:59.000Z",
+  "durationMs": 14972,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117142662100754825/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Carbon-H 最新的版本测试：\n\n生成一条 15 秒的 motion showreel，百分百 SVG 生成\n\nprompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out\n\n感觉Carbon还在优化中，看看这一周会不会发布给 Pro用户使用吧。。。",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117142662100754825/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117142662100754825"
+ },
+ {
+  "id": "2117263042329370877",
+  "title": "Code-generated animation tested against multiple models",
+  "title_zh": "代码生成动画及多模型测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Smlay_ero",
+   "name": "smlay"
+  },
+  "postUrl": "https://x.com/Smlay_ero/status/2117263042329370877",
+  "createdAt": "2026-11-02T14:30:20.000Z",
+  "durationMs": 80666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117263042329370877/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117263042329370877/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117263042329370877"
+ },
+ {
+  "id": "2117269927266484380",
+  "title": "Fishing game graphics comparison across four AI models",
+  "title_zh": "四款AI模型的钓鱼游戏画面对比",
+  "category": "comparison",
+  "author": {
+   "handle": "polinaaAi",
+   "name": "Polinaa | Ai arc"
+  },
+  "postUrl": "https://x.com/polinaaAi/status/2117269927266484380",
+  "createdAt": "2026-11-02T14:57:42.000Z",
+  "durationMs": 24000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117269927266484380/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117269927266484380/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117269927266484380"
  }
 ]

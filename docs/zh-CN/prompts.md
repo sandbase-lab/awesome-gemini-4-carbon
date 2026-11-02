@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 32 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 34 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
-- [动效](#motion-graphics) (2)
+- [动效](#motion-graphics) (3)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (22)
+- [测试对比](#comparison) (23)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -70,6 +70,20 @@ look at all the attention to details. from cows eye to bicycle’s peddle everyt
 Prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out
 
 By Gemini 4 Carbon EAP
+```
+
+### SVG动态设计展示短片
+
+[@leo114119](https://x.com/leo114119/status/2117142662100754825) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117142662100754825/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117142662100754825?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon-H 最新的版本测试：
+
+生成一条 15 秒的 motion showreel，百分百 SVG 生成
+
+prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out
+
+感觉Carbon还在优化中，看看这一周会不会发布给 Pro用户使用吧。。。
 ```
 
 <a id="anime"></a>
@@ -482,6 +496,20 @@ A motorcycle, a watch, and now an engine.
 3 for 3. Carbon swept it
 
 What should round 4 be? 👇
+```
+
+### 长颈鹿与大猩猩拳击对决对比
+
+[@ValencianaAbel](https://x.com/ValencianaAbel/status/2117003519832068329) · 0:08 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117003519832068329/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117003519832068329?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+I asked for a giraffe and a gorilla boxing 🥊
+
+Claude Opus 5.5 vs Gemini 4 Carbon
+
+Same prompt, both low effort: gloves on, flat ring, fight loop.
+
+who's better
 ```
 
 <a id="showcase"></a>

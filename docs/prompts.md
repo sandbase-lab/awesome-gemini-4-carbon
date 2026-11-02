@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-32 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+34 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
-- [Motion graphics](#motion-graphics) (2)
+- [Motion graphics](#motion-graphics) (3)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (22)
+- [Tests & comparisons](#comparison) (23)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -70,6 +70,20 @@ look at all the attention to details. from cows eye to bicycle’s peddle everyt
 Prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out
 
 By Gemini 4 Carbon EAP
+```
+
+### A dynamic motion design showreel in SVG
+
+[@leo114119](https://x.com/leo114119/status/2117142662100754825) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117142662100754825/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117142662100754825?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon-H 最新的版本测试：
+
+生成一条 15 秒的 motion showreel，百分百 SVG 生成
+
+prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out
+
+感觉Carbon还在优化中，看看这一周会不会发布给 Pro用户使用吧。。。
 ```
 
 <a id="anime"></a>
@@ -482,6 +496,20 @@ A motorcycle, a watch, and now an engine.
 3 for 3. Carbon swept it
 
 What should round 4 be? 👇
+```
+
+### Giraffe and gorilla boxing comparison
+
+[@ValencianaAbel](https://x.com/ValencianaAbel/status/2117003519832068329) · 0:08 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117003519832068329/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117003519832068329?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+I asked for a giraffe and a gorilla boxing 🥊
+
+Claude Opus 5.5 vs Gemini 4 Carbon
+
+Same prompt, both low effort: gloves on, flat ring, fight loop.
+
+who's better
 ```
 
 <a id="showcase"></a>
