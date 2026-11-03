@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-34 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+39 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
-- [Motion graphics](#motion-graphics) (3)
+- [Motion graphics](#motion-graphics) (4)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (23)
+- [Tests & comparisons](#comparison) (27)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -84,6 +84,18 @@ Gemini 4 Carbon-H 最新的版本测试：
 prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out
 
 感觉Carbon还在优化中，看看这一周会不会发布给 Pro用户使用吧。。。
+```
+
+### Miles Morales vs Green Goblin
+
+[@TimJayas](https://x.com/TimJayas/status/2117646891051889052) · 0:21 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117646891051889052/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117646891051889052?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+gemini 4 argon
+
+> miles morales vs green goblin
+
+can't wait to try this same prompt with gemini 4 carbon
 ```
 
 <a id="anime"></a>
@@ -510,6 +522,81 @@ Claude Opus 5.5 vs Gemini 4 Carbon
 Same prompt, both low effort: gloves on, flat ring, fight loop.
 
 who's better
+```
+
+### Animated SVG of an octopus making breakfast comparison
+
+[@olezhavich](https://x.com/olezhavich/status/2117323673040568439) · 0:13 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117323673040568439/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117323673040568439?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+8 tentacles. 8 jobs. 4 AI models 🐙
+
+Same prompt, one try: an animated SVG of an octopus making breakfast with every single tentacle busy at once.
+
+•Gemini 4 Carbon: the best texture, warm morning lighting, and overall moody kitchen vibe.
+
+•Gemini 4 Argon: best octopus character design and a bright checkered table, though tentacles are a bit stiff.
+
+•Opus 5.5: detailed suckers, great tentacle anatomy, and a pancake caught mid-flip.
+
+•6 Astra: fun acting and sweat-drop panic, but lacks visual depth.
+
+Funny detail: mentioned a cat as an optional gag, and all four models added one.
+
+Carbon takes #1, Argon is a close second. Who's your winner?
+```
+
+### Animated radial engine cutaway compared across four models
+
+[@SamgreyAi](https://x.com/SamgreyAi/status/2117363216036536424) · 0:11 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117363216036536424/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117363216036536424?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+9 cylinders. 4 AI models. Which engine would you trust to keep a plane in the air? 
+
+Same prompt: an animated cutaway of a 9-cylinder radial airplane engine.
+
+Gemini Carbon · Gemini 4 Argon · Claude Opus 5.5 · GPT-6.1 Sol
+
+Ignore the colors and watch the flames. That’s where the four split.
+
+→ Gemini Carbon: the cleanest of the four. Crisp lines, readable combustion in every cylinder, nothing cluttered
+→ Gemini 4 Argon: the warmest. Big amber blasts and a glowing, atmospheric feel, but softer edges
+→ Claude Opus 5.5: the most “engineered.” Curved intake pipes into every cylinder, hot orange and cold blue chambers, and the busiest, most mechanical look
+→ GPT-6.1 Sol: a clean blueprint, but the flames are small and dim, and it feels the quietest
+Same engine, four different answers to “what does fire look like inside a cylinder?”
+
+My eye picks Carbon. My engineer picks Opus.
+Which one would you put in a plane?
+```
+
+### Octopus making breakfast comparison across four models
+
+[@kinderlayer](https://x.com/kinderlayer/status/2117622619990093952) · 0:13 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117622619990093952/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117622619990093952?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+this is f*cking adorable. four models, one prompt: an octopus making breakfast with all eight arms.
+
+Gemini 4 Carbon · Gemini 4 Argon · Claude Opus 5.5 · GPT-6 Astra
+
+eight arms, eight jobs - flipping pancakes, pouring coffee, reading the recipe, frying eggs, all at once. and honestly? they all pulled it off. different vibes, different kitchens, same impossible multitask nailed.
+
+I didn’t touch a thing and I’m not scoring them. so it comes down to taste: whose kitchen would you actually eat breakfast in?
+
+Carbon, Argon, Opus or Astra? drop your pick
+```
+
+### Jelly DVD screensaver comparison between two models
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2117682945116774562) · 0:25 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117682945116774562/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117682945116774562?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+WTF Claude. I asked for the DVD screensaver and it made a f*cking ad for itself
+
+Same prompt: the DVD screensaver, but out of jelly.
+
+Gemini 4 Carbon made the DVD logo.
+
+Claude Opus 5.5 said the DVD logo is trademarked and made the Claude logo instead.
 ```
 
 <a id="showcase"></a>

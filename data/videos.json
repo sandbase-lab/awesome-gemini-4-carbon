@@ -346,24 +346,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113263958136414540"
  },
  {
-  "id": "2113289049075003839",
-  "title": "Isometric street football court benchmark across three models",
-  "title_zh": "三款模型等轴街头足球场生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "olezhavich",
-   "name": "Olezhka"
-  },
-  "postUrl": "https://x.com/olezhavich/status/2113289049075003839",
-  "createdAt": "2026-10-22T15:19:06.000Z",
-  "durationMs": 17949,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113289049075003839/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113289049075003839/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113289049075003839"
- },
- {
   "id": "2113293118695256514",
   "title": "A full interactive car configurator",
   "title_zh": "全功能汽车配置器展示",
@@ -869,7 +851,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon\n\nSVG of a bicycle riding a cow\n\nlook at all the attention to details. from cows eye to bicycle’s peddle everything is perfectly synced in one motion",
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115512016811307487"
  },
@@ -996,7 +978,7 @@
   "durationMs": 25170,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115556773901807873"
  },
@@ -1088,7 +1070,7 @@
   "durationMs": 28733,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115727629861130735/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115727629861130735/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115727629861130735"
  },
@@ -1509,7 +1491,7 @@
   "durationMs": 50000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116392703357558821"
  },
@@ -2066,5 +2048,136 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117269927266484380/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117269927266484380"
+ },
+ {
+  "id": "2117323673040568439",
+  "title": "Animated SVG of an octopus making breakfast comparison",
+  "title_zh": "章鱼做早餐SVG动画多模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "olezhavich",
+   "name": "Olezhka"
+  },
+  "postUrl": "https://x.com/olezhavich/status/2117323673040568439",
+  "createdAt": "2026-11-02T18:31:16.000Z",
+  "durationMs": 12800,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117323673040568439/video.mp4",
+  "promptShared": true,
+  "promptText": "8 tentacles. 8 jobs. 4 AI models 🐙\n\nSame prompt, one try: an animated SVG of an octopus making breakfast with every single tentacle busy at once.\n\n•Gemini 4 Carbon: the best texture, warm morning lighting, and overall moody kitchen vibe.\n\n•Gemini 4 Argon: best octopus character design and a bright checkered table, though tentacles are a bit stiff.\n\n•Opus 5.5: detailed suckers, great tentacle anatomy, and a pancake caught mid-flip.\n\n•6 Astra: fun acting and sweat-drop panic, but lacks visual depth.\n\nFunny detail: mentioned a cat as an optional gag, and all four models added one.\n\nCarbon takes #1, Argon is a close second. Who's your winner?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117323673040568439/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117323673040568439"
+ },
+ {
+  "id": "2117363216036536424",
+  "title": "Animated radial engine cutaway compared across four models",
+  "title_zh": "四款模型生成九缸星型发动机剖面动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SamgreyAi",
+   "name": "Sam"
+  },
+  "postUrl": "https://x.com/SamgreyAi/status/2117363216036536424",
+  "createdAt": "2026-11-02T21:08:24.000Z",
+  "durationMs": 10983,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117363216036536424/video.mp4",
+  "promptShared": true,
+  "promptText": "9 cylinders. 4 AI models. Which engine would you trust to keep a plane in the air? \n\nSame prompt: an animated cutaway of a 9-cylinder radial airplane engine.\n\nGemini Carbon · Gemini 4 Argon · Claude Opus 5.5 · GPT-6.1 Sol\n\nIgnore the colors and watch the flames. That’s where the four split.\n\n→ Gemini Carbon: the cleanest of the four. Crisp lines, readable combustion in every cylinder, nothing cluttered\n→ Gemini 4 Argon: the warmest. Big amber blasts and a glowing, atmospheric feel, but softer edges\n→ Claude Opus 5.5: the most “engineered.” Curved intake pipes into every cylinder, hot orange and cold blue chambers, and the busiest, most mechanical look\n→ GPT-6.1 Sol: a clean blueprint, but the flames are small and dim, and it feels the quietest\nSame engine, four different answers to “what does fire look like inside a cylinder?”\n\nMy eye picks Carbon. My engineer picks Opus.\nWhich one would you put in a plane?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117363216036536424/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117363216036536424"
+ },
+ {
+  "id": "2117622619990093952",
+  "title": "Octopus making breakfast comparison across four models",
+  "title_zh": "四款模型生成章鱼做早餐的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "kinderlayer",
+   "name": "Kinder"
+  },
+  "postUrl": "https://x.com/kinderlayer/status/2117622619990093952",
+  "createdAt": "2026-11-03T14:19:10.000Z",
+  "durationMs": 12800,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117622619990093952/video.mp4",
+  "promptShared": true,
+  "promptText": "this is f*cking adorable. four models, one prompt: an octopus making breakfast with all eight arms.\n\nGemini 4 Carbon · Gemini 4 Argon · Claude Opus 5.5 · GPT-6 Astra\n\neight arms, eight jobs - flipping pancakes, pouring coffee, reading the recipe, frying eggs, all at once. and honestly? they all pulled it off. different vibes, different kitchens, same impossible multitask nailed.\n\nI didn’t touch a thing and I’m not scoring them. so it comes down to taste: whose kitchen would you actually eat breakfast in?\n\nCarbon, Argon, Opus or Astra? drop your pick",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117622619990093952/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117622619990093952"
+ },
+ {
+  "id": "2117624981521592790",
+  "title": "Code-generated video by Gemini 4 Carbon",
+  "title_zh": "Gemini 4 Carbon 纯代码生成的视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "pipeline_os",
+   "name": "Pipeline OS"
+  },
+  "postUrl": "https://x.com/pipeline_os/status/2117624981521592790",
+  "createdAt": "2026-11-03T14:28:33.000Z",
+  "durationMs": 80503,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117624981521592790/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117624981521592790/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117624981521592790"
+ },
+ {
+  "id": "2117646891051889052",
+  "title": "Miles Morales vs Green Goblin",
+  "title_zh": "迈尔斯·莫拉莱斯大战绿魔",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "TimJayas",
+   "name": "Tim Jayas"
+  },
+  "postUrl": "https://x.com/TimJayas/status/2117646891051889052",
+  "createdAt": "2026-11-03T15:55:37.000Z",
+  "durationMs": 20714,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117646891051889052/video.mp4",
+  "promptShared": true,
+  "promptText": "gemini 4 argon\n\n> miles morales vs green goblin\n\ncan't wait to try this same prompt with gemini 4 carbon",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117646891051889052/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117646891051889052"
+ },
+ {
+  "id": "2117648605326557643",
+  "title": "Comparison between Fable 5.5 and Gemini 4 Carbon",
+  "title_zh": "Fable 5.5 与 Gemini 4 Carbon 的生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "pipeline_os",
+   "name": "Pipeline OS"
+  },
+  "postUrl": "https://x.com/pipeline_os/status/2117648605326557643",
+  "createdAt": "2026-11-03T16:02:26.000Z",
+  "durationMs": 65016,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117648605326557643/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117648605326557643/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117648605326557643"
+ },
+ {
+  "id": "2117682945116774562",
+  "title": "Jelly DVD screensaver comparison between two models",
+  "title_zh": "两款模型生成果冻DVD屏幕保护程序对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xRhinoX",
+   "name": "Rhino"
+  },
+  "postUrl": "https://x.com/0xRhinoX/status/2117682945116774562",
+  "createdAt": "2026-11-03T18:18:53.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117682945116774562/video.mp4",
+  "promptShared": true,
+  "promptText": "WTF Claude. I asked for the DVD screensaver and it made a f*cking ad for itself\n\nSame prompt: the DVD screensaver, but out of jelly.\n\nGemini 4 Carbon made the DVD logo.\n\nClaude Opus 5.5 said the DVD logo is trademarked and made the Claude logo instead.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117682945116774562/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117682945116774562"
  }
 ]
