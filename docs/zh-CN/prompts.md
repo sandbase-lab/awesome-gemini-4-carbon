@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 39 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 40 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
 - [动效](#motion-graphics) (4)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (27)
+- [测试对比](#comparison) (28)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -328,26 +328,6 @@ Carbon's balance wheel actually ticks and every gear turns at the right speed
 2 for 2. Carbon is the 3D king right now
 ```
 
-### 卡通邮轮剖面动画模型对比
-
-[@olezhavich](https://x.com/olezhavich/status/2116527640479662179) · 0:28 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116527640479662179/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116527640479662179?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-I asked 3 AI models to cut a cruise ship in half. One of them built fuel tanks, water tanks and an engine control room 🚢
-
-Same prompt, one try each: "All Aboard", a cartoon liner that sails, splits open and shows life on every deck.
-
-Fable 5.1 went for depth: boutique, bow café, a provisions store, H2O tanks, FUEL 1 and FUEL 2, engine control, even the anchor chain. The most "real" ship of the three.
-
-Gemini 4 Carbon went for charm: every room has its own colour, a slide into the pool, a gym, an arcade, a forklift in the cargo hold, a chef with real flames. Reads perfectly on a phone.
-
-GPT-6 Astra has a clean cut, but the palette is so pale that it looks the flattest of the three.
-
-I'd study Fable and board Carbon. Which ship would you pick?
-
-P.S. Fable's provisions store even has a BANANAS section. Can you spot it? 🍌
-```
-
 ### 机械大白鲨模型生成效果对比
 
 [@0xPorterio](https://x.com/0xPorterio/status/2116548548334321967) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116548548334321967/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116548548334321967?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
@@ -597,6 +577,44 @@ Same prompt: the DVD screensaver, but out of jelly.
 Gemini 4 Carbon made the DVD logo.
 
 Claude Opus 5.5 said the DVD logo is trademarked and made the Claude logo instead.
+```
+
+### 手绘城市日落与肌肉车模型对比
+
+[@olezhavich](https://x.com/olezhavich/status/2117706843799658507) · 0:11 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117706843799658507/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117706843799658507?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Is Gemini 4 Carbon still the best? I gave four models a blank page and a pen ✏️
+
+Same prompt, one try each: draw a sunset over a city in about 10 seconds, watch the color flood in, and park an old American muscle car in front.
+
+All four drew it live with a pen (and all four painted the car teal), so it comes down to the details:
+
+>Gemini 4 Carbon: a moody night city, glowing windows and headlight beams across the road. The most cinematic.
+
+>Claude Opus 5.5: the most detailed skyline, with tiny windows, palm trees, a sunburst and birds.
+
+>Gemini 4 Argon: a purple and orange sunset with the sun between the towers, and a nicely drawn car.
+
+>GPT 6 Astra: the cleanest car sketch, but the palest colors.
+
+Is Carbon winning on lighting again, or does Opus still win on detail?
+```
+
+### 缝纫机爆炸图与解构效果对比
+
+[@dromexa](https://x.com/dromexa/status/2118072739864989944) · 0:32 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118072739864989944/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118072739864989944?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+🚨 Gemini 4 Carbon vs Opus 5.5, round 4
+
+Same prompt, one shot each: a sewing machine you can X-ray, cut in half, explode and lay out part by part. And it has to actually make a stitch.
+
+Carbon made a cool f*cking steel machine.
+
+4 for 4. Carbon is untouchable
+
+What should round 5 be? 👇
 ```
 
 <a id="showcase"></a>

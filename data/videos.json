@@ -851,7 +851,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon\n\nSVG of a bicycle riding a cow\n\nlook at all the attention to details. from cows eye to bicycle’s peddle everything is perfectly synced in one motion",
-  "featured": null,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115512016811307487"
  },
@@ -978,7 +978,7 @@
   "durationMs": 25170,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556773901807873/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115556773901807873"
  },
@@ -1606,25 +1606,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116518366919667775"
  },
  {
-  "id": "2116527640479662179",
-  "title": "Cross section of a cartoon cruise ship comparison",
-  "title_zh": "卡通邮轮剖面动画模型对比",
-  "category": "comparison",
-  "author": {
-   "handle": "olezhavich",
-   "name": "Olezhka"
-  },
-  "postUrl": "https://x.com/olezhavich/status/2116527640479662179",
-  "createdAt": "2026-10-31T13:48:07.000Z",
-  "durationMs": 27678,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116527640479662179/video.mp4",
-  "promptShared": true,
-  "promptText": "I asked 3 AI models to cut a cruise ship in half. One of them built fuel tanks, water tanks and an engine control room 🚢\n\nSame prompt, one try each: \"All Aboard\", a cartoon liner that sails, splits open and shows life on every deck.\n\nFable 5.1 went for depth: boutique, bow café, a provisions store, H2O tanks, FUEL 1 and FUEL 2, engine control, even the anchor chain. The most \"real\" ship of the three.\n\nGemini 4 Carbon went for charm: every room has its own colour, a slide into the pool, a gym, an arcade, a forklift in the cargo hold, a chef with real flames. Reads perfectly on a phone.\n\nGPT-6 Astra has a clean cut, but the palette is so pale that it looks the flattest of the three.\n\nI'd study Fable and board Carbon. Which ship would you pick?\n\nP.S. Fable's provisions store even has a BANANAS section. Can you spot it? 🍌",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116527640479662179/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116527640479662179"
- },
- {
   "id": "2116533017934241886",
   "title": "Lantern river night 3D scene",
   "title_zh": "河灯夜景 3D 氛围场景",
@@ -2179,5 +2160,61 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117682945116774562/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117682945116774562"
+ },
+ {
+  "id": "2117706843799658507",
+  "title": "Drawing a city sunset with a muscle car",
+  "title_zh": "手绘城市日落与肌肉车模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "olezhavich",
+   "name": "Olezhka"
+  },
+  "postUrl": "https://x.com/olezhavich/status/2117706843799658507",
+  "createdAt": "2026-11-03T19:53:51.000Z",
+  "durationMs": 11447,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117706843799658507/video.mp4",
+  "promptShared": true,
+  "promptText": "Is Gemini 4 Carbon still the best? I gave four models a blank page and a pen ✏️\n\nSame prompt, one try each: draw a sunset over a city in about 10 seconds, watch the color flood in, and park an old American muscle car in front.\n\nAll four drew it live with a pen (and all four painted the car teal), so it comes down to the details:\n\n>Gemini 4 Carbon: a moody night city, glowing windows and headlight beams across the road. The most cinematic.\n\n>Claude Opus 5.5: the most detailed skyline, with tiny windows, palm trees, a sunburst and birds.\n\n>Gemini 4 Argon: a purple and orange sunset with the sun between the towers, and a nicely drawn car.\n\n>GPT 6 Astra: the cleanest car sketch, but the palest colors.\n\nIs Carbon winning on lighting again, or does Opus still win on detail?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117706843799658507/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117706843799658507"
+ },
+ {
+  "id": "2117959316699586956",
+  "title": "Testing Gemini 4 Argon outputs",
+  "title_zh": "测试Gemini 4 Argon生成效果",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "AI_Screening",
+   "name": "Pranav Reddy"
+  },
+  "postUrl": "https://x.com/AI_Screening/status/2117959316699586956",
+  "createdAt": "2026-11-04T12:37:05.000Z",
+  "durationMs": 14816,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117959316699586956/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117959316699586956/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117959316699586956"
+ },
+ {
+  "id": "2118072739864989944",
+  "title": "Exploded view of an interactive sewing machine",
+  "title_zh": "缝纫机爆炸图与解构效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "dromexa",
+   "name": "Dromexa"
+  },
+  "postUrl": "https://x.com/dromexa/status/2118072739864989944",
+  "createdAt": "2026-11-04T20:07:47.000Z",
+  "durationMs": 32375,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118072739864989944/video.mp4",
+  "promptShared": true,
+  "promptText": "🚨 Gemini 4 Carbon vs Opus 5.5, round 4\n\nSame prompt, one shot each: a sewing machine you can X-ray, cut in half, explode and lay out part by part. And it has to actually make a stitch.\n\nCarbon made a cool f*cking steel machine.\n\n4 for 4. Carbon is untouchable\n\nWhat should round 5 be? 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118072739864989944/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118072739864989944"
  }
 ]
