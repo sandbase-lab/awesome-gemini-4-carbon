@@ -851,7 +851,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon\n\nSVG of a bicycle riding a cow\n\nlook at all the attention to details. from cows eye to bicycle’s peddle everything is perfectly synced in one motion",
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115512016811307487"
  },
@@ -2216,5 +2216,78 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118072739864989944/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118072739864989944"
+ },
+ {
+  "id": "2118310499213312478",
+  "title": "Three.js 3D crane game Mallow Catch demo",
+  "title_zh": "Three.js制作的3D抓娃娃机游戏演示",
+  "category": "game",
+  "author": {
+   "handle": "RenaRoze_doll",
+   "name": "レナロゼ💎AI情報・ゲーム制作"
+  },
+  "postUrl": "https://x.com/RenaRoze_doll/status/2118310499213312478",
+  "createdAt": "2026-11-05T11:52:33.000Z",
+  "durationMs": 32000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118310499213312478/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118310499213312478/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118310499213312478"
+ },
+ {
+  "id": "2118316297410810032",
+  "title": "A bicycle riding a pelican generation test",
+  "title_zh": "鹈鹕骑自行车的生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Haleeeemahh",
+   "name": "Haleemah"
+  },
+  "postUrl": "https://x.com/Haleeeemahh/status/2118316297410810032",
+  "createdAt": "2026-11-05T12:15:36.000Z",
+  "durationMs": 20000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118316297410810032/video.mp4",
+  "promptShared": true,
+  "promptText": "opus 5.5 vs gemini 4 carbon - bicycle riding a pelican \n\nsame prompt, both one shot \n\nwho did it better ?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118316297410810032/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118316297410810032"
+ },
+ {
+  "id": "2118321845091160167",
+  "title": "Three.js generation benchmark in Gemini 4 Carbon",
+  "title_zh": "Gemini 4 Carbon的三维Three.js生成测试",
+  "category": "3d-scene",
+  "author": {
+   "handle": "AI_Screening",
+   "name": "Pranav Reddy"
+  },
+  "postUrl": "https://x.com/AI_Screening/status/2118321845091160167",
+  "createdAt": "2026-11-05T12:37:39.000Z",
+  "durationMs": 23500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118321845091160167/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118321845091160167/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118321845091160167"
+ },
+ {
+  "id": "2118397189022171422",
+  "title": "Test video generated with Gemini Omni 1.2 Flash",
+  "title_zh": "Gemini Omni 1.2 Flash生成的测试视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "notjazii",
+   "name": "J A Z I I"
+  },
+  "postUrl": "https://x.com/notjazii/status/2118397189022171422",
+  "createdAt": "2026-11-05T17:37:02.000Z",
+  "durationMs": 15040,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118397189022171422/video.mp4",
+  "promptShared": false,
+  "featured": 7,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118397189022171422/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118397189022171422"
  }
 ]

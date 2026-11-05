@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 40 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 41 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
 - [动效](#motion-graphics) (4)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (28)
+- [测试对比](#comparison) (29)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -615,6 +615,18 @@ Carbon made a cool f*cking steel machine.
 4 for 4. Carbon is untouchable
 
 What should round 5 be? 👇
+```
+
+### 鹈鹕骑自行车的生成效果对比
+
+[@Haleeeemahh](https://x.com/Haleeeemahh/status/2118316297410810032) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118316297410810032/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118316297410810032?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+opus 5.5 vs gemini 4 carbon - bicycle riding a pelican 
+
+same prompt, both one shot 
+
+who did it better ?
 ```
 
 <a id="showcase"></a>

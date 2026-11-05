@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-40 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+41 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
 - [Motion graphics](#motion-graphics) (4)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (28)
+- [Tests & comparisons](#comparison) (29)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -615,6 +615,18 @@ Carbon made a cool f*cking steel machine.
 4 for 4. Carbon is untouchable
 
 What should round 5 be? 👇
+```
+
+### A bicycle riding a pelican generation test
+
+[@Haleeeemahh](https://x.com/Haleeeemahh/status/2118316297410810032) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118316297410810032/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118316297410810032?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+opus 5.5 vs gemini 4 carbon - bicycle riding a pelican 
+
+same prompt, both one shot 
+
+who did it better ?
 ```
 
 <a id="showcase"></a>
