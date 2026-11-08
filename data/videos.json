@@ -687,7 +687,7 @@
   "durationMs": 31516,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114030630887641448/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114030630887641448/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2114030630887641448"
  },
@@ -1070,7 +1070,7 @@
   "durationMs": 28733,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115727629861130735/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115727629861130735/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115727629861130735"
  },
@@ -1125,7 +1125,7 @@
   "durationMs": 97421,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115794531136258115/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115794531136258115/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115794531136258115"
  },
@@ -1491,7 +1491,7 @@
   "durationMs": 50000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116392703357558821"
  },
@@ -1737,24 +1737,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116621901934002336"
  },
  {
-  "id": "2116633632869613723",
-  "title": "Playable game of a button climbing a sleeping giant",
-  "title_zh": "纽扣攀爬沉睡巨人的可玩游戏",
-  "category": "game",
-  "author": {
-   "handle": "0xRhinoX",
-   "name": "Rhino"
-  },
-  "postUrl": "https://x.com/0xRhinoX/status/2116633632869613723",
-  "createdAt": "2026-10-31T20:49:17.000Z",
-  "durationMs": 41000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116633632869613723/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116633632869613723/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116633632869613723"
- },
- {
   "id": "2116757313575145683",
   "title": "Avengers fighting each other and Ironman transforming",
   "title_zh": "复仇者联盟混战与钢铁侠变身",
@@ -1805,7 +1787,7 @@
   "durationMs": 42841,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116798612361375995/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116798612361375995/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116798612361375995"
  },
@@ -2286,8 +2268,81 @@
   "durationMs": 15040,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118397189022171422/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118397189022171422/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118397189022171422"
+ },
+ {
+  "id": "2118415577299460432",
+  "title": "Interactive rainbow jelly simulation comparison",
+  "title_zh": "可切割彩虹果冻模拟效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xRhinoX",
+   "name": "Rhino"
+  },
+  "postUrl": "https://x.com/0xRhinoX/status/2118415577299460432",
+  "createdAt": "2026-11-05T18:50:06.000Z",
+  "durationMs": 37400,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118415577299460432/video.mp4",
+  "promptShared": true,
+  "promptText": "Fable 5.5 just DESTROYED Gemini 4 Carbon. Its jelly f*cking grows back. I never asked.\n\nSame prompt: rainbow jelly you can cut, nail and torch.\n\nGemini 4 Carbon - $4.30, 32 min\nFable 5.5 - $48.50, 45 min\n\nCarbon made great jelly. Cut it and it stays cut.\nFable decided that wasn't enough. Cut it, nail it, torch it, and it pulls itself back together like the T-1000.\n\n11x the price. Worth it?\n\nEvery new model gets the Rainbow Jelly test. Follow to see who's next.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118415577299460432/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118415577299460432"
+ },
+ {
+  "id": "2118439866203783587",
+  "title": "Multitasking with AI video editing and gaming",
+  "title_zh": "同时进行AI视频剪辑与游戏多任务处理",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "flick__23",
+   "name": "Venkatesh Dhongadi"
+  },
+  "postUrl": "https://x.com/flick__23/status/2118439866203783587",
+  "createdAt": "2026-11-05T20:26:37.000Z",
+  "durationMs": 17166,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118439866203783587/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118439866203783587/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118439866203783587"
+ },
+ {
+  "id": "2118693455442641260",
+  "title": "Peacock riding a bicycle at sunset",
+  "title_zh": "孔雀在日落时分骑自行车",
+  "category": "3d-scene",
+  "author": {
+   "handle": "SahilPanhotra",
+   "name": "Sahil Panhotra | Indie Builder"
+  },
+  "postUrl": "https://x.com/SahilPanhotra/status/2118693455442641260",
+  "createdAt": "2026-11-06T13:14:17.000Z",
+  "durationMs": 12000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118693455442641260/video.mp4",
+  "promptShared": false,
+  "featured": 3,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118693455442641260/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118693455442641260"
+ },
+ {
+  "id": "2119126074995114242",
+  "title": "Interactive 3D snow globe web app comparison",
+  "title_zh": "交互式3D雪花球网页应用对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HeathIsidr64707",
+   "name": "Choik Pizza"
+  },
+  "postUrl": "https://x.com/HeathIsidr64707/status/2119126074995114242",
+  "createdAt": "2026-11-07T17:53:22.000Z",
+  "durationMs": 21633,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119126074995114242/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119126074995114242/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119126074995114242"
  }
 ]

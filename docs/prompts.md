@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-41 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+42 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
 - [Motion graphics](#motion-graphics) (4)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (29)
+- [Tests & comparisons](#comparison) (30)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -627,6 +627,26 @@ opus 5.5 vs gemini 4 carbon - bicycle riding a pelican
 same prompt, both one shot 
 
 who did it better ?
+```
+
+### Interactive rainbow jelly simulation comparison
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2118415577299460432) · 0:37 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118415577299460432/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118415577299460432?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Fable 5.5 just DESTROYED Gemini 4 Carbon. Its jelly f*cking grows back. I never asked.
+
+Same prompt: rainbow jelly you can cut, nail and torch.
+
+Gemini 4 Carbon - $4.30, 32 min
+Fable 5.5 - $48.50, 45 min
+
+Carbon made great jelly. Cut it and it stays cut.
+Fable decided that wasn't enough. Cut it, nail it, torch it, and it pulls itself back together like the T-1000.
+
+11x the price. Worth it?
+
+Every new model gets the Rainbow Jelly test. Follow to see who's next.
 ```
 
 <a id="showcase"></a>

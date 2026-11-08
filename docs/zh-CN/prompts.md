@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 41 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 42 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
 - [动效](#motion-graphics) (4)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (29)
+- [测试对比](#comparison) (30)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -627,6 +627,26 @@ opus 5.5 vs gemini 4 carbon - bicycle riding a pelican
 same prompt, both one shot 
 
 who did it better ?
+```
+
+### 可切割彩虹果冻模拟效果对比
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2118415577299460432) · 0:37 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118415577299460432/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118415577299460432?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Fable 5.5 just DESTROYED Gemini 4 Carbon. Its jelly f*cking grows back. I never asked.
+
+Same prompt: rainbow jelly you can cut, nail and torch.
+
+Gemini 4 Carbon - $4.30, 32 min
+Fable 5.5 - $48.50, 45 min
+
+Carbon made great jelly. Cut it and it stays cut.
+Fable decided that wasn't enough. Cut it, nail it, torch it, and it pulls itself back together like the T-1000.
+
+11x the price. Worth it?
+
+Every new model gets the Rainbow Jelly test. Follow to see who's next.
 ```
 
 <a id="showcase"></a>
