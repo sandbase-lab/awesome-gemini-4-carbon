@@ -2344,5 +2344,61 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119126074995114242/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119126074995114242"
+ },
+ {
+  "id": "2119317415175790947",
+  "title": "Supercar chasing a steam train in Blender",
+  "title_zh": "Blender中超跑追逐蒸汽火车的3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "HeathIsidr64707",
+   "name": "Choik Pizza"
+  },
+  "postUrl": "https://x.com/HeathIsidr64707/status/2119317415175790947",
+  "createdAt": "2026-11-08T06:33:41.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119317415175790947/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119317415175790947/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119317415175790947"
+ },
+ {
+  "id": "2119384683868012706",
+  "title": "Comparing three Gemini models on a Blender chase scene",
+  "title_zh": "三款Gemini模型生成Blender追逐场景的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HeathIsidr64707",
+   "name": "Choik Pizza"
+  },
+  "postUrl": "https://x.com/HeathIsidr64707/status/2119384683868012706",
+  "createdAt": "2026-11-08T11:00:59.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119384683868012706/video.mp4",
+  "promptShared": true,
+  "promptText": "Same Blender prompt across 3 Gemini generations: a supercar chasing a steam train across a forest viaduct.\n\n• 4 Carbon: full night cinema, wet road reflections, volumetric steam (~1h54m, $11.80)\n• 3.8 Flash: flat fog + camera flies straight into a tree at 0:07 lol\n• 4 Argon: clean golden-hour viaduct & smooth smoke\n\n#b3d #blender #Gemini #LLM",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119384683868012706/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119384683868012706"
+ },
+ {
+  "id": "2119445073352089952",
+  "title": "Gemini Carbon versus Claude Opus Blender shark prompt",
+  "title_zh": "Gemini与Claude在Blender中的鲨鱼建模对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HeathIsidr64707",
+   "name": "Choik Pizza"
+  },
+  "postUrl": "https://x.com/HeathIsidr64707/status/2119445073352089952",
+  "createdAt": "2026-11-08T15:00:57.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119445073352089952/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Carbon (H) vs Claude Opus 5.5 (XHigh) in Blender  \n\nSame Blender Python prompt: What will Sisyphus Shark look like in Hungry Shark:World\n\n• Carbon: [1h 29m] · $[8.82] \n• Opus 5.5: [1h 10m] · $[15.66] \n(only coding)\n\nWhich underwater vibe wins for you?\n\n #b3d #blender #Gemini #Claude",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119445073352089952/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119445073352089952"
  }
 ]

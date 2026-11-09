@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 42 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 44 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
 - [动效](#motion-graphics) (4)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (30)
+- [测试对比](#comparison) (32)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -647,6 +647,38 @@ Fable decided that wasn't enough. Cut it, nail it, torch it, and it pulls itself
 11x the price. Worth it?
 
 Every new model gets the Rainbow Jelly test. Follow to see who's next.
+```
+
+### 三款Gemini模型生成Blender追逐场景的对比
+
+[@HeathIsidr64707](https://x.com/HeathIsidr64707/status/2119384683868012706) · 0:10 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119384683868012706/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119384683868012706?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Same Blender prompt across 3 Gemini generations: a supercar chasing a steam train across a forest viaduct.
+
+• 4 Carbon: full night cinema, wet road reflections, volumetric steam (~1h54m, $11.80)
+• 3.8 Flash: flat fog + camera flies straight into a tree at 0:07 lol
+• 4 Argon: clean golden-hour viaduct & smooth smoke
+
+#b3d #blender #Gemini #LLM
+```
+
+### Gemini与Claude在Blender中的鲨鱼建模对比
+
+[@HeathIsidr64707](https://x.com/HeathIsidr64707/status/2119445073352089952) · 0:10 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119445073352089952/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119445073352089952?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon (H) vs Claude Opus 5.5 (XHigh) in Blender  
+
+Same Blender Python prompt: What will Sisyphus Shark look like in Hungry Shark:World
+
+• Carbon: [1h 29m] · $[8.82] 
+• Opus 5.5: [1h 10m] · $[15.66] 
+(only coding)
+
+Which underwater vibe wins for you?
+
+ #b3d #blender #Gemini #Claude
 ```
 
 <a id="showcase"></a>

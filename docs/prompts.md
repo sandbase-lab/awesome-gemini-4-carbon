@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-42 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+44 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
 - [Motion graphics](#motion-graphics) (4)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (30)
+- [Tests & comparisons](#comparison) (32)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -647,6 +647,38 @@ Fable decided that wasn't enough. Cut it, nail it, torch it, and it pulls itself
 11x the price. Worth it?
 
 Every new model gets the Rainbow Jelly test. Follow to see who's next.
+```
+
+### Comparing three Gemini models on a Blender chase scene
+
+[@HeathIsidr64707](https://x.com/HeathIsidr64707/status/2119384683868012706) · 0:10 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119384683868012706/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119384683868012706?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Same Blender prompt across 3 Gemini generations: a supercar chasing a steam train across a forest viaduct.
+
+• 4 Carbon: full night cinema, wet road reflections, volumetric steam (~1h54m, $11.80)
+• 3.8 Flash: flat fog + camera flies straight into a tree at 0:07 lol
+• 4 Argon: clean golden-hour viaduct & smooth smoke
+
+#b3d #blender #Gemini #LLM
+```
+
+### Gemini Carbon versus Claude Opus Blender shark prompt
+
+[@HeathIsidr64707](https://x.com/HeathIsidr64707/status/2119445073352089952) · 0:10 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119445073352089952/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119445073352089952?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon (H) vs Claude Opus 5.5 (XHigh) in Blender  
+
+Same Blender Python prompt: What will Sisyphus Shark look like in Hungry Shark:World
+
+• Carbon: [1h 29m] · $[8.82] 
+• Opus 5.5: [1h 10m] · $[15.66] 
+(only coding)
+
+Which underwater vibe wins for you?
+
+ #b3d #blender #Gemini #Claude
 ```
 
 <a id="showcase"></a>
