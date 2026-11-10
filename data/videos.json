@@ -305,7 +305,7 @@
   "durationMs": 49893,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113185847566876679"
  },
@@ -687,7 +687,7 @@
   "durationMs": 31516,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114030630887641448/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114030630887641448/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2114030630887641448"
  },
@@ -851,7 +851,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon\n\nSVG of a bicycle riding a cow\n\nlook at all the attention to details. from cows eye to bicycle’s peddle everything is perfectly synced in one motion",
-  "featured": null,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115512016811307487/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115512016811307487"
  },
@@ -1491,7 +1491,7 @@
   "durationMs": 50000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116392703357558821/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116392703357558821"
  },
@@ -1737,24 +1737,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116621901934002336"
  },
  {
-  "id": "2116757313575145683",
-  "title": "Avengers fighting each other and Ironman transforming",
-  "title_zh": "复仇者联盟混战与钢铁侠变身",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "chetaslua",
-   "name": "Chetaslua"
-  },
-  "postUrl": "https://x.com/chetaslua/status/2116757313575145683",
-  "createdAt": "2026-11-01T05:00:45.000Z",
-  "durationMs": 68816,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116757313575145683/video.mp4",
-  "promptShared": false,
-  "featured": 1,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116757313575145683/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116757313575145683"
- },
- {
   "id": "2116767284618486044",
   "title": "Three.js mechanical eagle comparison",
   "title_zh": "Three.js 机械鹰生成模型对比",
@@ -1787,7 +1769,7 @@
   "durationMs": 42841,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116798612361375995/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116798612361375995/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116798612361375995"
  },
@@ -2268,7 +2250,7 @@
   "durationMs": 15040,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118397189022171422/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118397189022171422/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118397189022171422"
  },
@@ -2323,7 +2305,7 @@
   "durationMs": 12000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118693455442641260/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2118693455442641260/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2118693455442641260"
  },
@@ -2400,5 +2382,151 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119445073352089952/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119445073352089952"
+ },
+ {
+  "id": "2119533338784313413",
+  "title": "Animated radial aircraft engine across four models",
+  "title_zh": "四款模型生成九缸星型飞机发动机动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xKenny1st",
+   "name": "Kenny1st"
+  },
+  "postUrl": "https://x.com/0xKenny1st/status/2119533338784313413",
+  "createdAt": "2026-11-08T20:51:41.000Z",
+  "durationMs": 10936,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119533338784313413/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Carbon vs Gemini 4 Argon vs Claude Opus 5.5 vs GPT-6.1 Sol\n\nSame prompt: an animated 9-cylinder radial aircraft engine.\n\nAll four get the piston mechanics right. The difference is in the execution: flames, intake pipes, exhaust, detail.\n\nTop left: Gemini 4 Carbon. Top right: Gemini 4 Argon. Bottom left: Claude Opus 5.5. Bottom right: GPT-6.1 Sol.\n\nWhich one gets the engineering award?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119533338784313413/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119533338784313413"
+ },
+ {
+  "id": "2119674579711087021",
+  "title": "Gemini Krypton versus Carbon and Argon comparison",
+  "title_zh": "Gemini Krypton与Carbon和Argon代码生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2119674579711087021",
+  "createdAt": "2026-11-09T06:12:56.000Z",
+  "durationMs": 12000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119674579711087021/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119674579711087021/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119674579711087021"
+ },
+ {
+  "id": "2119705258314043440",
+  "title": "Human body anatomy explorer in Three.js",
+  "title_zh": "Three.js实现的人体解剖结构浏览器",
+  "category": "3d-scene",
+  "author": {
+   "handle": "SimonasLTU1",
+   "name": "Simonas"
+  },
+  "postUrl": "https://x.com/SimonasLTU1/status/2119705258314043440",
+  "createdAt": "2026-11-09T08:14:50.000Z",
+  "durationMs": 57433,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119705258314043440/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119705258314043440/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119705258314043440"
+ },
+ {
+  "id": "2119729206888145162",
+  "title": "Animated SVG of game controller riding a pelican bicycle",
+  "title_zh": "GPT-6.2生成的游戏手柄骑自行车与鹈鹕SVG动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "SongyuKite",
+   "name": "songyuKite"
+  },
+  "postUrl": "https://x.com/SongyuKite/status/2119729206888145162",
+  "createdAt": "2026-11-09T09:50:00.000Z",
+  "durationMs": 7168,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119729206888145162/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini Carbon 还没摸到，又出Gemini Krypton了！\n\n虽然无法使用Gemini 最新的模型 但是GPT 6.2 来了 \n\nGPT-6.2 鹈鹕动画 （GPT6.1 路由过去的）\n\n提示词：\n\n做一个SVG 动画\n\n游戏控制器骑着自行车，骑着鹈鹕，骑着自行车下面有只\n鹈鹕。",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119729206888145162/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119729206888145162"
+ },
+ {
+  "id": "2119761122194751645",
+  "title": "Fantasy castle and fleet scene in Gemini Krypton",
+  "title_zh": "Gemini Krypton生成的巨型城堡与舰队场景",
+  "category": "comparison",
+  "author": {
+   "handle": "NFT_Chen",
+   "name": "SuSu_酥酥👅"
+  },
+  "postUrl": "https://x.com/NFT_Chen/status/2119761122194751645",
+  "createdAt": "2026-11-09T11:56:49.000Z",
+  "durationMs": 45033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119761122194751645/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119761122194751645/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119761122194751645"
+ },
+ {
+  "id": "2119769863187259586",
+  "title": "Side-by-side test of Gemini Krypton, Carbon, and Argon",
+  "title_zh": "Gemini Krypton、Carbon与Argon三模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Lentils80",
+   "name": "Lentils"
+  },
+  "postUrl": "https://x.com/Lentils80/status/2119769863187259586",
+  "createdAt": "2026-11-09T12:31:33.000Z",
+  "durationMs": 46336,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119769863187259586/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119769863187259586/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119769863187259586"
+ },
+ {
+  "id": "2119811022873575426",
+  "title": "Discussion video about upcoming top AI models",
+  "title_zh": "即将发布的顶级AI模型讨论视频",
+  "category": "explainer",
+  "author": {
+   "handle": "kepochnik",
+   "name": "kepo"
+  },
+  "postUrl": "https://x.com/kepochnik/status/2119811022873575426",
+  "createdAt": "2026-11-09T15:15:06.000Z",
+  "durationMs": 36000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119811022873575426/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119811022873575426/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119811022873575426"
+ },
+ {
+  "id": "2119830648315588994",
+  "title": "Cars movie tuner scene recreated in Blender with Claude",
+  "title_zh": "使用Claude在Blender中复刻赛车总动员改装车场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ottollm",
+   "name": "Otto"
+  },
+  "postUrl": "https://x.com/ottollm/status/2119830648315588994",
+  "createdAt": "2026-11-09T16:33:05.000Z",
+  "durationMs": 44929,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119830648315588994/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119830648315588994/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119830648315588994"
  }
 ]

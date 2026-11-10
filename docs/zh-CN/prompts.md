@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 44 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 46 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
-- [动效](#motion-graphics) (4)
+- [动效](#motion-graphics) (5)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (32)
+- [测试对比](#comparison) (33)
 - [模型展示](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -96,6 +96,25 @@ gemini 4 argon
 > miles morales vs green goblin
 
 can't wait to try this same prompt with gemini 4 carbon
+```
+
+### GPT-6.2生成的游戏手柄骑自行车与鹈鹕SVG动画
+
+[@SongyuKite](https://x.com/SongyuKite/status/2119729206888145162) · 0:07 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119729206888145162/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119729206888145162?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini Carbon 还没摸到，又出Gemini Krypton了！
+
+虽然无法使用Gemini 最新的模型 但是GPT 6.2 来了 
+
+GPT-6.2 鹈鹕动画 （GPT6.1 路由过去的）
+
+提示词：
+
+做一个SVG 动画
+
+游戏控制器骑着自行车，骑着鹈鹕，骑着自行车下面有只
+鹈鹕。
 ```
 
 <a id="anime"></a>
@@ -679,6 +698,22 @@ Same Blender Python prompt: What will Sisyphus Shark look like in Hungry Shark:W
 Which underwater vibe wins for you?
 
  #b3d #blender #Gemini #Claude
+```
+
+### 四款模型生成九缸星型飞机发动机动画对比
+
+[@0xKenny1st](https://x.com/0xKenny1st/status/2119533338784313413) · 0:11 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119533338784313413/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119533338784313413?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon vs Gemini 4 Argon vs Claude Opus 5.5 vs GPT-6.1 Sol
+
+Same prompt: an animated 9-cylinder radial aircraft engine.
+
+All four get the piston mechanics right. The difference is in the execution: flames, intake pipes, exhaust, detail.
+
+Top left: Gemini 4 Carbon. Top right: Gemini 4 Argon. Bottom left: Claude Opus 5.5. Bottom right: GPT-6.1 Sol.
+
+Which one gets the engineering award?
 ```
 
 <a id="showcase"></a>

@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-44 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+46 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
-- [Motion graphics](#motion-graphics) (4)
+- [Motion graphics](#motion-graphics) (5)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (32)
+- [Tests & comparisons](#comparison) (33)
 - [Model showcases](#showcase) (5)
 
 <a id="3d-scene"></a>
@@ -96,6 +96,25 @@ gemini 4 argon
 > miles morales vs green goblin
 
 can't wait to try this same prompt with gemini 4 carbon
+```
+
+### Animated SVG of game controller riding a pelican bicycle
+
+[@SongyuKite](https://x.com/SongyuKite/status/2119729206888145162) · 0:07 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119729206888145162/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119729206888145162?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini Carbon 还没摸到，又出Gemini Krypton了！
+
+虽然无法使用Gemini 最新的模型 但是GPT 6.2 来了 
+
+GPT-6.2 鹈鹕动画 （GPT6.1 路由过去的）
+
+提示词：
+
+做一个SVG 动画
+
+游戏控制器骑着自行车，骑着鹈鹕，骑着自行车下面有只
+鹈鹕。
 ```
 
 <a id="anime"></a>
@@ -679,6 +698,22 @@ Same Blender Python prompt: What will Sisyphus Shark look like in Hungry Shark:W
 Which underwater vibe wins for you?
 
  #b3d #blender #Gemini #Claude
+```
+
+### Animated radial aircraft engine across four models
+
+[@0xKenny1st](https://x.com/0xKenny1st/status/2119533338784313413) · 0:11 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2119533338784313413/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2119533338784313413?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon vs Gemini 4 Argon vs Claude Opus 5.5 vs GPT-6.1 Sol
+
+Same prompt: an animated 9-cylinder radial aircraft engine.
+
+All four get the piston mechanics right. The difference is in the execution: flames, intake pipes, exhaust, detail.
+
+Top left: Gemini 4 Carbon. Top right: Gemini 4 Argon. Bottom left: Claude Opus 5.5. Bottom right: GPT-6.1 Sol.
+
+Which one gets the engineering award?
 ```
 
 <a id="showcase"></a>
