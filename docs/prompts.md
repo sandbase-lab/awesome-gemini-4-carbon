@@ -2,12 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-46 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+52 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (2)
-- [Motion graphics](#motion-graphics) (5)
+- [3D scenes](#3d-scene) (4)
+- [Motion graphics](#motion-graphics) (7)
+- [Games](#game) (1)
+- [Product UI](#ui-demo) (1)
 - [Anime](#anime) (1)
 - [Tests & comparisons](#comparison) (33)
 - [Model showcases](#showcase) (5)
@@ -44,6 +46,25 @@ Just look at the aesthetics, the sky colors, the lanterns, the lighting, everyth
 I can easily say Carbon-H is comparable to Opus 5.5 in terms of design quality.
 
 Damn, Google really cooked this time.
+```
+
+### Three.js scene generated with Gemini 4 Carbon
+
+[@SimonasLTU1](https://x.com/SimonasLTU1/status/2120192174239146417) · 0:35 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120192174239146417/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120192174239146417?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Full prompt in the comments. Gemini 4 Carbon - 13 minutes :) Quite nice results with Three.js so far!
+```
+
+### Giant mech stomping through New York City
+
+[@simonw](https://x.com/simonw/status/2120258951594037732) · 1:00 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120258951594037732/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120258951594037732?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini
+
+"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data"
+https://t.co/7hssgBoCMY
 ```
 
 <a id="motion-graphics"></a>
@@ -115,6 +136,60 @@ GPT-6.2 鹈鹕动画 （GPT6.1 路由过去的）
 
 游戏控制器骑着自行车，骑着鹈鹕，骑着自行车下面有只
 鹈鹕。
+```
+
+### Pelican riding a bicycle SVG benchmark test
+
+[@RJasonHA](https://x.com/RJasonHA/status/2120143436481265960) · 0:46 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120143436481265960/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120143436481265960?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+🚨 Gemini 4 Carbon 疑似提前偷跑！中文区首个鹈鹕单车测评来啦！！🔥
+
+跑 Simon Willison 的经典题：Generate an SVG of a pelican riding a bicycle
+
+成本：静态版每张约 7.6k–9.4k token，耗时 2 分钟左右，按标价每张 $0.15–0.19。整轮 5 次调用一共 $1.07。
+
+不足：3 张构图几乎一样，风格多样性一般。
+```
+
+### SVG animation of crabs approaching cycling pelican
+
+[@HarshithLucky3](https://x.com/HarshithLucky3/status/2120236571165368720) · 0:28 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120236571165368720/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120236571165368720?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 carbon medium in AI Studio
+
+SVG of "two aggressive crabs approaching pelican riding a bicycle"
+```
+
+<a id="game"></a>
+
+## Games
+
+### A Flappy Bird style platformer game
+
+[@SimonasLTU1](https://x.com/SimonasLTU1/status/2120186826451288182) · 0:40 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120186826451288182/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120186826451288182?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon. Yes, I'm this professional and serious. Prompt: "Create a game called pooperman, basically it's a flappy bird, but with a guy that poops on clicks, should be three.js graphics, but platformer style." It took 14 minutes to create this game.
+```
+
+<a id="ui-demo"></a>
+
+## Product UI
+
+### Overview demo reel of fourteen vertical apps
+
+[@giyu_codes](https://x.com/giyu_codes/status/2120201582319190381) · 1:25 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120201582319190381/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120201582319190381?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+I got early access from Google to test Gemini 4 Carbon and it surpassed all expectations. 
+
+Using my existing public-data apps as architectural guidance, I asked Carbon to find high value underserved industries with publicly available data so we can build full vertical platforms. The goal was to test it's limits on messy multi-source data reconcilation + 3d WebGL physics and I am genuinely impressed with how it handled data reconciliation and delivery on actionable feedback. 
+
+Here is the overview demo reel for all 14 apps, as well as a post for each app with a longer reel for them individually.
+
+Each app was built into a hosted application successfully. Prompts used to build are given below, but it could be deceiving since it used 4 of my existing apps as a reference 🙂
 ```
 
 <a id="anime"></a>
