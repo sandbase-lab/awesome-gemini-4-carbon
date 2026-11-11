@@ -2,17 +2,18 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 52 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 57 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (4)
-- [动效](#motion-graphics) (7)
+- [3D 场景](#3d-scene) (5)
+- [动效](#motion-graphics) (9)
 - [游戏](#game) (1)
 - [产品界面](#ui-demo) (1)
+- [粒子与形状](#particles) (1)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (33)
-- [模型展示](#showcase) (5)
+- [测试对比](#comparison) (35)
+- [模型展示](#showcase) (4)
 
 <a id="3d-scene"></a>
 
@@ -65,6 +66,31 @@ Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini
 
 "Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data"
 https://t.co/7hssgBoCMY
+```
+
+### 月光沙龙中的小提琴独奏音乐短片
+
+[@IamEmily2050](https://x.com/IamEmily2050/status/2120605361615073681) · 3:00 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120605361615073681/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120605361615073681?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon High /Antigravity 
+
+Build a deterministic, seamless-looping 3-minute (180.000 s, 10,800 frames at 1920x1080, 60 fps) solo-violin concert film titled "NOCTURNE IN D MINOR // SOLO VIOLIN" set in a moonlit Parisian Haussmannian salon, using headless Blender (5.2 LTS+ with Cycles GPU baking) for 3D character, cloth, soft-body, luthiery, and architectural assets, Three.js (latest release, WebGL2) + Vite for real-time rendering, Node.js DSP for 24-bit/48 kHz acoustic audio, and Playwright + FFmpeg for parallel 1080p60 master encoding.
+
+1. Seamless Stateless Determinism & Live/Master Parity
+- Maintain 1:1 parity between the live 60 fps interactive browser preview (`npm run dev`) and the offline 1080p60 MP4 render.
+- Every visual channel, skeletal pose, physics state, particle position, and stereo audio sample must close analytically across the frame 10799 -> frame 0 loop boundary (`|state(0) - state(10800)| < 1e-6`, `< 0.05 mm` scene-graph delta) without a cross-dissolve.
+- Expose `O(1)` stateless frame seeking (`__renderFrame(frameIndex)`, `seek(t)`) with zero reliance on prior frame history: rewinding from mid-film to an earlier frame must produce the exact same RGBA pixel hash. Pre-integrate all periodic, forced, damped second-order ODEs across the full 10,800-frame ring at boot, rather than using stateful frame stepping or gate-windowed lookup tables.
+
+2. Musical Score & Click-Free Single-Voice Acoustic Violin Audio
+- Compose a 180.000 s solo violin score in D minor across G3, D4, A4, and E5: open with an intimate Nocturne Prelude (sul G and sul D cantilena, slurs, subtle portamento, and periodic human rubato), develop into J.S. Bach's Chaconne in D minor (BWV 1004) with rolled 3- and 4-string chords, high-position cantabile (1st to 7th position), and G-D-A-E bariolage arpeggios, and resolve into a quiet senza-vibrato natural-harmonics (flageolet) coda that loops seamlessly back into frame 0.
+- Synthesise `output/perf02_audio.wav` (48 kHz, 24-bit stereo PCM, ~ -18.7 LUFS integrated, <= -1.5 dBTP true peak) strictly from real CC0 studio-recorded solo violin multi-samples (`VSCO-2-CE`), never procedural sawtooth or sine-wave synthesis.
+- Calibrate sample pitch with YIN autocorrelation and render through a strict single-voice dual-head equal-power crossfader (18-45 ms legato slurs, 8 ms bow-change fades, dual-head loop crossfades on long sustains) so two recordings never overlap into chorus beating and mid-note loop boundaries never click. Use real bowed upper-register acoustic harmonic recordings in the coda (zero synthetic sine partials or pseudorandom breath hiss).
+- Couple the acoustic RMS envelope and 2.5-4.5 kHz bridge-hill spectral tilt directly to the 3D bow's instantaneous contact force, bow velocity, and sounding-point distance ahead of the bridge (`r >= 0.70`), then convolve circularly across the 180 s loop seam with a real stereo chamber salon impulse response.
+
+3. Anatomical Soloist, 10-Digit Contact IK, Soft-Tissue Compliance & Gravity Couture (Blender + Three.js)
+- Build the female soloist GLB in headless Blender from CC0 MakeHuman 2-manifold quad anatomy (never procedural lathe/metaball body parts) bound to a continuous `SkinnedMesh` skeleton (`0.000 mm` neck and wrist seam gaps), with 2K/4K PBR dermal maps, Cycles-baked 4K dermal AO/SSS and hair-flow maps (`flipY = false` on glTF UVs), wrapped RGB dermal subsurface scattering, two-shell refractive cornea + iris eyeballs with wet lower-lid tear meniscus, 3D eyebrows and eyelashes, and 10 curved translucent keratin fingernails recessed into refined distal phalanx nail beds.
+- Groom a low recital chignon and smooth `SUBSURF` cranial scalp cap with multi-pass soft feathered hairline strand cards (avoid hard `alphaTest` pixel stair-stepping and grazing cranial rim blowouts). Run a headless Blender `SOFT_BODY` simulation pass on the chignon (`ChignonPin` goal falloff) plus temple-wisp sway shape keys, driven at runtime by head angular acceleration (~50 ms …
 ```
 
 <a id="motion-graphics"></a>
@@ -162,6 +188,25 @@ Gemini 4 carbon medium in AI Studio
 SVG of "two aggressive crabs approaching pelican riding a bicycle"
 ```
 
+### 《香水有毒》AI 制作音乐视频
+
+[@diebbCN](https://x.com/diebbCN/status/2120368913087119450) · 0:32 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120368913087119450/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120368913087119450?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+这是用 Claude Desktop 加 Gemini 4 Argon 做的 MV，效果已经和 Opus 5.5 差不多了。今天出了 Gemini 4 Carbon，晚点再试试。 
+
+提示词：参考 JohnHeibel/ClaudeAnimationBase 的制作方式和视觉风格，为《香水有毒》这首歌做一支 MV。
+```
+
+### 贝多芬风格的钢琴奏鸣曲乐章
+
+[@aug5thmusic](https://x.com/aug5thmusic/status/2120586376089674180) · 4:19 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120586376089674180/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120586376089674180?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon - Piano sonata movement in the style of Beethoven. This is an impressive effort, especially considering how much LLMs have traditionally struggled on the Classical style. I was skeptical at first, but I think Carbon might be on the same level as Astra and Opus when it comes to music.
+Prompt: “In LilyPond, write the opening movement of a piano sonata (in sonata-allegro form) in the style of Beethoven. Return only the code block.”
+```
+
 <a id="game"></a>
 
 ## 游戏
@@ -190,6 +235,29 @@ Using my existing public-data apps as architectural guidance, I asked Carbon to 
 Here is the overview demo reel for all 14 apps, as well as a post for each app with a longer reel for them individually.
 
 Each app was built into a hosted application successfully. Prompts used to build are given below, but it could be deceiving since it used 4 of my existing apps as a reference 🙂
+```
+
+<a id="particles"></a>
+
+## 粒子与形状
+
+### 水面上空的五千架无人机灯光秀模拟
+
+[@sunset_evm](https://x.com/sunset_evm/status/2120275728339964015) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120275728339964015/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120275728339964015?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+I gave Gemini 4 Carbon in /swarm mode one prompt:
+
+"Build a 5,000-drone light show over a night waterfront. One HTML file. No external assets."
+
+What came back:
+- 5,000 glowing drones in a single InstancedMesh at 60 FPS
+- Neon bloom, a city skyline and reflective water
+- 4 formations: spinning Earth, twisting DNA helix, rainbow torus knot, and a phoenix that keeps flapping
+- Drones swirl between shapes instead of sliding in straight lines
+- Live FPS, formation buttons, bloom and swirl sliders
+
+One file. Zero assets and @antigravity
 ```
 
 <a id="anime"></a>
@@ -791,6 +859,40 @@ Top left: Gemini 4 Carbon. Top right: Gemini 4 Argon. Bottom left: Claude Opus 5
 Which one gets the engineering award?
 ```
 
+### 电机控制器PCB设计效果对比
+
+[@seveibar](https://x.com/seveibar/status/2120531821306032607) · 0:59 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120531821306032607/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120531821306032607?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Fable 5.2 High vs Gemini 4 Carbon High
+
+Fable is slightly better but 20x more expensive 😮 ($200 vs $12), not in this video but yea carbon is better than astra at PCB design!
+
+prompt: “Create an SoC linux based motor controller using tscircuit”
+```
+
+### Gemini 与 GPT-6 巨龟星球像素动画对比
+
+[@camperaigg](https://x.com/camperaigg/status/2120575785161670732) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120575785161670732/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120575785161670732?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+🐢⚔️ Google Gemini 4 Carbon vs OpenAI GPT-6 Astra, same prompt, blind head-to-head.
+
+"Build a 30-second pixel-art living World-Turtle planet with rainforest, waterfall, sand dunes, a moving city simulation, and high-quality sound."
+
+Zero code touched. Zero peeking at each other's folders. 🤯
+
+🟦 TOP: CARBON 4 High (Google Gemini 4 Carbon)
+⏱️ 16 min
+🎨 guided camera tour across rainforest, canal city & desert caravan · 56 citizens, 3 barges, twin waterwheels, anvil sparks & 26 dusk sky-lanterns
+
+🟨 BOTTOM: ASTRA 6 High (OpenAI GPT-6 Astra)
+⏱️ 11 min
+🎨 wide space diorama · 32 route-following residents, 3 waterfalls, rainforest rain, turning waterwheel, glowing dusk windows & fireflies
+
+Which one did better here??
+```
+
 <a id="showcase"></a>
 
 ## 模型展示
@@ -831,20 +933,6 @@ do you think this is opus 5.5 level?
 Gemini 4 Carbon checkpoint in the Arena under the name Gemini 4 Argon:
 
 >A freestyle swimmer doing the front crawl using Three.js (single HTML file)
-```
-
-### 体素风3D日本寺庙山谷
-
-[@pankajkumar_dev](https://x.com/pankajkumar_dev/status/2113308975437598966) · 0:56 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113308975437598966/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113308975437598966?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Gemini 4 Carbon, 2nd checkpoint in Arena.
-
-I asked it to build a voxel-style Japanese temple valley in 3D.
-
-The output is very strong and significantly better than Gemini 4 Argon. 
-
-The composition, colors, lighting, reflection and overall scene quality are a clear step up.
 ```
 
 ### 骑摩托的鹈鹕试图吃鱼SVG动画
