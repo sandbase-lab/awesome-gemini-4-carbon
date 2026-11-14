@@ -305,7 +305,7 @@
   "durationMs": 49893,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113185847566876679/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113185847566876679"
  },
@@ -1477,25 +1477,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116392703357558821"
  },
  {
-  "id": "2116445289468850366",
-  "title": "Zombie hand animation model comparison",
-  "title_zh": "丧尸手动画多模型对比测试",
-  "category": "comparison",
-  "author": {
-   "handle": "noclipepe",
-   "name": "noclipepe"
-  },
-  "postUrl": "https://x.com/noclipepe/status/2116445289468850366",
-  "createdAt": "2026-10-31T08:20:53.000Z",
-  "durationMs": 39033,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116445289468850366/video.mp4",
-  "promptShared": true,
-  "promptText": "GEMINI 4 CARBON BURIED OPUS AND ASTRA THIS HALLOWEEN 💀\n\nSame prompt: a zombie hand claws out of a grave and rots down to the bone.\n\n· Gemini 4 Carbon: 1h 23m · $10.2\n· Opus 5.5: 1h 6m · $8.1\n· GPT-6 Astra: 24m · $5.7\n\nCarbon went full horror movie: candlelit graveyard, labeled anatomy at every stage.\nOpus nailed the rot but lost on the scene.\nAstra finished first and built a landing page with a hand on it.\n\nHalloween test via",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116445289468850366/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116445289468850366"
- },
- {
   "id": "2116457996419010907",
   "title": "Procedural 3D aerospace engineering in Three.js",
   "title_zh": "Three.js 程序化 3D 航空航天工程展示",
@@ -2615,7 +2596,7 @@
   "durationMs": 134900,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120185497637024013/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120185497637024013/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120185497637024013"
  },
@@ -2688,7 +2669,7 @@
   "durationMs": 66000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120187064184664162/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120187064184664162/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120187064184664162"
  },
@@ -2778,7 +2759,7 @@
   "durationMs": 77013,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120191944643190808/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120191944643190808/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120191944643190808"
  },
@@ -2910,6 +2891,25 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120199271588737356"
  },
  {
+  "id": "2120199278203449383",
+  "title": "Pelican riding a bicycle SVG animation benchmark",
+  "title_zh": "鹈鹕骑车 SVG 动画基准测试",
+  "category": "comparison",
+  "author": {
+   "handle": "KOF97AI",
+   "name": "Nathan AI Lab ｜ AI Agent 实战"
+  },
+  "postUrl": "https://x.com/KOF97AI/status/2120199278203449383",
+  "createdAt": "2026-11-10T16:57:53.000Z",
+  "durationMs": 13699,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120199278203449383/video.mp4",
+  "promptShared": true,
+  "promptText": "用最简单的基准测试测出模型真实代码生成能力，省去长提示词调试成本\n\n对标模型：Gemini 4 Carbon 对决 Gemini 4 Argon\n测试方式：统一通过 Vertex AI API 调用，零微调无二次修正，纯 One-shot 直出\n测试提示词：\n创建经典的鹈鹕骑车 SVG 动画\n评估重点：首版代码的 SVG 结构完整度、运动轨迹计算与矢量动画流畅度\n\n#Gemini #AI测评",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120199278203449383/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120199278203449383"
+ },
+ {
   "id": "2120200837305884813",
   "title": "An animation generated from a reference image",
   "title_zh": "单张参考图转纯代码生成的动画",
@@ -2923,7 +2923,7 @@
   "durationMs": 15000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120200837305884813/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120200837305884813/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120200837305884813"
  },
@@ -3109,6 +3109,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120213817573740687"
  },
  {
+  "id": "2120217910425866255",
+  "title": "Interactive space featuring a playable 1780 piano",
+  "title_zh": "包含可弹奏1780年钢琴的交互空间",
+  "category": "3d-scene",
+  "author": {
+   "handle": "mwjoffe",
+   "name": "Michael Joffe"
+  },
+  "postUrl": "https://x.com/mwjoffe/status/2120217910425866255",
+  "createdAt": "2026-11-10T18:11:56.000Z",
+  "durationMs": 38533,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120217910425866255/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120217910425866255/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120217910425866255"
+ },
+ {
   "id": "2120225154613801451",
   "title": "Stickman fight animation comparison",
   "title_zh": "火柴人打斗动画对比",
@@ -3290,24 +3308,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120248150011072742"
  },
  {
-  "id": "2120253592430846334",
-  "title": "Automated six-axis industrial robotic arm factory cell",
-  "title_zh": "Three.js 驱动的六轴工业机器人分拣工作站",
-  "category": "3d-scene",
-  "author": {
-   "handle": "sunset_evm",
-   "name": "artem"
-  },
-  "postUrl": "https://x.com/sunset_evm/status/2120253592430846334",
-  "createdAt": "2026-11-10T20:33:43.000Z",
-  "durationMs": 28000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120253592430846334/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120253592430846334/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120253592430846334"
- },
- {
   "id": "2120258900544860495",
   "title": "Multi-model benchmark comparison across physics and rendering",
   "title_zh": "多模型物理仿真与渲染质量评测对比",
@@ -3340,9 +3340,27 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120258951594037732/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini\n\n\"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\"\nhttps://t.co/7hssgBoCMY",
-  "featured": null,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120258951594037732/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120258951594037732"
+ },
+ {
+  "id": "2120265663188996587",
+  "title": "A playable Rubik's Cube in Three.js",
+  "title_zh": "Three.js制作的可玩魔方",
+  "category": "game",
+  "author": {
+   "handle": "sunset_evm",
+   "name": "artem"
+  },
+  "postUrl": "https://x.com/sunset_evm/status/2120265663188996587",
+  "createdAt": "2026-11-10T21:21:41.000Z",
+  "durationMs": 13766,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120265663188996587/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120265663188996587/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120265663188996587"
  },
  {
   "id": "2120275728339964015",
@@ -3362,6 +3380,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120275728339964015/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120275728339964015"
+ },
+ {
+  "id": "2120280429680812198",
+  "title": "Endless musical marble run in Three.js",
+  "title_zh": "Three.js 制作的无尽音乐弹珠塔",
+  "category": "3d-scene",
+  "author": {
+   "handle": "sunset_evm",
+   "name": "artem"
+  },
+  "postUrl": "https://x.com/sunset_evm/status/2120280429680812198",
+  "createdAt": "2026-11-10T22:20:21.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120280429680812198/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120280429680812198/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120280429680812198"
  },
  {
   "id": "2120285278871158902",
@@ -3398,6 +3434,43 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120285901435847047/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120285901435847047"
+ },
+ {
+  "id": "2120304508278632806",
+  "title": "Oboe concerto sheet music generated in LilyPond",
+  "title_zh": "使用LilyPond生成的双簧管协奏曲乐谱",
+  "category": "comparison",
+  "author": {
+   "handle": "aug5thmusic",
+   "name": "Auggie"
+  },
+  "postUrl": "https://x.com/aug5thmusic/status/2120304508278632806",
+  "createdAt": "2026-11-10T23:56:02.000Z",
+  "durationMs": 155566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120304508278632806/video.mp4",
+  "promptShared": true,
+  "promptText": "I gave Gemini 4 Carbon the same oboe concerto prompt I gave to Opus 5.5 on the Baroque AI Music Quiz. I think Opus 5.5’s version is better, but Carbon’s is better than I expected.\n\nPrompt: “In LilyPond, write the opening movement of an oboe concerto in the virtuosic style of Vivaldi, C minor, 2/4 time, allegro. Give the music a serious and regal character, with a variety of runs and dotted rhythms. Use two staves for the basso continuo and one for the oboe. Use the ritornello form, and do not introduce the soloist until the second section. Make the basso continuo part as dynamic and interesting as the oboe.” (High effort)",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120304508278632806/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120304508278632806"
+ },
+ {
+  "id": "2120316212492083205",
+  "title": "Creative video workflow with Fable 5.2 and Carbon",
+  "title_zh": "Fable 5.2 与 Carbon 创意视频制作工作流",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "muratcan",
+   "name": "Muratcan Koylan"
+  },
+  "postUrl": "https://x.com/muratcan/status/2120316212492083205",
+  "createdAt": "2026-11-11T00:42:33.000Z",
+  "durationMs": 12041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120316212492083205/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120316212492083205/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120316212492083205"
  },
  {
   "id": "2120317619588972867",
@@ -3504,7 +3577,7 @@
   "durationMs": 113866,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120393810941456710/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120393810941456710/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120393810941456710"
  },
@@ -3615,6 +3688,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120472656046649627/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120472656046649627"
+ },
+ {
+  "id": "2120479082815029694",
+  "title": "Testing Gemini 4 Carbon with WAN 3.0",
+  "title_zh": "Gemini 4 Carbon 与 WAN 3.0 测试",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Sin_Yiyao",
+   "name": "SinFire"
+  },
+  "postUrl": "https://x.com/Sin_Yiyao/status/2120479082815029694",
+  "createdAt": "2026-11-11T11:29:44.000Z",
+  "durationMs": 16579,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120479082815029694/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120479082815029694/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120479082815029694"
  },
  {
   "id": "2120497733995831640",
@@ -3872,6 +3963,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120599205135937751"
  },
  {
+  "id": "2120599945413574788",
+  "title": "Processing supplier bills with Fable and Carbon",
+  "title_zh": "Fable 与 Carbon 批量处理供应商账单测试",
+  "category": "comparison",
+  "author": {
+   "handle": "runable_hq",
+   "name": "Runable"
+  },
+  "postUrl": "https://x.com/runable_hq/status/2120599945413574788",
+  "createdAt": "2026-11-11T19:30:00.000Z",
+  "durationMs": 18500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120599945413574788/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120599945413574788/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120599945413574788"
+ },
+ {
   "id": "2120605361615073681",
   "title": "Solo violin concert film in moonlit salon",
   "title_zh": "月光沙龙中的小提琴独奏音乐短片",
@@ -3889,5 +3998,152 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120605361615073681/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120605361615073681"
+ },
+ {
+  "id": "2120639142631764046",
+  "title": "Motion video generation comparison between models",
+  "title_zh": "使用Motion工具的视频生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "motion_so",
+   "name": "Motion"
+  },
+  "postUrl": "https://x.com/motion_so/status/2120639142631764046",
+  "createdAt": "2026-11-11T22:05:45.000Z",
+  "durationMs": 32383,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120639142631764046/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120639142631764046/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120639142631764046"
+ },
+ {
+  "id": "2120846360064692377",
+  "title": "Chrome Dino game generation benchmark comparison",
+  "title_zh": "恐龙游戏生成基准多模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2120846360064692377",
+  "createdAt": "2026-11-12T11:49:10.000Z",
+  "durationMs": 27933,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120846360064692377/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120846360064692377/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120846360064692377"
+ },
+ {
+  "id": "2120897880487596186",
+  "title": "Comparing generation output between Fable and Carbon",
+  "title_zh": "Fable与Carbon生成结果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vikktorrrre",
+   "name": "Veee"
+  },
+  "postUrl": "https://x.com/vikktorrrre/status/2120897880487596186",
+  "createdAt": "2026-11-12T15:13:53.000Z",
+  "durationMs": 59900,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120897880487596186/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120897880487596186/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120897880487596186"
+ },
+ {
+  "id": "2120921919427891335",
+  "title": "Flipping an iceberg with Fable and Carbon",
+  "title_zh": "Fable与Carbon模型翻转冰山对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AIMind_Ai",
+   "name": "AiMind"
+  },
+  "postUrl": "https://x.com/AIMind_Ai/status/2120921919427891335",
+  "createdAt": "2026-11-12T16:49:25.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120921919427891335/video.mp4",
+  "promptShared": true,
+  "promptText": "~30x cheaper. Claude Fable 5.2 vs Gemini 4 Carbon, same prompt: flip an iceberg.\n\nClaude Fable 5.2 - ~$10\nGemini 4 Carbon - ~$0.30\n\nOne prompt each, no edits.\n\nCan you tell which one costs $10?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120921919427891335/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120921919427891335"
+ },
+ {
+  "id": "2120944141559550409",
+  "title": "Multi-agent CLI swarm building canvas mini apps",
+  "title_zh": "多智能体终端集群构建画布应用",
+  "category": "ui-demo",
+  "author": {
+   "handle": "shengzheyao",
+   "name": "Shengzhe"
+  },
+  "postUrl": "https://x.com/shengzheyao/status/2120944141559550409",
+  "createdAt": "2026-11-12T18:17:43.000Z",
+  "durationMs": 26500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120944141559550409/video.mp4",
+  "promptShared": false,
+  "featured": 3,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120944141559550409/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120944141559550409"
+ },
+ {
+  "id": "2120978349967458704",
+  "title": "Interactive SVG of a juggling biking lion",
+  "title_zh": "骑车杂耍狮子交互式SVG对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SahilPanhotra",
+   "name": "Sahil Panhotra | Indie Builder"
+  },
+  "postUrl": "https://x.com/SahilPanhotra/status/2120978349967458704",
+  "createdAt": "2026-11-12T20:33:39.000Z",
+  "durationMs": 48000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120978349967458704/video.mp4",
+  "promptShared": true,
+  "promptText": "GEMINI 4 HYDROGEN VS GEMINI 4 CARBON\n\nsame interactive svg prompt: lion biking, juggling across 4 seasons + web audio sfx.\n\nCarbon (bottom) actually nailed the crossing juggling arcs and even added winter breath puffs. \n\nHydrogen (top) straight up faked the juggling by floating the balls in place though its season wipes and container clipping are way cleaner.\n\nCarbon for raw detail & physics. Hydrogen for fast UI logic.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120978349967458704/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120978349967458704"
+ },
+ {
+  "id": "2121030005899825504",
+  "title": "Token count and cost comparison across models",
+  "title_zh": "多款模型Token消耗与生成成本对比",
+  "category": "comparison",
+  "author": {
+   "handle": "luckeyfaraday",
+   "name": "Luckey Faraday"
+  },
+  "postUrl": "https://x.com/luckeyfaraday/status/2121030005899825504",
+  "createdAt": "2026-11-12T23:58:54.000Z",
+  "durationMs": 21012,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2121030005899825504/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2121030005899825504/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121030005899825504"
+ },
+ {
+  "id": "2121314170557612245",
+  "title": "Simulated GTA 6 highway driving gameplay",
+  "title_zh": "模拟GTA 6公路驾驶游戏画面",
+  "category": "game",
+  "author": {
+   "handle": "p0lybender",
+   "name": "PolyBender"
+  },
+  "postUrl": "https://x.com/p0lybender/status/2121314170557612245",
+  "createdAt": "2026-11-13T18:48:05.000Z",
+  "durationMs": 50596,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121314170557612245/video.mp4",
+  "promptShared": true,
+  "promptText": "one prompt to Gemini Carbon: “make GTA 6 gameplay.” it came back with this.\n\nnot a leak. not a trailer. not a dev build. one sentence in, and a model that has seen enough of the real game to fill in everything else.\n\nJason is behind the wheel on a highway. the camera sits just behind the car, the road stretches ahead, traffic moves around him, the HUD glows in the corner. it looks like a clip Rockstar could have put on a loading screen.\n\nnobody wrote the mission. nobody modeled the road. nobody rigged the car. the model guessed what GTA 6 should feel like, and it guessed close enough that you’d pause before calling it fake.\n\nit used to work in one direction. a team spent months building a game, and only then could anyone show it.\n\nnow the footage can show up before the game does. the video isn’t proof that a game exists anymore, it’s just what a sentence looks like when a model finishes it.\n\nand the real GTA 6 is still on its way. a prompt just got the first impression in ahead of Rockstar.\n\nso when the next official trailer drops, how will you tell which one people made?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121314170557612245/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121314170557612245"
  }
 ]

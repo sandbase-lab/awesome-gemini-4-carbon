@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 57 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 61 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (5)
 - [动效](#motion-graphics) (9)
-- [游戏](#game) (1)
+- [游戏](#game) (2)
 - [产品界面](#ui-demo) (1)
 - [粒子与形状](#particles) (1)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (35)
+- [测试对比](#comparison) (38)
 - [模型展示](#showcase) (4)
 
 <a id="3d-scene"></a>
@@ -217,6 +217,28 @@ Prompt: “In LilyPond, write the opening movement of a piano sonata (in sonata-
 
 ```text
 Gemini 4 Carbon. Yes, I'm this professional and serious. Prompt: "Create a game called pooperman, basically it's a flappy bird, but with a guy that poops on clicks, should be three.js graphics, but platformer style." It took 14 minutes to create this game.
+```
+
+### 模拟GTA 6公路驾驶游戏画面
+
+[@p0lybender](https://x.com/p0lybender/status/2121314170557612245) · 0:51 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121314170557612245/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121314170557612245?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+one prompt to Gemini Carbon: “make GTA 6 gameplay.” it came back with this.
+
+not a leak. not a trailer. not a dev build. one sentence in, and a model that has seen enough of the real game to fill in everything else.
+
+Jason is behind the wheel on a highway. the camera sits just behind the car, the road stretches ahead, traffic moves around him, the HUD glows in the corner. it looks like a clip Rockstar could have put on a loading screen.
+
+nobody wrote the mission. nobody modeled the road. nobody rigged the car. the model guessed what GTA 6 should feel like, and it guessed close enough that you’d pause before calling it fake.
+
+it used to work in one direction. a team spent months building a game, and only then could anyone show it.
+
+now the footage can show up before the game does. the video isn’t proof that a game exists anymore, it’s just what a sentence looks like when a model finishes it.
+
+and the real GTA 6 is still on its way. a prompt just got the first impression in ahead of Rockstar.
+
+so when the next official trailer drops, how will you tell which one people made?
 ```
 
 <a id="ui-demo"></a>
@@ -452,26 +474,6 @@ Opus's pumpkin looks washed out. You can barely see the face.
 9x cheaper. 3x faster. Opus got nerfed and now everyone is beating it.
 
 Is Opus still worth $28?
-```
-
-### 丧尸手动画多模型对比测试
-
-[@noclipepe](https://x.com/noclipepe/status/2116445289468850366) · 0:39 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116445289468850366/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116445289468850366?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-GEMINI 4 CARBON BURIED OPUS AND ASTRA THIS HALLOWEEN 💀
-
-Same prompt: a zombie hand claws out of a grave and rots down to the bone.
-
-· Gemini 4 Carbon: 1h 23m · $10.2
-· Opus 5.5: 1h 6m · $8.1
-· GPT-6 Astra: 24m · $5.7
-
-Carbon went full horror movie: candlelit graveyard, labeled anatomy at every stage.
-Opus nailed the rot but lost on the scene.
-Astra finished first and built a landing page with a hand on it.
-
-Halloween test via
 ```
 
 ### 可拆解机械手表 3D 效果对比
@@ -859,6 +861,32 @@ Top left: Gemini 4 Carbon. Top right: Gemini 4 Argon. Bottom left: Claude Opus 5
 Which one gets the engineering award?
 ```
 
+### 鹈鹕骑车 SVG 动画基准测试
+
+[@KOF97AI](https://x.com/KOF97AI/status/2120199278203449383) · 0:14 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120199278203449383/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120199278203449383?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+用最简单的基准测试测出模型真实代码生成能力，省去长提示词调试成本
+
+对标模型：Gemini 4 Carbon 对决 Gemini 4 Argon
+测试方式：统一通过 Vertex AI API 调用，零微调无二次修正，纯 One-shot 直出
+测试提示词：
+创建经典的鹈鹕骑车 SVG 动画
+评估重点：首版代码的 SVG 结构完整度、运动轨迹计算与矢量动画流畅度
+
+#Gemini #AI测评
+```
+
+### 使用LilyPond生成的双簧管协奏曲乐谱
+
+[@aug5thmusic](https://x.com/aug5thmusic/status/2120304508278632806) · 2:36 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120304508278632806/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120304508278632806?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+I gave Gemini 4 Carbon the same oboe concerto prompt I gave to Opus 5.5 on the Baroque AI Music Quiz. I think Opus 5.5’s version is better, but Carbon’s is better than I expected.
+
+Prompt: “In LilyPond, write the opening movement of an oboe concerto in the virtuosic style of Vivaldi, C minor, 2/4 time, allegro. Give the music a serious and regal character, with a variety of runs and dotted rhythms. Use two staves for the basso continuo and one for the oboe. Use the ritornello form, and do not introduce the soloist until the second section. Make the basso continuo part as dynamic and interesting as the oboe.” (High effort)
+```
+
 ### 电机控制器PCB设计效果对比
 
 [@seveibar](https://x.com/seveibar/status/2120531821306032607) · 0:59 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120531821306032607/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120531821306032607?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
@@ -891,6 +919,37 @@ Zero code touched. Zero peeking at each other's folders. 🤯
 🎨 wide space diorama · 32 route-following residents, 3 waterfalls, rainforest rain, turning waterwheel, glowing dusk windows & fireflies
 
 Which one did better here??
+```
+
+### Fable与Carbon模型翻转冰山对比
+
+[@AIMind_Ai](https://x.com/AIMind_Ai/status/2120921919427891335) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120921919427891335/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120921919427891335?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+~30x cheaper. Claude Fable 5.2 vs Gemini 4 Carbon, same prompt: flip an iceberg.
+
+Claude Fable 5.2 - ~$10
+Gemini 4 Carbon - ~$0.30
+
+One prompt each, no edits.
+
+Can you tell which one costs $10?
+```
+
+### 骑车杂耍狮子交互式SVG对比
+
+[@SahilPanhotra](https://x.com/SahilPanhotra/status/2120978349967458704) · 0:48 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120978349967458704/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120978349967458704?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+GEMINI 4 HYDROGEN VS GEMINI 4 CARBON
+
+same interactive svg prompt: lion biking, juggling across 4 seasons + web audio sfx.
+
+Carbon (bottom) actually nailed the crossing juggling arcs and even added winter breath puffs. 
+
+Hydrogen (top) straight up faked the juggling by floating the balls in place though its season wipes and container clipping are way cleaner.
+
+Carbon for raw detail & physics. Hydrogen for fast UI logic.
 ```
 
 <a id="showcase"></a>
