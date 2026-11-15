@@ -2,17 +2,17 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-61 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+64 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (5)
-- [Motion graphics](#motion-graphics) (9)
+- [3D scenes](#3d-scene) (6)
+- [Motion graphics](#motion-graphics) (10)
 - [Games](#game) (2)
 - [Product UI](#ui-demo) (1)
 - [Particles & shapes](#particles) (1)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (38)
+- [Tests & comparisons](#comparison) (39)
 - [Model showcases](#showcase) (4)
 
 <a id="3d-scene"></a>
@@ -91,6 +91,16 @@ Build a deterministic, seamless-looping 3-minute (180.000 s, 10,800 frames at 19
 3. Anatomical Soloist, 10-Digit Contact IK, Soft-Tissue Compliance & Gravity Couture (Blender + Three.js)
 - Build the female soloist GLB in headless Blender from CC0 MakeHuman 2-manifold quad anatomy (never procedural lathe/metaball body parts) bound to a continuous `SkinnedMesh` skeleton (`0.000 mm` neck and wrist seam gaps), with 2K/4K PBR dermal maps, Cycles-baked 4K dermal AO/SSS and hair-flow maps (`flipY = false` on glTF UVs), wrapped RGB dermal subsurface scattering, two-shell refractive cornea + iris eyeballs with wet lower-lid tear meniscus, 3D eyebrows and eyelashes, and 10 curved translucent keratin fingernails recessed into refined distal phalanx nail beds.
 - Groom a low recital chignon and smooth `SUBSURF` cranial scalp cap with multi-pass soft feathered hairline strand cards (avoid hard `alphaTest` pixel stair-stepping and grazing cranial rim blowouts). Run a headless Blender `SOFT_BODY` simulation pass on the chignon (`ChignonPin` goal falloff) plus temple-wisp sway shape keys, driven at runtime by head angular acceleration (~50 ms …
+```
+
+### Solo piano concert film rendered in Three.js
+
+[@IamEmily2050](https://x.com/IamEmily2050/status/2120716006884786498) · 3:00 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120716006884786498/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120716006884786498?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon High/Antigravity 
+
+Build a deterministic, real time capable 3 minute (180.000s, 10,800 frames at 60fps) solo piano concert film titled "PERF-01 // SYMPHONY NO. 7 IN A MAJOR, OP. 92 (II. ALLEGRETTO)" (Franz Liszt solo piano concert transcription S.464/7 of Beethoven's Allegretto) using Three.js 0.187.0 (native WebGPURenderer + three/tsl), headless Blender 5.2+ (Cycles GPU 4K OIDN baking + anatomical sculpting), AI texture lookdev, and multi-velocity grand piano synthesis.
 ```
 
 <a id="motion-graphics"></a>
@@ -205,6 +215,18 @@ SVG of "two aggressive crabs approaching pelican riding a bicycle"
 ```text
 Gemini 4 Carbon - Piano sonata movement in the style of Beethoven. This is an impressive effort, especially considering how much LLMs have traditionally struggled on the Classical style. I was skeptical at first, but I think Carbon might be on the same level as Astra and Opus when it comes to music.
 Prompt: “In LilyPond, write the opening movement of a piano sonata (in sonata-allegro form) in the style of Beethoven. Return only the code block.”
+```
+
+### Showcase video generated with Gemini 4 Carbon
+
+[@husky__create](https://x.com/husky__create/status/2120698249644536114) · 1:00 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120698249644536114/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120698249644536114?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbonにも動画を作ってもろた
+Antigravityから簡単な指示を出すだけで完成🐺
+
+プロンプト：
+あなたができるようになったことを、最大限アピールするような動画を見せてください。その動画自体も、あなたができる最強の動画を見せてほしいです。GSAPやThree.jsを使用してリッチなアニメーションにするもよし。Blenderを操作して細部まで作り込まれた３Dアニメーションを作るもよし。 1分。16:9。作った動画はMP4で書き出してください。
 ```
 
 <a id="game"></a>
@@ -453,27 +475,6 @@ Opus feels more alive. the way they all stare at the one getting squashed got me
 watch till the end, the inside of the black one is where it gets interesting.
 
 is Opus still worth 3x the price?
-```
-
-### Interactive rainbow jelly pumpkin comparison
-
-[@0xRhinoX](https://x.com/0xRhinoX/status/2116301725951013180) · 0:26 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116301725951013180/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116301725951013180?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Gemini 4 Carbon just ANNIHILATED Opus 5.5. For $3.20
-
-Same prompt: a rainbow jelly pumpkin you can carve and light up.
-
-Gemini 4 Carbon - $3.20, 31 min
-Opus 5.5 - $28.73, 1h 50m
-
-Carbon turned it into a full Halloween night: stars, fireflies, a glowing rainbow face and candy you can feed it.
-
-Opus's pumpkin looks washed out. You can barely see the face.
-
-9x cheaper. 3x faster. Opus got nerfed and now everyone is beating it.
-
-Is Opus still worth $28?
 ```
 
 ### Mechanical watch 3D model comparison
@@ -950,6 +951,30 @@ Carbon (bottom) actually nailed the crossing juggling arcs and even added winter
 Hydrogen (top) straight up faked the juggling by floating the balls in place though its season wipes and container clipping are way cleaner.
 
 Carbon for raw detail & physics. Hydrogen for fast UI logic.
+```
+
+### Hot amber glass stretching into teardrop
+
+[@teddyaisi](https://x.com/teddyaisi/status/2121574808324620595) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121574808324620595/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121574808324620595?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon vs Gemini 4 Argon vs Gemini 4 Hydrogen
+
+The Three.js task was to make hot amber glass stretch into a long teardrop, then bunch back up as a blowpipe tilts beside a furnace at midnight.
+
+Which version gives the glass the most convincing weight as it stretches and gathers back up? 👇
+```
+
+### Copper red octopus moving in reef ravine
+
+[@teddyaisi](https://x.com/teddyaisi/status/2121800606406885880) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121800606406885880/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121800606406885880?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon vs Gemini 4 Argon vs Gemini 4 Hydrogen
+
+The Three.js task: a copper-red octopus reaches out, grips a rocky ledge and pulls itself forward in a turquoise reef ravine.
+
+Which octopus makes the arm grip and body pull feel most connected? 👇
 ```
 
 <a id="showcase"></a>
