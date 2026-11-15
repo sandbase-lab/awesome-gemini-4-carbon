@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 64 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 69 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -11,8 +11,9 @@
 - [游戏](#game) (2)
 - [产品界面](#ui-demo) (1)
 - [粒子与形状](#particles) (1)
+- [图表图解](#data-viz) (1)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (39)
+- [测试对比](#comparison) (43)
 - [模型展示](#showcase) (4)
 
 <a id="3d-scene"></a>
@@ -302,6 +303,20 @@ What came back:
 - Live FPS, formation buttons, bloom and swirl sliders
 
 One file. Zero assets and @antigravity
+```
+
+<a id="data-viz"></a>
+
+## 图表图解
+
+### Three.js 交互式离散傅里叶变换周转圆可视化
+
+[@c0tanpoTesh1ta](https://x.com/c0tanpoTesh1ta/status/2121589168996544584) · 0:12 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121589168996544584/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121589168996544584?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini Carbonで、
+
+実際の複素離散フーリエ変換（DFT）と回転するエピサイクル（周転円）の重ね合わせ計算のみで「山の上にいるごじにゃ」を一筆書き描画する、Three.js インタラクティブ数理ビジュアライゼーションを作成して。
 ```
 
 <a id="anime"></a>
@@ -953,6 +968,24 @@ Hydrogen (top) straight up faked the juggling by floating the balls in place tho
 Carbon for raw detail & physics. Hydrogen for fast UI logic.
 ```
 
+### 七款大模型在三组提示词下的生成对比
+
+[@ediz_mercan](https://x.com/ediz_mercan/status/2121275714213203985) · 0:41 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121275714213203985/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121275714213203985?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+google vs anthropic: 7 models, the same 3 prompts, zero human code
+
+istanbul at sunset, a phoenix in svg, a glass of turkish tea 🇹🇷
+
+gemini 4 hydrogen, argon, carbon vs claude haiku, sonnet, opus, fable. then i pushed them to max effort
+
+cheapest: $0.37. most expensive: $34
+
+who did it best? 👇
+
+#Gemini4 #Claude
+```
+
 ### 琥珀色热玻璃拉伸变形Three.js对比
 
 [@teddyaisi](https://x.com/teddyaisi/status/2121574808324620595) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121574808324620595/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121574808324620595?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
@@ -975,6 +1008,54 @@ Gemini 4 Carbon vs Gemini 4 Argon vs Gemini 4 Hydrogen
 The Three.js task: a copper-red octopus reaches out, grips a rocky ledge and pulls itself forward in a turquoise reef ravine.
 
 Which octopus makes the arm grip and body pull feel most connected? 👇
+```
+
+### 九款大模型生成鹈鹕骑自行车SVG动画对比
+
+[@Emproof31825](https://x.com/Emproof31825/status/2121838448940286326) · 4:07 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121838448940286326/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121838448940286326?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+同一个提示词，9 个顶级大模型同台手搓「鹈鹕骑自行车」2D SVG 动画！🚲🦩 不吹不黑，全是本地 CLI 实跑数据👇
+
+⚡ 速度之王：Grok 4.7 (low-fast) 只用 32.2 秒 交卷（162行），Opus 5.5 74.8 秒紧随其后；
+ 🎨 体量卷王：Gemini 4 Argon 直接干出 950 行（双腿+翅膀逆向运动学 IK + 5层视差 + 变速按铃）；Gemini 4 Carbon 也写了 829 行；
+ 🖥️ 全栈装修王：阿里新出的 Qwen 4-Max-Preview 写了 633 行，直接给你整了个带毛玻璃导航和 HUD 仪表盘的小应用（而且我实测它逻辑推理比 Qwen 3.8 快了 3.75 倍，写 Python 并发缓存一次跑通单测！）；
+ 📰 极简海报派：GPT-6-Astra（330行）走莫兰迪绿画报风，克制又高级。
+
+👉 评论区投票：你觉得 9 宫格里哪只鹈鹕骑得最像真的？扣编号我把测试详情发你！
+
+#AI大模型 #千问4 #Qwen4 #GPT6 #ClaudeOpus #Gemini4 #程序员 #AI编程 #前端动画 #科技测评
+```
+
+### 撒哈拉图阿雷格人肖像复刻效果对比
+
+[@leaf_sanren](https://x.com/leaf_sanren/status/2121896725103407413) · 0:10 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121896725103407413/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121896725103407413?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+我的妈😮！现在用好Gemini 4真是红利啊！
+
+我震撼于 Gemini 的复刻能力，真的是视频界的 rea 啊！
+尤其是新的 Gemini 4 更是恐怖如斯。Argon和Hydrogen都这么强，难以想象Carbon啊！
+
+大家可以看一下原片和复刻效果，反推的提示词交给 muse 生成的。
+
+大家也可以试试prompt（直接来自Gemini4输出的文件）👇：
+
+   - **生图**：`Intimate candid documentary close-up portrait in warm Sahara desert sunlight, 9:16 vertical. A weather-tanned Tuareg young man wrapped tightly in coarse faded dusty indigo-blue cotton turban and face veil covering nose and mouth, fine desert sand dust grains speckled naturally across brow creases and eyelashes, eyes lowered/closed gently against blowing wind, 85mm telephoto lens f/2.8, blurred sunlit ochre dune horizon behind, raw skin pores, unretouched 35mm documentary realism.`
+   - **Muse**：`85mm 中长焦贴近人文纪录片固定特写微晃，粗犷干燥的沙漠风把细沙粒吹过青年紧裹着的褪色靛蓝粗布头巾与额间沙尘皮肤，他闭眼承受风沙片刻后缓缓睁开平静深邃的双眼微微偏头避风。严格一镜到底，不要过度磨皮、不要商业广告打光。`
+   - **Seedance**：`Documentary telephoto close-up in windy desert daylight; fine golden sand dust drifts across dusty indigo cotton turban and weathered brow as man slowly opens calm eyes.`
+```
+
+### 多模型 Three.js 熔岩流动效果对比
+
+[@teddyaisi](https://x.com/teddyaisi/status/2121977175612219870) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121977175612219870/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121977175612219870?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon vs Gemini 4 Argon vs Gemini 4 Hydrogen
+
+The Three.js task: thick lava swells, splits its dark crust and folds down rock steps in a violet basalt gorge at twilight. 
+
+Which version best conveys the lava’s weight as it bulges and spills over each ledge? 👇
 ```
 
 <a id="showcase"></a>
