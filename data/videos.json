@@ -1995,25 +1995,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117624981521592790"
  },
  {
-  "id": "2117646891051889052",
-  "title": "Miles Morales vs Green Goblin",
-  "title_zh": "迈尔斯·莫拉莱斯大战绿魔",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "TimJayas",
-   "name": "Tim Jayas"
-  },
-  "postUrl": "https://x.com/TimJayas/status/2117646891051889052",
-  "createdAt": "2026-11-03T15:55:37.000Z",
-  "durationMs": 20714,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117646891051889052/video.mp4",
-  "promptShared": true,
-  "promptText": "gemini 4 argon\n\n> miles morales vs green goblin\n\ncan't wait to try this same prompt with gemini 4 carbon",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117646891051889052/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117646891051889052"
- },
- {
   "id": "2117648605326557643",
   "title": "Comparison between Fable 5.5 and Gemini 4 Carbon",
   "title_zh": "Fable 5.5 与 Gemini 4 Carbon 的生成对比",
@@ -3235,24 +3216,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120245677439783195"
  },
  {
-  "id": "2120248150011072742",
-  "title": "Spider-Man voxel cutscene comparison",
-  "title_zh": "蜘蛛侠体素过场动画模型生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "aimlapi",
-   "name": "AI/ML API"
-  },
-  "postUrl": "https://x.com/aimlapi/status/2120248150011072742",
-  "createdAt": "2026-11-10T20:12:05.000Z",
-  "durationMs": 22958,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120248150011072742/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120248150011072742/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120248150011072742"
- },
- {
   "id": "2120258900544860495",
   "title": "Multi-model benchmark comparison across physics and rendering",
   "title_zh": "多模型物理仿真与渲染质量评测对比",
@@ -3872,24 +3835,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120586376089674180"
  },
  {
-  "id": "2120592468068782284",
-  "title": "Animated peacock SVG comparison",
-  "title_zh": "动态孔雀SVG效果对比测试",
-  "category": "comparison",
-  "author": {
-   "handle": "SahilPanhotra",
-   "name": "Sahil Panhotra | Indie Builder"
-  },
-  "postUrl": "https://x.com/SahilPanhotra/status/2120592468068782284",
-  "createdAt": "2026-11-11T19:00:17.000Z",
-  "durationMs": 10000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120592468068782284/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120592468068782284/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120592468068782284"
- },
- {
   "id": "2120599205135937751",
   "title": "Gemini 4 Carbon versus Claude Fable 5.2 comparison",
   "title_zh": "Gemini 4 Carbon 与 Claude Fable 5.2 代码对比",
@@ -3925,6 +3870,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120605361615073681/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120605361615073681"
+ },
+ {
+  "id": "2120631382099763414",
+  "title": "Qwen 4-Max versus Gemini 4 Carbon comparison",
+  "title_zh": "Qwen 4-Max与Gemini 4 Carbon同提示词对比",
+  "category": "comparison",
+  "author": {
+   "handle": "DrstaOne",
+   "name": "DrstaOne"
+  },
+  "postUrl": "https://x.com/DrstaOne/status/2120631382099763414",
+  "createdAt": "2026-11-11T21:34:55.000Z",
+  "durationMs": 42780,
+  "mp4": "https://www.sandbase.ai/lab/media/x/qwen4-max/2120631382099763414/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/qwen4-max/2120631382099763414/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120631382099763414"
  },
  {
   "id": "2120639142631764046",
@@ -4401,6 +4364,42 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121430579149496491"
  },
  {
+  "id": "2121555445643096066",
+  "title": "Fight animation between Claude and ChatGPT",
+  "title_zh": "Claude对战ChatGPT打斗动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "TimJayas",
+   "name": "Tim Jayas"
+  },
+  "postUrl": "https://x.com/TimJayas/status/2121555445643096066",
+  "createdAt": "2026-11-14T10:46:49.000Z",
+  "durationMs": 34837,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121555445643096066/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121555445643096066/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121555445643096066"
+ },
+ {
+  "id": "2121564749188284782",
+  "title": "Oil rig scene recreated in Gemini 4 Carbon",
+  "title_zh": "使用Gemini 4 Carbon重现海上钻井平台场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "hsprafrique",
+   "name": "Sam Ivere"
+  },
+  "postUrl": "https://x.com/hsprafrique/status/2121564749188284782",
+  "createdAt": "2026-11-14T11:23:47.000Z",
+  "durationMs": 16160,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121564749188284782/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121564749188284782/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121564749188284782"
+ },
+ {
   "id": "2121565599629271069",
   "title": "Cross-section single-cylinder engine simulation comparison",
   "title_zh": "四模型单缸发动机截面运转模拟对比",
@@ -4675,6 +4674,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121838448940286326"
  },
  {
+  "id": "2121876074715889723",
+  "title": "Hyper realistic morning walk with avatar",
+  "title_zh": "使用AI生成的超写实清晨漫步视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "zayyadatullah",
+   "name": "Zayy 👽"
+  },
+  "postUrl": "https://x.com/zayyadatullah/status/2121876074715889723",
+  "createdAt": "2026-11-15T08:00:53.000Z",
+  "durationMs": 10040,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121876074715889723/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121876074715889723/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121876074715889723"
+ },
+ {
   "id": "2121885449509851415",
   "title": "A pelican riding a bike in pure JavaScript",
   "title_zh": "纯JS代码生成的骑自行车鹈鹕",
@@ -4728,6 +4745,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121897847020806350/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121897847020806350"
+ },
+ {
+  "id": "2121945961555718334",
+  "title": "Mobile app UI with smooth physics animation",
+  "title_zh": "具有流畅物理交互效果的移动端应用界面",
+  "category": "ui-demo",
+  "author": {
+   "handle": "thebuggeddev",
+   "name": "The Bugged Dev"
+  },
+  "postUrl": "https://x.com/thebuggeddev/status/2121945961555718334",
+  "createdAt": "2026-11-15T12:38:35.000Z",
+  "durationMs": 31561,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121945961555718334/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121945961555718334/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121945961555718334"
  },
  {
   "id": "2121977175612219870",
@@ -4801,5 +4836,170 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122056178637385754/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122056178637385754"
+ },
+ {
+  "id": "2122105333887934810",
+  "title": "Comparison of four AI models generating icy cathedral",
+  "title_zh": "四款AI模型生成冰雪大教堂的对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2122105333887934810",
+  "createdAt": "2026-11-15T23:11:53.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122105333887934810/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Hydrogen vs Gemini 4 Carbon vs GPT-6.1 Sol vs Muse Spark 1.3 🧊\n\nGoogle vs OpenAI vs Meta. One prompt. 🤯\n\nSame prompt: Cathedral of Ice\nGemini 4 Hydrogen: $4.27 · 1h 23m 40s\nGemini 4 Carbon: $8.83 · 2h 39m 10s\nGPT-6.1 Sol: $3.11 · 54m 19s\nMuse Spark 1.3: $5.56 · 2h\n\nGPT-6.1 Sol was the cheapest and the fastest of all four. 😱\n\nAlmost 3x cheaper and almost 3x faster than Gemini 4 Carbon.\n\nWhich one would you pick? 👀",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122105333887934810/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122105333887934810"
+ },
+ {
+  "id": "2122296954793455971",
+  "title": "Four AI models generating a coastal ride",
+  "title_zh": "四款AI模型生成沿海公路驾驶场景",
+  "category": "comparison",
+  "author": {
+   "handle": "Offloop",
+   "name": "Offloop"
+  },
+  "postUrl": "https://x.com/Offloop/status/2122296954793455971",
+  "createdAt": "2026-11-16T11:53:19.000Z",
+  "durationMs": 6000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122296954793455971/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122296954793455971/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122296954793455971"
+ },
+ {
+  "id": "2122302395615162577",
+  "title": "Point and click adventure game built with AI",
+  "title_zh": "由Gemini 4 carbon开发的点击式冒险游戏",
+  "category": "game",
+  "author": {
+   "handle": "chongdashu",
+   "name": "Chong-U"
+  },
+  "postUrl": "https://x.com/chongdashu/status/2122302395615162577",
+  "createdAt": "2026-11-16T12:14:56.000Z",
+  "durationMs": 69433,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122302395615162577/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122302395615162577/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122302395615162577"
+ },
+ {
+  "id": "2122306957822546139",
+  "title": "Historical ship animation using Gemini 4 carbon",
+  "title_zh": "使用Gemini 4 carbon生成的历史帆船动画",
+  "category": "3d-scene",
+  "author": {
+   "handle": "doe_naps",
+   "name": "Doe"
+  },
+  "postUrl": "https://x.com/doe_naps/status/2122306957822546139",
+  "createdAt": "2026-11-16T12:33:03.000Z",
+  "durationMs": 115797,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122306957822546139/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122306957822546139/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122306957822546139"
+ },
+ {
+  "id": "2122311637684424737",
+  "title": "Niagara Falls experience built by AI swarm",
+  "title_zh": "由AI集群协作构建的尼亚加拉瀑布场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "SahilPanhotra",
+   "name": "Sahil Panhotra | Indie Builder"
+  },
+  "postUrl": "https://x.com/SahilPanhotra/status/2122311637684424737",
+  "createdAt": "2026-11-16T12:51:39.000Z",
+  "durationMs": 54000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122311637684424737/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122311637684424737/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122311637684424737"
+ },
+ {
+  "id": "2122320860694671371",
+  "title": "Gamified 3D quest showing trees talking underground",
+  "title_zh": "展示树木地下交流的3D游戏化探索",
+  "category": "game",
+  "author": {
+   "handle": "noormtir",
+   "name": "Nawwara"
+  },
+  "postUrl": "https://x.com/noormtir/status/2122320860694671371",
+  "createdAt": "2026-11-16T13:28:18.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122320860694671371/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122320860694671371/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122320860694671371"
+ },
+ {
+  "id": "2122357314686448005",
+  "title": "Comparison of Gemini 4 oxygen and carbon models",
+  "title_zh": "Gemini 4 oxygen与carbon模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Mr_Salio",
+   "name": "Salio"
+  },
+  "postUrl": "https://x.com/Mr_Salio/status/2122357314686448005",
+  "createdAt": "2026-11-16T15:53:09.000Z",
+  "durationMs": 30549,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122357314686448005/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122357314686448005/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122357314686448005"
+ },
+ {
+  "id": "2122371382449184989",
+  "title": "Wizard versus stone golem in a night forest",
+  "title_zh": "夜间森林中巫师对决石魔像",
+  "category": "comparison",
+  "author": {
+   "handle": "0xMitto",
+   "name": "Mito"
+  },
+  "postUrl": "https://x.com/0xMitto/status/2122371382449184989",
+  "createdAt": "2026-11-16T16:49:03.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122371382449184989/video.mp4",
+  "promptShared": true,
+  "promptText": "gemini 4 carbon is f*cking insane for 3D scenes.\n\nits FIRST prompt looks as good as claude fable 5.2's FINAL version..\n\n> same prompt, same scene, side by side\n> wizard vs stone golem in a night forest\n> fireball, lava cracks, the golem burns into particles\n> top row = 1 prompt. bottom row = every fix after it\n\nFind the full prompt below ↓\n\nthen judge for yourself which one you'd pay for.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122371382449184989/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122371382449184989"
+ },
+ {
+  "id": "2122424452885717358",
+  "title": "Four models generating a cathedral of ice",
+  "title_zh": "四款模型生成冰之大教堂场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "realdrovex",
+   "name": "Drovex"
+  },
+  "postUrl": "https://x.com/realdrovex/status/2122424452885717358",
+  "createdAt": "2026-11-16T20:19:56.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122424452885717358/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Hydrogen vs Gemini 4 Carbon vs GPT-6.1 Sol vs Muse Spark 1.3 🧊\n\nGoogle vs OpenAI vs Meta. One prompt. 🤯\n\nSame prompt: Cathedral of Ice\nGemini 4 Hydrogen: $4.27 · 1h 23m 40s\nGemini 4 Carbon: $8.83 · 2h 39m 10s\nGPT-6.1 Sol: $3.11 · 54m 19s\nMuse Spark 1.3: $5.56 · 2h\n\nGPT-6.1 Sol was the cheapest and the fastest of all four. 😱\n\nAlmost 3x cheaper and almost 3x faster than Gemini 4 Carbon.\n\nWhich one would you pick? 👀",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122424452885717358/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122424452885717358"
  }
 ]

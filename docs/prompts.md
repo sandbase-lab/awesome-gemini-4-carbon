@@ -2,18 +2,18 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-69 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+71 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (6)
-- [Motion graphics](#motion-graphics) (10)
+- [Motion graphics](#motion-graphics) (9)
 - [Games](#game) (2)
 - [Product UI](#ui-demo) (1)
 - [Particles & shapes](#particles) (1)
 - [Charts & diagrams](#data-viz) (1)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (43)
+- [Tests & comparisons](#comparison) (46)
 - [Model showcases](#showcase) (4)
 
 <a id="3d-scene"></a>
@@ -142,18 +142,6 @@ Gemini 4 Carbon-H 最新的版本测试：
 prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out
 
 感觉Carbon还在优化中，看看这一周会不会发布给 Pro用户使用吧。。。
-```
-
-### Miles Morales vs Green Goblin
-
-[@TimJayas](https://x.com/TimJayas/status/2117646891051889052) · 0:21 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2117646891051889052/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2117646891051889052?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-gemini 4 argon
-
-> miles morales vs green goblin
-
-can't wait to try this same prompt with gemini 4 carbon
 ```
 
 ### Animated SVG of game controller riding a pelican bicycle
@@ -1056,6 +1044,69 @@ Gemini 4 Carbon vs Gemini 4 Argon vs Gemini 4 Hydrogen
 The Three.js task: thick lava swells, splits its dark crust and folds down rock steps in a violet basalt gorge at twilight. 
 
 Which version best conveys the lava’s weight as it bulges and spills over each ledge? 👇
+```
+
+### Comparison of four AI models generating icy cathedral
+
+[@EnvolDev](https://x.com/EnvolDev/status/2122105333887934810) · 0:25 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122105333887934810/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122105333887934810?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen vs Gemini 4 Carbon vs GPT-6.1 Sol vs Muse Spark 1.3 🧊
+
+Google vs OpenAI vs Meta. One prompt. 🤯
+
+Same prompt: Cathedral of Ice
+Gemini 4 Hydrogen: $4.27 · 1h 23m 40s
+Gemini 4 Carbon: $8.83 · 2h 39m 10s
+GPT-6.1 Sol: $3.11 · 54m 19s
+Muse Spark 1.3: $5.56 · 2h
+
+GPT-6.1 Sol was the cheapest and the fastest of all four. 😱
+
+Almost 3x cheaper and almost 3x faster than Gemini 4 Carbon.
+
+Which one would you pick? 👀
+```
+
+### Wizard versus stone golem in a night forest
+
+[@0xMitto](https://x.com/0xMitto/status/2122371382449184989) · 0:25 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122371382449184989/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122371382449184989?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+gemini 4 carbon is f*cking insane for 3D scenes.
+
+its FIRST prompt looks as good as claude fable 5.2's FINAL version..
+
+> same prompt, same scene, side by side
+> wizard vs stone golem in a night forest
+> fireball, lava cracks, the golem burns into particles
+> top row = 1 prompt. bottom row = every fix after it
+
+Find the full prompt below ↓
+
+then judge for yourself which one you'd pay for.
+```
+
+### Four models generating a cathedral of ice
+
+[@realdrovex](https://x.com/realdrovex/status/2122424452885717358) · 0:25 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122424452885717358/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122424452885717358?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen vs Gemini 4 Carbon vs GPT-6.1 Sol vs Muse Spark 1.3 🧊
+
+Google vs OpenAI vs Meta. One prompt. 🤯
+
+Same prompt: Cathedral of Ice
+Gemini 4 Hydrogen: $4.27 · 1h 23m 40s
+Gemini 4 Carbon: $8.83 · 2h 39m 10s
+GPT-6.1 Sol: $3.11 · 54m 19s
+Muse Spark 1.3: $5.56 · 2h
+
+GPT-6.1 Sol was the cheapest and the fastest of all four. 😱
+
+Almost 3x cheaper and almost 3x faster than Gemini 4 Carbon.
+
+Which one would you pick? 👀
 ```
 
 <a id="showcase"></a>
