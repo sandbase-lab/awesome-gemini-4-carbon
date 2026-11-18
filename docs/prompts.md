@@ -2,18 +2,18 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-71 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+79 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (6)
-- [Motion graphics](#motion-graphics) (9)
-- [Games](#game) (2)
+- [Motion graphics](#motion-graphics) (11)
+- [Games](#game) (3)
 - [Product UI](#ui-demo) (1)
 - [Particles & shapes](#particles) (1)
 - [Charts & diagrams](#data-viz) (1)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (46)
+- [Tests & comparisons](#comparison) (51)
 - [Model showcases](#showcase) (4)
 
 <a id="3d-scene"></a>
@@ -218,6 +218,31 @@ Antigravityから簡単な指示を出すだけで完成🐺
 あなたができるようになったことを、最大限アピールするような動画を見せてください。その動画自体も、あなたができる最強の動画を見せてほしいです。GSAPやThree.jsを使用してリッチなアニメーションにするもよし。Blenderを操作して細部まで作り込まれた３Dアニメーションを作るもよし。 1分。16:9。作った動画はMP4で書き出してください。
 ```
 
+### Project demo created with Gemini 4 Carbon
+
+[@IamEmily2050](https://x.com/IamEmily2050/status/2122530276182274435) · 1:00 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122530276182274435/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122530276182274435?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon 
+Antigravity 
+
+It was fun working on this project, I will put everything on GitHup later this weekend, also I attached the prompt.
+```
+
+### SVG animation of Qin Shi Huang riding a bicycle
+
+[@GKev1n](https://x.com/GKev1n/status/2122837186047553933) · 0:36 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122837186047553933/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122837186047553933?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon 是吧？干了 36 分钟是吧？
+
+我 GPT 从今天开始打的就是精锐！
+
+找 GPT 6.2 Astra 画了一下，提示词就一句话，做一个秦始皇骑单车巡视六国的 svg 动画，我觉得比 Carbon 好多了，还是老实做哈基米吧！
+
+另外，不得不吐槽一句，Astra 确实慢啊，在 Codex 里只能跑到 9～14 tps，看来以后急活还真不能找他做了呀，哈哈哈
+```
+
 <a id="game"></a>
 
 ## Games
@@ -250,6 +275,24 @@ now the footage can show up before the game does. the video isn’t proof that a
 and the real GTA 6 is still on its way. a prompt just got the first impression in ahead of Rockstar.
 
 so when the next official trailer drops, how will you tell which one people made?
+```
+
+### Playable Counter-Strike style shooter game
+
+[@VaibhavSisinty](https://x.com/VaibhavSisinty/status/2123144283197002116) · 1:42 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123144283197002116/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123144283197002116?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Logan typed one line.
+
+Make me a CS clone.
+
+One shot. No iteration. No fixes.
+
+A playable Counter-Strike-style shooter, built live in front of us.
+
+This is Gemini 4 Carbon. Logan said it is the best one-shot build he has seen.
+
+One line in. A whole game out.
 ```
 
 <a id="ui-demo"></a>
@@ -974,18 +1017,6 @@ who did it best? 👇
 #Gemini4 #Claude
 ```
 
-### Hot amber glass stretching into teardrop
-
-[@teddyaisi](https://x.com/teddyaisi/status/2121574808324620595) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121574808324620595/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121574808324620595?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Gemini 4 Carbon vs Gemini 4 Argon vs Gemini 4 Hydrogen
-
-The Three.js task was to make hot amber glass stretch into a long teardrop, then bunch back up as a blowpipe tilts beside a furnace at midnight.
-
-Which version gives the glass the most convincing weight as it stretches and gathers back up? 👇
-```
-
 ### Copper red octopus moving in reef ravine
 
 [@teddyaisi](https://x.com/teddyaisi/status/2121800606406885880) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121800606406885880/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121800606406885880?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
@@ -1107,6 +1138,90 @@ GPT-6.1 Sol was the cheapest and the fastest of all four. 😱
 Almost 3x cheaper and almost 3x faster than Gemini 4 Carbon.
 
 Which one would you pick? 👀
+```
+
+### Four model comparison of Three.js humpback whale breach
+
+[@teddyaisi](https://x.com/teddyaisi/status/2122544449968373997) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122544449968373997?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Claude Fable 5.2 vs Gemini 4 Carbon vs GPT-6-Astra vs Gemini 4 Hydrogen
+
+Same prompt. Build a 20-second Three.js humpback whale breach off Icelandic basalt stacks, from bursting out of the swell and rolling mid-air to a broadside slam and final tail lift.
+
+Claude Fable 5.2 (Top left): $19.07 · 71m29s · xhigh
+Gemini 4 Carbon (Top right): $13.11 · 163m18s · high
+GPT-6-Astra (Bottom left): $11.10 · 72m45s · xhigh
+Gemini 4 Hydrogen (Bottom right): $4.27 · 37m27s · xhigh
+
+Fable 5.2 runs 4.5x Hydrogen's API spend for better lighting and a cleaner final beat. 
+
+Which one would you actually pay for?👇
+```
+
+### Side-by-side comparison of peacock generations
+
+[@ValencianaAbel](https://x.com/ValencianaAbel/status/2122880061908910432) · 0:08 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122880061908910432/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122880061908910432?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+GEMINI 4 CARBON really showed up looking like it got lost in the FOG
+
+Same prompt for both: a SUPER REALISTIC peacock in a garden with its tail fully fanned
+
+GPT 6.2 ASTRA built a SHIMMERING iridescent fan in a sunlit stone courtyard and every eye feather is CRISP 
+
+GEMINI 4 CARBON gave me a DULL bronze fan in a misty forest that looks WASHED OUT 
+
+Judge yourself
+```
+
+### Three.js BMW M3 GTR car comparison
+
+[@BilalGreyrat](https://x.com/BilalGreyrat/status/2122897442320396600) · 0:26 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122897442320396600/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122897442320396600?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gpt 6.2 Astra vs Gemini 4 Carbon
+Same prompt make a BMW M3 GTR
+Everything is generated 
+no assets used
+and this is running on browser and for 3d design it uses Three js
+```
+
+### Monet inspired Three.js Tetris game comparison
+
+[@SimonasLTU1](https://x.com/SimonasLTU1/status/2122962883403260262) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122962883403260262/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122962883403260262?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon (Medium) VS. Astra 6.2 (Medium) Ultrafast. Prompt: "Create me a visually stunning Three.js tetris game inspired by the art of Monet". I'd pick Gemini 4 Carbon, but it took over 6 minutes. Astra took seconds, but of course that's just because I wanted to try it on Ultrafast mode, so there's no fair speed comparison here.
+```
+
+### Comparison of 3D scenes from two AI models
+
+[@notjazii](https://x.com/notjazii/status/2122974870250356881) · 0:46 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122974870250356881/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122974870250356881?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+GPT 6.2 Sol vs Gemini 4 Carbon  
+
+tested both model with same prompt at highest reasoning available and results came out really different
+
+> sol took 20 mins and used 6M tokens worth ~$1.6 
+> carbon took 40 mins and used 6.2M tokens worth ~$2.9  
+
+prompt was simple "surprise me in 3d that makes me feel like you are agi model" and both models decided to go with their own approach  
+
+now you decide which model did better here
+```
+
+### Crocodile rising out of the dark
+
+[@realdrovex](https://x.com/realdrovex/status/2123083439171842558) · 0:30 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123083439171842558/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123083439171842558?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+this is f*cking menacing - one of these crocs cost way more to make than the other.
+
+same prompt, two models, a crocodile rising out of the dark.
+
+Claude Fable 5.2 · Gemini 4 Carbon
 ```
 
 <a id="showcase"></a>
