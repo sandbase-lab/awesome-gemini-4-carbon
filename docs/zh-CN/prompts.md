@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 86 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 85 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -14,7 +14,7 @@
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (1)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (55)
+- [测试对比](#comparison) (54)
 - [模型展示](#showcase) (3)
 
 <a id="3d-scene"></a>
@@ -485,23 +485,6 @@ In my opinion Gemini 4 Carbon's output is significantly better than the other tw
 Prompt - 640x360 pixel art of cheetah running
 
 Credits - @HarshithLucky3
-```
-
-### 四款模型生成机械印度孔雀的效果对比
-
-[@srikanthvaluri](https://x.com/srikanthvaluri/status/2114748807464546689) · 0:31 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114748807464546689/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2114748807464546689?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Same prompt, 4 models: mechanical Indian peacock 🦚
-
-Gemini 4 Carbon → most real 
-Opus 5.5 → best animation
-Gpt-6 Astra → clean but pale
-Gpt-6 Sol → less detail
-
-gemini 4 carbon under the name "Gemini 4 Argon" in arena three days back.
-
-Carbon wins for me! Your pick? 👇
 ```
 
 ### 倒啤酒交互式3D网页生成对比

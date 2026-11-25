@@ -708,25 +708,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2114330273710031224"
  },
  {
-  "id": "2114748807464546689",
-  "title": "Four models generating a mechanical Indian peacock",
-  "title_zh": "四款模型生成机械印度孔雀的效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "srikanthvaluri",
-   "name": "Sree"
-  },
-  "postUrl": "https://x.com/srikanthvaluri/status/2114748807464546689",
-  "createdAt": "2026-10-26T15:59:40.000Z",
-  "durationMs": 31104,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114748807464546689/video.mp4",
-  "promptShared": true,
-  "promptText": "Same prompt, 4 models: mechanical Indian peacock 🦚\n\nGemini 4 Carbon → most real \nOpus 5.5 → best animation\nGpt-6 Astra → clean but pale\nGpt-6 Sol → less detail\n\ngemini 4 carbon under the name \"Gemini 4 Argon\" in arena three days back.\n\nCarbon wins for me! Your pick? 👇",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114748807464546689/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2114748807464546689"
- },
- {
   "id": "2114758957181100216",
   "title": "Real-time observation of plants breathing through stomata",
   "title_zh": "实时观察植物通过气孔进行呼吸",
@@ -1455,24 +1436,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116470583097438519/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116470583097438519"
- },
- {
-  "id": "2116482295444148254",
-  "title": "Jellyfish animation in Three.js",
-  "title_zh": "Three.js中的水母动画",
-  "category": "3d-scene",
-  "author": {
-   "handle": "srikanthvaluri",
-   "name": "Sree"
-  },
-  "postUrl": "https://x.com/srikanthvaluri/status/2116482295444148254",
-  "createdAt": "2026-10-31T10:47:56.000Z",
-  "durationMs": 21966,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116482295444148254/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116482295444148254/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116482295444148254"
  },
  {
   "id": "2116502497158201520",
@@ -6024,6 +5987,60 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124484540836245649"
  },
  {
+  "id": "2124643337462550938",
+  "title": "Samurai fighting a sea dragon in ukiyo-e style",
+  "title_zh": "浮世绘风格武士大战海龙对比",
+  "category": "comparison",
+  "author": {
+   "handle": "sunra_ai",
+   "name": "Sunra"
+  },
+  "postUrl": "https://x.com/sunra_ai/status/2124643337462550938",
+  "createdAt": "2026-11-22T23:17:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124643337462550938/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124643337462550938/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124643337462550938"
+ },
+ {
+  "id": "2124702466662973597",
+  "title": "Tower defense game with zombies on a bridge",
+  "title_zh": "桥上僵尸塔防游戏演示",
+  "category": "game",
+  "author": {
+   "handle": "ashen_one",
+   "name": "ashen"
+  },
+  "postUrl": "https://x.com/ashen_one/status/2124702466662973597",
+  "createdAt": "2026-11-23T03:11:57.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124702466662973597/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124702466662973597/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124702466662973597"
+ },
+ {
+  "id": "2124812706167279945",
+  "title": "Custom video created with Gemini High",
+  "title_zh": "为李老师定制制作的视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "ChrisHKAI",
+   "name": "Chris"
+  },
+  "postUrl": "https://x.com/ChrisHKAI/status/2124812706167279945",
+  "createdAt": "2026-11-23T10:30:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124812706167279945/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124812706167279945/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124812706167279945"
+ },
+ {
   "id": "2124815129057611854",
   "title": "Perspective switching game in a hybrid 3D environment",
   "title_zh": "横版与正向视角切换的 2D 与 3D 游戏",
@@ -6133,6 +6150,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125190276646043899"
  },
  {
+  "id": "2125265105042686046",
+  "title": "Gemini singing Scarborough Fair generated with Python code",
+  "title_zh": "Gemini 使用纯 Python 代码演绎斯卡伯勒集市",
+  "category": "particles",
+  "author": {
+   "handle": "Reena_Lin",
+   "name": "Reena Lin"
+  },
+  "postUrl": "https://x.com/Reena_Lin/status/2125265105042686046",
+  "createdAt": "2026-11-24T16:27:41.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125265105042686046/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125265105042686046/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125265105042686046"
+ },
+ {
   "id": "2125271024287515114",
   "title": "Same prompt test with Gemini 4 Carbon",
   "title_zh": "Gemini 4 Carbon 同提示词生成测试",
@@ -6149,6 +6184,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125271024287515114/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125271024287515114"
+ },
+ {
+  "id": "2125275187268796832",
+  "title": "Audio reactive generative visual pipeline coded by Gemini",
+  "title_zh": "Gemini 基于音频与画面生成的代码视觉特效",
+  "category": "particles",
+  "author": {
+   "handle": "JohnnyWang8802",
+   "name": "Johnny Wang"
+  },
+  "postUrl": "https://x.com/JohnnyWang8802/status/2125275187268796832",
+  "createdAt": "2026-11-24T17:07:45.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125275187268796832/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125275187268796832/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125275187268796832"
  },
  {
   "id": "2125322475798192177",
@@ -6168,5 +6221,113 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125322475798192177"
+ },
+ {
+  "id": "2125386619863642238",
+  "title": "Stress testing an After Effects harness with Gemini",
+  "title_zh": "使用 Gemini 对 After Effects 进行压力测试",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "mattwatkajtys",
+   "name": "Matt"
+  },
+  "postUrl": "https://x.com/mattwatkajtys/status/2125386619863642238",
+  "createdAt": "2026-11-25T00:30:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125386619863642238/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125386619863642238/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125386619863642238"
+ },
+ {
+  "id": "2125468599204843550",
+  "title": "Comparison of animated fox across two platforms",
+  "title_zh": "两个平台上狐狸动画生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2125468599204843550",
+  "createdAt": "2026-11-25T05:56:18.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125468599204843550/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125468599204843550/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125468599204843550"
+ },
+ {
+  "id": "2125531079402836303",
+  "title": "Reconstruction of Alan Turing's Cambridge room in 3D",
+  "title_zh": "艾伦·图灵剑桥房间的3D互动重建",
+  "category": "3d-scene",
+  "author": {
+   "handle": "PrimeXBitcoin",
+   "name": "Bhagya Sethi | SuperAura.App"
+  },
+  "postUrl": "https://x.com/PrimeXBitcoin/status/2125531079402836303",
+  "createdAt": "2026-11-25T10:04:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125531079402836303/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125531079402836303/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125531079402836303"
+ },
+ {
+  "id": "2125567189256466919",
+  "title": "Comparison of 3D monuments generated by three models",
+  "title_zh": "三款模型生成的3D纪念碑效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2125567189256466919",
+  "createdAt": "2026-11-25T12:28:03.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125567189256466919/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125567189256466919/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125567189256466919"
+ },
+ {
+  "id": "2125634399660081521",
+  "title": "Video generation test using six reference images",
+  "title_zh": "基于六张参考图像生成的视频测试",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Sin_Yiyao",
+   "name": "SinFire"
+  },
+  "postUrl": "https://x.com/Sin_Yiyao/status/2125634399660081521",
+  "createdAt": "2026-11-25T16:55:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125634399660081521/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125634399660081521/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125634399660081521"
+ },
+ {
+  "id": "2125645549718122888",
+  "title": "Benchmark and cost comparison between frontier models",
+  "title_zh": "前沿大模型跑分与成本对比分析",
+  "category": "comparison",
+  "author": {
+   "handle": "Synapse366",
+   "name": "Synapse"
+  },
+  "postUrl": "https://x.com/Synapse366/status/2125645549718122888",
+  "createdAt": "2026-11-25T17:39:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125645549718122888/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125645549718122888/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125645549718122888"
  }
 ]

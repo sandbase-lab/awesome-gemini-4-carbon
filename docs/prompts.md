@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-86 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+85 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -14,7 +14,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (1)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (55)
+- [Tests & comparisons](#comparison) (54)
 - [Model showcases](#showcase) (3)
 
 <a id="3d-scene"></a>
@@ -485,23 +485,6 @@ In my opinion Gemini 4 Carbon's output is significantly better than the other tw
 Prompt - 640x360 pixel art of cheetah running
 
 Credits - @HarshithLucky3
-```
-
-### Four models generating a mechanical Indian peacock
-
-[@srikanthvaluri](https://x.com/srikanthvaluri/status/2114748807464546689) · 0:31 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2114748807464546689/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2114748807464546689?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Same prompt, 4 models: mechanical Indian peacock 🦚
-
-Gemini 4 Carbon → most real 
-Opus 5.5 → best animation
-Gpt-6 Astra → clean but pale
-Gpt-6 Sol → less detail
-
-gemini 4 carbon under the name "Gemini 4 Argon" in arena three days back.
-
-Carbon wins for me! Your pick? 👇
 ```
 
 ### Pouring beer interactive 3D webpage comparison
