@@ -2,19 +2,20 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 79 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 86 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (6)
-- [动效](#motion-graphics) (11)
+- [动效](#motion-graphics) (13)
 - [游戏](#game) (3)
-- [产品界面](#ui-demo) (1)
+- [产品界面](#ui-demo) (2)
 - [粒子与形状](#particles) (1)
 - [图表图解](#data-viz) (1)
+- [讲解](#explainer) (1)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (51)
-- [模型展示](#showcase) (4)
+- [测试对比](#comparison) (55)
+- [模型展示](#showcase) (3)
 
 <a id="3d-scene"></a>
 
@@ -243,6 +244,37 @@ Gemini 4 Carbon 是吧？干了 36 分钟是吧？
 另外，不得不吐槽一句，Astra 确实慢啊，在 Codex 里只能跑到 9～14 tps，看来以后急活还真不能找他做了呀，哈哈哈
 ```
 
+### 由Gemini Neon生成的动态图形概念短片
+
+[@walter201230pro](https://x.com/walter201230pro/status/2123367292042203600) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123367292042203600/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123367292042203600?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+谷歌疯了，发模型的速度快的惊人。
+
+一度怀疑这发布的是大模型吗？发布大模型的节奏是这样的？  
+
+总体体验下来，neno 很不错，速度快，不像 carbon 那么龟速，干活质量也可以，达到了综合平衡，主要还有就是量足，感觉怎么用都用不完。推荐。  
+
+下面这个视频也是 neno 一键出的，也把提示词给到大家，后面新模型出来了，想看这个模型的视频能力怎么样，直接可以用这句提示词测试。  
+
+提示词：请从零创作并导出一部约 20 秒的 16:9（1920×1080，60fps）Motion Graphics 概念短片，主题围绕你作为「Gemini 4  Neon」的视觉与动效表达力，具体创意、分镜和音乐编排由你自主导演。
+```
+
+### 为云哥定制的视频创作
+
+[@ChrisHKAI](https://x.com/ChrisHKAI/status/2124835361591263335) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124835361591263335/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124835361591263335?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+这次帮 @Leviwoyun 云哥做了个视频， 
+用Gemini 4 Carbon High 做的， 
+喜望云哥喜欢～  
+
+Skill 地址：   
+https://github.com/ChrisHKAI/ChrisHKAI-Video     
+
+用法请看下面文章
+```
+
 <a id="game"></a>
 
 ## 游戏
@@ -313,6 +345,18 @@ Here is the overview demo reel for all 14 apps, as well as a post for each app w
 Each app was built into a hosted application successfully. Prompts used to build are given below, but it could be deceiving since it used 4 of my existing apps as a reference 🙂
 ```
 
+### UI组件磨砂盒3D动画
+
+[@onuro](https://x.com/onuro/status/2123411939359609266) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123411939359609266/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123411939359609266?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Made in @fountible of the day: UI Kit Frost Box 3D Animation. Made using Bro. Model: Gemini 4 Carbon.
+
+See live and remix https://go.fountible.com/amberbox
+
+PS: Static shader/code layer is also in the file. Cheers
+```
+
 <a id="particles"></a>
 
 ## 粒子与形状
@@ -348,6 +392,51 @@ One file. Zero assets and @antigravity
 Gemini Carbonで、
 
 実際の複素離散フーリエ変換（DFT）と回転するエピサイクル（周転円）の重ね合わせ計算のみで「山の上にいるごじにゃ」を一筆書き描画する、Three.js インタラクティブ数理ビジュアライゼーションを作成して。
+```
+
+<a id="explainer"></a>
+
+## 讲解
+
+### 视频逆向工程与提示词重构流程
+
+[@leaf_sanren](https://x.com/leaf_sanren/status/2123687539642933402) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123687539642933402/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123687539642933402?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+妈呀！😮 Antigravity 逆向视频的能力恐怖如斯！！
+到底还有多少人不知道Gemini 4是视频界的 REA 啊！！👏
+
+我都觉得不需要 Gemini 4系列最牛的 Neon或Carbon，Hydrogen 就直接完成了原片的拆解、提示词逆推，然后自行调用 Omni 1.2 Flash 去生成了。
+
+我给你们看看他自己写的提示词，几乎就是专门针对Google Omni模型特质（全能参考多模态）写的非常讨巧的提示词👇，可以自己复用下：
+
+ 接口与参数：
+      • POST https://generativelanguage.googleapis.com/v1beta/interactions
+      • model: "gemini-omni-1.2-flash"，background: true
+      • response_modalities: ["video"]
+      • response_format: {"type": "video", "aspect_ratio": "16:9", "resolution": "360p", "duration": "8s"}
+      • input 数组顺序：[无声参考视频(8.08s)] → Image 1（08_浅奶白圆脸异瞳_v3定妆照.jpg）→ Image
+      2（02_shot02_t5.5s.jpg 红衣机车追兵帧）→ [下方 Prompt]
+
+  1. 前半段（cat_p1，输入 0 ~ 8.08s）原提示词：
+
+    Replicate the EXACT 8-second multi-shot camera cuts, framing, speed, lighting, highway overpass
+    environment, and red armored cyber-biker pursuit (matching Image 2) from the reference video 1-to-1,
+    replacing ONLY the white cat with the chubby pale cream-white heterochromia cat from Image 1 (one
+    bright blue eye, one warm amber eye, round chubby cheeks). Keep the cat's exact mid-air levitating
+    invisible-motorcycle pose — paws raised forward, feet NEVER touching the ground. Keep every camera cut
+    and background detail identical to the reference video.
+
+  2. 后半段（cat_p2，输入 7.0 ~ 15.08s，含结尾张嘴“叮叮”特写）原提示词：
+
+    Replicate the EXACT 8-second multi-shot camera cuts, framing, speed, lighting, highway overpass
+    environment, wide rear overpass chase with the red biker, and the final close-up of the cat's face
+    opening its mouth at the end from the reference video 1-to-1, replacing ONLY the white cat with the
+    chubby pale cream-white heterochromia cat from Image 1 (one bright blue eye, one warm amber eye, round
+    chubby cheeks). Keep the cat's exact mid-air levitating invisible-motorcycle pose — paws raised
+    forward, feet NEVER touching the ground — and match the final mouth-opening expression.
+
+补充一下，因为 omni 模型输入（<10s）和输出（<15s）是有上限的，所以当时是先把原视频的 18 秒加倍速压缩到了 15 秒以内，生成之后再放回原速的。
 ```
 
 <a id="anime"></a>
@@ -1142,7 +1231,7 @@ Which one would you pick? 👀
 
 ### 四款模型生成Three.js座头鲸跃水对比
 
-[@teddyaisi](https://x.com/teddyaisi/status/2122544449968373997) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122544449968373997?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+[@teddyaisi](https://x.com/teddyaisi/status/2122544449968373997) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122544449968373997?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
 
 ```text
 Claude Fable 5.2 vs Gemini 4 Carbon vs GPT-6-Astra vs Gemini 4 Hydrogen
@@ -1175,21 +1264,9 @@ GEMINI 4 CARBON gave me a DULL bronze fan in a misty forest that looks WASHED OU
 Judge yourself
 ```
 
-### 网页端Three.js宝马M3生成对比
-
-[@BilalGreyrat](https://x.com/BilalGreyrat/status/2122897442320396600) · 0:26 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122897442320396600/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122897442320396600?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Gpt 6.2 Astra vs Gemini 4 Carbon
-Same prompt make a BMW M3 GTR
-Everything is generated 
-no assets used
-and this is running on browser and for 3d design it uses Three js
-```
-
 ### 莫奈风格Three.js俄罗斯方块对比
 
-[@SimonasLTU1](https://x.com/SimonasLTU1/status/2122962883403260262) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122962883403260262/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122962883403260262?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+[@SimonasLTU1](https://x.com/SimonasLTU1/status/2122962883403260262) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122962883403260262/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122962883403260262?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
 
 ```text
 Gemini 4 Carbon (Medium) VS. Astra 6.2 (Medium) Ultrafast. Prompt: "Create me a visually stunning Three.js tetris game inspired by the art of Monet". I'd pick Gemini 4 Carbon, but it took over 6 minutes. Astra took seconds, but of course that's just because I wanted to try it on Ultrafast mode, so there's no fair speed comparison here.
@@ -1197,7 +1274,7 @@ Gemini 4 Carbon (Medium) VS. Astra 6.2 (Medium) Ultrafast. Prompt: "Create me a 
 
 ### 两款AI模型生成的3D场景对比
 
-[@notjazii](https://x.com/notjazii/status/2122974870250356881) · 0:46 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122974870250356881/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122974870250356881?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+[@notjazii](https://x.com/notjazii/status/2122974870250356881) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122974870250356881/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122974870250356881?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
 
 ```text
 GPT 6.2 Sol vs Gemini 4 Carbon  
@@ -1222,6 +1299,104 @@ this is f*cking menacing - one of these crocs cost way more to make than the oth
 same prompt, two models, a crocodile rising out of the dark.
 
 Claude Fable 5.2 · Gemini 4 Carbon
+```
+
+### Three.js 逼真地球场景渲染对比
+
+[@analogalok](https://x.com/analogalok/status/2123183353436475636) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123183353436475636/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123183353436475636?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Neon vs. Gemini 4 Carbon.
+
+One prompt. One HTML file. Pure Three.js.
+
+Genuinely looks like Google Earth until you remember an LLM just one shotted the code.
+
+And the new Artificial Analysis numbers just dropped
+
+Gemini 4 Neon just hit 61 on the Artificial Analysis Intelligence Index (up from Carbon's 60) beating Claude Opus 5.5 (59) and sitting right behind GPT-6.2 Astra (62) and Claude Fable 5.2 (65).
+
+The real story is the cost chart:
+
+Claude Fable 5.2 Max: $26.54
+Claude Opus 5.5 Max: $10.04
+Gemini 4 Neon: $6.44
+GPT 6.2 Astra Max: $4.00
+
+Higher score than Opus 5.5 for 36% less. Over 4x cheaper than Fable. Check out the replies for benchmarks.
+
+Prompt: 
+Create a very realistic high quality earth as seen from the space. camera should auto zoom in to the statue of liberty. Make sure the entire zoom is smooth, the earth, clouds, city and the statue is highly detailed and realistic. single html file. use any libs via cdn.
+
+Are we even going to need game engines in 2 years or is it already over?
+```
+
+### 火柴人打斗动画模型对比
+
+[@xiax0603](https://x.com/xiax0603/status/2123198294528811087) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123198294528811087/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123198294528811087?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+🚨火柴人打斗动画实测对比！Gemini 4 Neon表现直逼Carbon
+
+用户同Prompt横向实测Gemini 4系列四款模型的火柴人打斗动画生成效果
+
+结果显示Neon的动作连贯性、画面完成度优于Argon，整体视觉表现与旗舰Carbon差距不大，几乎处于同一水准
+```
+
+### 在Three.js中制作鹈鹕骑自行车
+
+[@YFarmX](https://x.com/YFarmX/status/2123375881443782819) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123375881443782819/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123375881443782819?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+We gave 4 Gemini 4 models the same one-shot prompt: build a detailed 3D pelican riding a bike in Three.js 🚲
+
+Time · cost · output tokens · $ per 1M in/out
+
+Carbon: 9m52s · $0.53 · 52.5k · $2/$10
+Neon: 5m09s · $0.77 · 51.1k · $3/$15
+Hydrogen: 5m08s · $0.31 · 40.5k · $1.5/$7.5
+Argon: 5m27s · $0.26 · 25.3k · $2/$10
+
+Carbon looks best. It thought the longest (17.8k reasoning tokens) and didn't start coding until 4m17s in. The result: a textured, winding road with shadows and the most finished pelican.
+
+Neon is the odd one. It's listed as "a fast, mid-priced model", yet it costs 50% more per token than Carbon. It thought less (13k), started coding at 1m54s and wrote the most code, but its road faces down, so it's invisible.
+
+Hydrogen was the only one that worked untouched with everything visible. Argon, Google's flagship reasoning model, reported zero reasoning tokens. It was the cheapest, but its road faces down too.
+
+Same one 5.2k-character prompt, no follow-ups.
+```
+
+### 冰美式咖啡Three.js模型对比
+
+[@TabbitBrowser](https://x.com/TabbitBrowser/status/2123852190741856596) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123852190741856596/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123852190741856596?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+All four Gemini 4 models are live in Tabbit, so we gave each the same order 🧊
+
+“One 3D iced Americano in Three.js, please.”
+
+Argon · 6m 51s · ~$0.87
+Neon · 11m 57s · ~$3.44
+Carbon · 38m 42s · ~$7.98
+Hydrogen · 21m 05s · ~$5.42 (2 runs)
+
+Which cup are you grabbing? Coffee’s on us ☕
+```
+
+### 多款模型迭代优化网页界面的效果对比
+
+[@DesignArena](https://x.com/DesignArena/status/2125322475798192177) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125322475798192177?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Today’s frontier models claim to fix AI slop in one edit. However, when asked to improve a page again, @GoogleDeepMind's Gemini 4 Carbon kept redesigning it up to edit 10, whereas @AnthropicAI's Claude Fable 5.2 was confident its page was already the best and barely changed it after edit 3.
+
+Design tools increasingly make use of iterative coding agents, but these loops depend on consistent judgment, so follow-up prompts can improve a page without rewriting working layouts.
+
+We gave four frontier models AI-slop web pages and had each model edit each page ten times in a row. Every edit was a separate call with only the latest HTML and the prompt "Make the below website look less like AI slop. Reply with only the complete HTML file."
+
+After each edit, a separate judge call to the same model scored the page from 0% (no AI slop) to 100% (all AI slop).
+
+Every model's judge deemed its work fixed on edit 1. However, @OpenAI's GPT-6.2 Astra kept making updates on later edits, and the other models' judges gave its output the lowest slop scores. @AIatMeta's Muse Wonder, on the other hand, shifted toward formulaic beige layouts with serif headlines.
 ```
 
 <a id="showcase"></a>
@@ -1254,16 +1429,6 @@ i asked carbon to build a 3d bicycle riding a cow using three.js
 since many are speculating it's going to be on par with astra, fable and even opus 5.5 so i'll to check how this output performance against them
 
 do you think this is opus 5.5 level?
-```
-
-### Three.js制作的自由泳运动员
-
-[@AI_Screening](https://x.com/AI_Screening/status/2113144877257248816) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113144877257248816/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113144877257248816?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
-
-```text
-Gemini 4 Carbon checkpoint in the Arena under the name Gemini 4 Argon:
-
->A freestyle swimmer doing the front crawl using Three.js (single HTML file)
 ```
 
 ### 骑摩托的鹈鹕试图吃鱼SVG动画

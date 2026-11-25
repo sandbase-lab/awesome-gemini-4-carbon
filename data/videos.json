@@ -255,25 +255,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113018068981182659"
  },
  {
-  "id": "2113144877257248816",
-  "title": "A freestyle swimmer created using Three.js",
-  "title_zh": "Three.js制作的自由泳运动员",
-  "category": "showcase",
-  "author": {
-   "handle": "AI_Screening",
-   "name": "Pranav Reddy"
-  },
-  "postUrl": "https://x.com/AI_Screening/status/2113144877257248816",
-  "createdAt": "2026-10-22T05:46:13.000Z",
-  "durationMs": 15100,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113144877257248816/video.mp4",
-  "promptShared": true,
-  "promptText": "Gemini 4 Carbon checkpoint in the Arena under the name Gemini 4 Argon:\n\n>A freestyle swimmer doing the front crawl using Three.js (single HTML file)",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2113144877257248816/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2113144877257248816"
- },
- {
   "id": "2113184121883435047",
   "title": "Gemini 4 Carbon vs Opus and GPT-6 Astra",
   "title_zh": "Gemini 4 Carbon对比Opus与GPT-6 Astra",
@@ -923,7 +904,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556254101692515/video.mp4",
   "promptShared": true,
   "promptText": "GOOGLE'S NEW GEMINI 4 CARBON IS SCARY GOOD AT 3D 🥶\n\nOne prompt: a robotic eye that blinks, focuses, then explodes into every part.\n\nGemini 4 Carbon → 29m 49s\n\nWaiting for it on",
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556254101692515/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115556254101692515"
  },
@@ -1620,7 +1601,7 @@
   "durationMs": 53571,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116578168874438910/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116578168874438910/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116578168874438910"
  },
@@ -2509,24 +2490,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120170486353047588"
  },
  {
-  "id": "2120185448727462301",
-  "title": "Galloping zebra animation in Three.js",
-  "title_zh": "Three.js中奔跑的斑马动画",
-  "category": "3d-scene",
-  "author": {
-   "handle": "AI_Screening",
-   "name": "Pranav Reddy"
-  },
-  "postUrl": "https://x.com/AI_Screening/status/2120185448727462301",
-  "createdAt": "2026-11-10T16:02:56.000Z",
-  "durationMs": 17933,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120185448727462301/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120185448727462301/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120185448727462301"
- },
- {
   "id": "2120185497637024013",
   "title": "A music video generated with code",
   "title_zh": "纯代码生成的音乐视频动画",
@@ -2543,6 +2506,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120185497637024013/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120185497637024013"
+ },
+ {
+  "id": "2120186337458585713",
+  "title": "A running zebra rendered in Three.js",
+  "title_zh": "Three.js制作的奔跑斑马动画",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ai_funss",
+   "name": "AI Fun"
+  },
+  "postUrl": "https://x.com/ai_funss/status/2120186337458585713",
+  "createdAt": "2026-11-10T16:06:28.000Z",
+  "durationMs": 17933,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120185448727462301/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": null,
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120186337458585713"
  },
  {
   "id": "2120186354537812452",
@@ -3248,7 +3229,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120258951594037732/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini\n\n\"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\"\nhttps://t.co/7hssgBoCMY",
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120258951594037732/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120258951594037732"
  },
@@ -3705,42 +3686,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120531821306032607/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120531821306032607"
- },
- {
-  "id": "2120560937426198637",
-  "title": "Real-time 3D recreation of the Taj Mahal",
-  "title_zh": "浏览器中的实时 3D 泰姬陵建筑群重现",
-  "category": "3d-scene",
-  "author": {
-   "handle": "vipinxtwt",
-   "name": "Vipin"
-  },
-  "postUrl": "https://x.com/vipinxtwt/status/2120560937426198637",
-  "createdAt": "2026-11-11T16:55:00.000Z",
-  "durationMs": 162965,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120560937426198637/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120560937426198637/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120560937426198637"
- },
- {
-  "id": "2120565588745654500",
-  "title": "Procedural wooden fungi moss in Three.js",
-  "title_zh": "Three.js 程序化生成的木生真菌苔藓",
-  "category": "3d-scene",
-  "author": {
-   "handle": "thebuggeddev",
-   "name": "The Bugged Dev"
-  },
-  "postUrl": "https://x.com/thebuggeddev/status/2120565588745654500",
-  "createdAt": "2026-11-11T17:13:29.000Z",
-  "durationMs": 54425,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120565588745654500/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120565588745654500/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120565588745654500"
  },
  {
   "id": "2120571681991193038",
@@ -4710,24 +4655,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121897847020806350"
  },
  {
-  "id": "2121945961555718334",
-  "title": "Mobile app UI with smooth physics animation",
-  "title_zh": "具有流畅物理交互效果的移动端应用界面",
-  "category": "ui-demo",
-  "author": {
-   "handle": "thebuggeddev",
-   "name": "The Bugged Dev"
-  },
-  "postUrl": "https://x.com/thebuggeddev/status/2121945961555718334",
-  "createdAt": "2026-11-15T12:38:35.000Z",
-  "durationMs": 31561,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121945961555718334/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2121945961555718334/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2121945961555718334"
- },
- {
   "id": "2121977175612219870",
   "title": "Lava flow comparison in Three.js across models",
   "title_zh": "多模型 Three.js 熔岩流动效果对比",
@@ -5048,7 +4975,7 @@
   },
   "postUrl": "https://x.com/GlitterPixely/status/2122469864505798795",
   "createdAt": "2026-11-16T23:20:23.000Z",
-  "durationMs": 84427,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122469864505798795/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -5069,7 +4996,7 @@
   "durationMs": 22351,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122509308797579477/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122509308797579477/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122509308797579477"
  },
@@ -5121,7 +5048,7 @@
   },
   "postUrl": "https://x.com/teddyaisi/status/2122544449968373997",
   "createdAt": "2026-11-17T04:16:46.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4",
   "promptShared": true,
   "promptText": "Claude Fable 5.2 vs Gemini 4 Carbon vs GPT-6-Astra vs Gemini 4 Hydrogen\n\nSame prompt. Build a 20-second Three.js humpback whale breach off Icelandic basalt stacks, from bursting out of the swell and rolling mid-air to a broadside slam and final tail lift.\n\nClaude Fable 5.2 (Top left): $19.07 · 71m29s · xhigh\nGemini 4 Carbon (Top right): $13.11 · 163m18s · high\nGPT-6-Astra (Bottom left): $11.10 · 72m45s · xhigh\nGemini 4 Hydrogen (Bottom right): $4.27 · 37m27s · xhigh\n\nFable 5.2 runs 4.5x Hydrogen's API spend for better lighting and a cleaner final beat. \n\nWhich one would you actually pay for?👇",
@@ -5164,24 +5091,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122645874249699423/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122645874249699423"
- },
- {
-  "id": "2122672349883572618",
-  "title": "Blender 3D environment benchmark between two models",
-  "title_zh": "两款模型在Blender中的3D环境生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "vipinxtwt",
-   "name": "Vipin"
-  },
-  "postUrl": "https://x.com/vipinxtwt/status/2122672349883572618",
-  "createdAt": "2026-11-17T12:45:00.000Z",
-  "durationMs": 15000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122672349883572618/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122672349883572618/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122672349883572618"
  },
  {
   "id": "2122680051753751000",
@@ -5230,7 +5139,7 @@
   },
   "postUrl": "https://x.com/SkadooshGG/status/2122738097234571580",
   "createdAt": "2026-11-17T17:06:15.000Z",
-  "durationMs": 19000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122738097234571580/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -5248,7 +5157,7 @@
   },
   "postUrl": "https://x.com/sunset_evm/status/2122756907312050568",
   "createdAt": "2026-11-17T18:21:00.000Z",
-  "durationMs": 24000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122756907312050568/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -5328,6 +5237,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122809178963980761"
  },
  {
+  "id": "2122828126787149966",
+  "title": "BMW M3 GTR sports car comparison",
+  "title_zh": "宝马 M3 GTR 跑车 3D 效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "camperaigg",
+   "name": "camper 🦎🎣"
+  },
+  "postUrl": "https://x.com/camperaigg/status/2122828126787149966",
+  "createdAt": "2026-11-17T23:04:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122828126787149966/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122897442320396600/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122828126787149966"
+ },
+ {
   "id": "2122837186047553933",
   "title": "SVG animation of Qin Shi Huang riding a bicycle",
   "title_zh": "秦始皇骑单车巡视六国的SVG动画",
@@ -5357,7 +5284,7 @@
   },
   "postUrl": "https://x.com/hakmgpt/status/2122850005212135719",
   "createdAt": "2026-11-18T00:30:56.000Z",
-  "durationMs": 59586,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122850005212135719/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -5382,25 +5309,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122880061908910432/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122880061908910432"
- },
- {
-  "id": "2122897442320396600",
-  "title": "Three.js BMW M3 GTR car comparison",
-  "title_zh": "网页端Three.js宝马M3生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "BilalGreyrat",
-   "name": "Kairoth"
-  },
-  "postUrl": "https://x.com/BilalGreyrat/status/2122897442320396600",
-  "createdAt": "2026-11-18T03:39:26.000Z",
-  "durationMs": 26000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122897442320396600/video.mp4",
-  "promptShared": true,
-  "promptText": "Gpt 6.2 Astra vs Gemini 4 Carbon\nSame prompt make a BMW M3 GTR\nEverything is generated \nno assets used\nand this is running on browser and for 3d design it uses Three js",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122897442320396600/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122897442320396600"
  },
  {
   "id": "2122918981208011114",
@@ -5439,6 +5347,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122923628589449461"
  },
  {
+  "id": "2122924744110662036",
+  "title": "Giant mech city comparison in Three.js",
+  "title_zh": "Three.js巨型机甲城市对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ZSS_HK",
+   "name": "张睒睒 🚀"
+  },
+  "postUrl": "https://x.com/ZSS_HK/status/2122924744110662036",
+  "createdAt": "2026-11-18T05:27:55.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122924744110662036/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122924744110662036/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122924744110662036"
+ },
+ {
   "id": "2122924848032993560",
   "title": "Four model takes on a black hole",
   "title_zh": "四种大模型黑洞渲染效果对比",
@@ -5467,7 +5393,7 @@
   },
   "postUrl": "https://x.com/vipinxtwt/status/2122961847318106171",
   "createdAt": "2026-11-18T07:55:21.000Z",
-  "durationMs": 91406,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122961847318106171/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -5485,7 +5411,7 @@
   },
   "postUrl": "https://x.com/SimonasLTU1/status/2122962883403260262",
   "createdAt": "2026-11-18T07:59:28.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122962883403260262/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Carbon (Medium) VS. Astra 6.2 (Medium) Ultrafast. Prompt: \"Create me a visually stunning Three.js tetris game inspired by the art of Monet\". I'd pick Gemini 4 Carbon, but it took over 6 minutes. Astra took seconds, but of course that's just because I wanted to try it on Ultrafast mode, so there's no fair speed comparison here.",
@@ -5504,7 +5430,7 @@
   },
   "postUrl": "https://x.com/notjazii/status/2122974870250356881",
   "createdAt": "2026-11-18T08:47:06.000Z",
-  "durationMs": 46266,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122974870250356881/video.mp4",
   "promptShared": true,
   "promptText": "GPT 6.2 Sol vs Gemini 4 Carbon  \n\ntested both model with same prompt at highest reasoning available and results came out really different\n\n> sol took 20 mins and used 6M tokens worth ~$1.6 \n> carbon took 40 mins and used 6.2M tokens worth ~$2.9  \n\nprompt was simple \"surprise me in 3d that makes me feel like you are agi model\" and both models decided to go with their own approach  \n\nnow you decide which model did better here",
@@ -5567,6 +5493,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123064410780393603"
  },
  {
+  "id": "2123082967488909775",
+  "title": "AI generated social media trends explainer",
+  "title_zh": "关于朋友圈使用趋势的AI科普短片",
+  "category": "explainer",
+  "author": {
+   "handle": "abss884",
+   "name": "夜猫子"
+  },
+  "postUrl": "https://x.com/abss884/status/2123082967488909775",
+  "createdAt": "2026-11-18T15:56:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123082967488909775/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123082967488909775/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123082967488909775"
+ },
+ {
   "id": "2123083439171842558",
   "title": "Crocodile rising out of the dark",
   "title_zh": "从黑暗中浮现的鳄鱼模型对比",
@@ -5604,6 +5548,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123090089005781375"
  },
  {
+  "id": "2123100995660234818",
+  "title": "Real-time browser RTS game evolution",
+  "title_zh": "浏览器RTS游戏进化史",
+  "category": "game",
+  "author": {
+   "handle": "drashyakuruwa",
+   "name": "Drashya Kuruwa"
+  },
+  "postUrl": "https://x.com/drashyakuruwa/status/2123100995660234818",
+  "createdAt": "2026-11-18T17:08:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123100995660234818/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123100995660234818/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123100995660234818"
+ },
+ {
   "id": "2123113860676907318",
   "title": "A browser shooter game generated by Fable 5.2",
   "title_zh": "Fable 5.2 生成的浏览器射击游戏",
@@ -5632,7 +5594,7 @@
   },
   "postUrl": "https://x.com/petergyang/status/2123121608860762307",
   "createdAt": "2026-11-18T18:30:11.000Z",
-  "durationMs": 61653,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123121608860762307/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -5675,5 +5637,536 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123144283197002116/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123144283197002116"
+ },
+ {
+  "id": "2123160092657021432",
+  "title": "A cyclist riding a bicycle in Three.js",
+  "title_zh": "Three.js中骑自行车的骑手",
+  "category": "3d-scene",
+  "author": {
+   "handle": "AI_Screening",
+   "name": "Pranav Reddy"
+  },
+  "postUrl": "https://x.com/AI_Screening/status/2123160092657021432",
+  "createdAt": "2026-11-18T21:03:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123160092657021432/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123160092657021432/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123160092657021432"
+ },
+ {
+  "id": "2123164032882659819",
+  "title": "Comparison of AI models in Three.js test",
+  "title_zh": "多款AI模型Three.js性能对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "AI_Screening",
+   "name": "Pranav Reddy"
+  },
+  "postUrl": "https://x.com/AI_Screening/status/2123164032882659819",
+  "createdAt": "2026-11-18T21:18:46.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123164032882659819/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123164032882659819/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123164032882659819"
+ },
+ {
+  "id": "2123170821250400282",
+  "title": "Robotic dog with a railgun in Three.js",
+  "title_zh": "Three.js构建的带轨道炮机械狗",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thebuggeddev",
+   "name": "The Bugged Dev"
+  },
+  "postUrl": "https://x.com/thebuggeddev/status/2123170821250400282",
+  "createdAt": "2026-11-18T21:45:45.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123170821250400282/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123170821250400282/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123170821250400282"
+ },
+ {
+  "id": "2123183353436475636",
+  "title": "Google Earth style visualization in Three.js",
+  "title_zh": "Three.js 逼真地球场景渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "analogalok",
+   "name": "Alok"
+  },
+  "postUrl": "https://x.com/analogalok/status/2123183353436475636",
+  "createdAt": "2026-11-18T22:35:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123183353436475636/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Neon vs. Gemini 4 Carbon.\n\nOne prompt. One HTML file. Pure Three.js.\n\nGenuinely looks like Google Earth until you remember an LLM just one shotted the code.\n\nAnd the new Artificial Analysis numbers just dropped\n\nGemini 4 Neon just hit 61 on the Artificial Analysis Intelligence Index (up from Carbon's 60) beating Claude Opus 5.5 (59) and sitting right behind GPT-6.2 Astra (62) and Claude Fable 5.2 (65).\n\nThe real story is the cost chart:\n\nClaude Fable 5.2 Max: $26.54\nClaude Opus 5.5 Max: $10.04\nGemini 4 Neon: $6.44\nGPT 6.2 Astra Max: $4.00\n\nHigher score than Opus 5.5 for 36% less. Over 4x cheaper than Fable. Check out the replies for benchmarks.\n\nPrompt: \nCreate a very realistic high quality earth as seen from the space. camera should auto zoom in to the statue of liberty. Make sure the entire zoom is smooth, the earth, clouds, city and the statue is highly detailed and realistic. single html file. use any libs via cdn.\n\nAre we even going to need game engines in 2 years or is it already over?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123183353436475636/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123183353436475636"
+ },
+ {
+  "id": "2123198294528811087",
+  "title": "Stick figure fight animation model comparison",
+  "title_zh": "火柴人打斗动画模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "xiax0603",
+   "name": "xiax｜AI & Agents"
+  },
+  "postUrl": "https://x.com/xiax0603/status/2123198294528811087",
+  "createdAt": "2026-11-18T23:34:55.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123198294528811087/video.mp4",
+  "promptShared": true,
+  "promptText": "🚨火柴人打斗动画实测对比！Gemini 4 Neon表现直逼Carbon\n\n用户同Prompt横向实测Gemini 4系列四款模型的火柴人打斗动画生成效果\n\n结果显示Neon的动作连贯性、画面完成度优于Argon，整体视觉表现与旗舰Carbon差距不大，几乎处于同一水准",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123198294528811087/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123198294528811087"
+ },
+ {
+  "id": "2123261287253864558",
+  "title": "Triple-axis tourbillon watch 3D scene comparison",
+  "title_zh": "三轴陀飞轮腕表 3D 渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "FiniYang",
+   "name": "Fini.Yang"
+  },
+  "postUrl": "https://x.com/FiniYang/status/2123261287253864558",
+  "createdAt": "2026-11-19T03:45:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123261287253864558/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123261287253864558/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123261287253864558"
+ },
+ {
+  "id": "2123350518856597619",
+  "title": "Snowy Tokyo Station 3D scene comparison",
+  "title_zh": "四款AI生成3D雪中东京站对比",
+  "category": "comparison",
+  "author": {
+   "handle": "muku_sns",
+   "name": "むく | AIアートのプロ"
+  },
+  "postUrl": "https://x.com/muku_sns/status/2123350518856597619",
+  "createdAt": "2026-11-19T09:39:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123350518856597619/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123350518856597619/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123350518856597619"
+ },
+ {
+  "id": "2123355350338343007",
+  "title": "Procedural Blender scene code generation comparison",
+  "title_zh": "Blender程序化代码生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vipinxtwt",
+   "name": "Vipin"
+  },
+  "postUrl": "https://x.com/vipinxtwt/status/2123355350338343007",
+  "createdAt": "2026-11-19T09:59:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123355350338343007/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123355350338343007/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123355350338343007"
+ },
+ {
+  "id": "2123367292042203600",
+  "title": "Motion graphics concept short film by Gemini Neon",
+  "title_zh": "由Gemini Neon生成的动态图形概念短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "walter201230pro",
+   "name": "水哥"
+  },
+  "postUrl": "https://x.com/walter201230pro/status/2123367292042203600",
+  "createdAt": "2026-11-19T10:46:27.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123367292042203600/video.mp4",
+  "promptShared": true,
+  "promptText": "谷歌疯了，发模型的速度快的惊人。\n\n一度怀疑这发布的是大模型吗？发布大模型的节奏是这样的？  \n\n总体体验下来，neno 很不错，速度快，不像 carbon 那么龟速，干活质量也可以，达到了综合平衡，主要还有就是量足，感觉怎么用都用不完。推荐。  \n\n下面这个视频也是 neno 一键出的，也把提示词给到大家，后面新模型出来了，想看这个模型的视频能力怎么样，直接可以用这句提示词测试。  \n\n提示词：请从零创作并导出一部约 20 秒的 16:9（1920×1080，60fps）Motion Graphics 概念短片，主题围绕你作为「Gemini 4  Neon」的视觉与动效表达力，具体创意、分镜和音乐编排由你自主导演。",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123367292042203600/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123367292042203600"
+ },
+ {
+  "id": "2123375881443782819",
+  "title": "Pelican riding a bike in Three.js",
+  "title_zh": "在Three.js中制作鹈鹕骑自行车",
+  "category": "comparison",
+  "author": {
+   "handle": "YFarmX",
+   "name": "YFarmX 🗞️"
+  },
+  "postUrl": "https://x.com/YFarmX/status/2123375881443782819",
+  "createdAt": "2026-11-19T11:20:35.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123375881443782819/video.mp4",
+  "promptShared": true,
+  "promptText": "We gave 4 Gemini 4 models the same one-shot prompt: build a detailed 3D pelican riding a bike in Three.js 🚲\n\nTime · cost · output tokens · $ per 1M in/out\n\nCarbon: 9m52s · $0.53 · 52.5k · $2/$10\nNeon: 5m09s · $0.77 · 51.1k · $3/$15\nHydrogen: 5m08s · $0.31 · 40.5k · $1.5/$7.5\nArgon: 5m27s · $0.26 · 25.3k · $2/$10\n\nCarbon looks best. It thought the longest (17.8k reasoning tokens) and didn't start coding until 4m17s in. The result: a textured, winding road with shadows and the most finished pelican.\n\nNeon is the odd one. It's listed as \"a fast, mid-priced model\", yet it costs 50% more per token than Carbon. It thought less (13k), started coding at 1m54s and wrote the most code, but its road faces down, so it's invisible.\n\nHydrogen was the only one that worked untouched with everything visible. Argon, Google's flagship reasoning model, reported zero reasoning tokens. It was the cheapest, but its road faces down too.\n\nSame one 5.2k-character prompt, no follow-ups.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123375881443782819/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123375881443782819"
+ },
+ {
+  "id": "2123411939359609266",
+  "title": "UI kit frost box 3D animation",
+  "title_zh": "UI组件磨砂盒3D动画",
+  "category": "ui-demo",
+  "author": {
+   "handle": "onuro",
+   "name": "Onur Oztaskiran"
+  },
+  "postUrl": "https://x.com/onuro/status/2123411939359609266",
+  "createdAt": "2026-11-19T13:43:52.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123411939359609266/video.mp4",
+  "promptShared": true,
+  "promptText": "Made in @fountible of the day: UI Kit Frost Box 3D Animation. Made using Bro. Model: Gemini 4 Carbon.\n\nSee live and remix https://go.fountible.com/amberbox\n\nPS: Static shader/code layer is also in the file. Cheers",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123411939359609266/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123411939359609266"
+ },
+ {
+  "id": "2123416335963062300",
+  "title": "Cyclist riding at sunset Three.js comparison",
+  "title_zh": "夕阳下公路骑行的 Three.js 效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "notlikeryo_",
+   "name": "ryo"
+  },
+  "postUrl": "https://x.com/notlikeryo_/status/2123416335963062300",
+  "createdAt": "2026-11-19T14:01:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123416335963062300/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123416335963062300/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123416335963062300"
+ },
+ {
+  "id": "2123451478237200817",
+  "title": "3D design and game development model comparison",
+  "title_zh": "三款模型在 3D 设计与游戏开发中的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Stefan_3D_AI",
+   "name": "Stefan 3D AI"
+  },
+  "postUrl": "https://x.com/Stefan_3D_AI/status/2123451478237200817",
+  "createdAt": "2026-11-19T16:20:58.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123451478237200817/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123451478237200817/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123451478237200817"
+ },
+ {
+  "id": "2123589026145821041",
+  "title": "Workflow for creating animated videos with AI",
+  "title_zh": "使用 AI 制作快节奏动画视频的流程",
+  "category": "explainer",
+  "author": {
+   "handle": "laowangbabababa",
+   "name": "产品经理老王霸"
+  },
+  "postUrl": "https://x.com/laowangbabababa/status/2123589026145821041",
+  "createdAt": "2026-11-20T01:27:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123589026145821041/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123589026145821041/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123589026145821041"
+ },
+ {
+  "id": "2123666064697708794",
+  "title": "Black hole geodesic visualization coded by Gemini Carbon",
+  "title_zh": "由Gemini Carbon编程实现的黑洞测地线可视化",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Boris_web",
+   "name": "Boris"
+  },
+  "postUrl": "https://x.com/Boris_web/status/2123666064697708794",
+  "createdAt": "2026-11-20T06:33:40.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123666064697708794/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123666064697708794/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123666064697708794"
+ },
+ {
+  "id": "2123687539642933402",
+  "title": "Video reverse engineering and prompt replication",
+  "title_zh": "视频逆向工程与提示词重构流程",
+  "category": "explainer",
+  "author": {
+   "handle": "leaf_sanren",
+   "name": "Leaf Yeah!"
+  },
+  "postUrl": "https://x.com/leaf_sanren/status/2123687539642933402",
+  "createdAt": "2026-11-20T07:59:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123687539642933402/video.mp4",
+  "promptShared": true,
+  "promptText": "妈呀！😮 Antigravity 逆向视频的能力恐怖如斯！！\n到底还有多少人不知道Gemini 4是视频界的 REA 啊！！👏\n\n我都觉得不需要 Gemini 4系列最牛的 Neon或Carbon，Hydrogen 就直接完成了原片的拆解、提示词逆推，然后自行调用 Omni 1.2 Flash 去生成了。\n\n我给你们看看他自己写的提示词，几乎就是专门针对Google Omni模型特质（全能参考多模态）写的非常讨巧的提示词👇，可以自己复用下：\n\n 接口与参数：\n      • POST https://generativelanguage.googleapis.com/v1beta/interactions\n      • model: \"gemini-omni-1.2-flash\"，background: true\n      • response_modalities: [\"video\"]\n      • response_format: {\"type\": \"video\", \"aspect_ratio\": \"16:9\", \"resolution\": \"360p\", \"duration\": \"8s\"}\n      • input 数组顺序：[无声参考视频(8.08s)] → Image 1（08_浅奶白圆脸异瞳_v3定妆照.jpg）→ Image\n      2（02_shot02_t5.5s.jpg 红衣机车追兵帧）→ [下方 Prompt]\n\n  1. 前半段（cat_p1，输入 0 ~ 8.08s）原提示词：\n\n    Replicate the EXACT 8-second multi-shot camera cuts, framing, speed, lighting, highway overpass\n    environment, and red armored cyber-biker pursuit (matching Image 2) from the reference video 1-to-1,\n    replacing ONLY the white cat with the chubby pale cream-white heterochromia cat from Image 1 (one\n    bright blue eye, one warm amber eye, round chubby cheeks). Keep the cat's exact mid-air levitating\n    invisible-motorcycle pose — paws raised forward, feet NEVER touching the ground. Keep every camera cut\n    and background detail identical to the reference video.\n\n  2. 后半段（cat_p2，输入 7.0 ~ 15.08s，含结尾张嘴“叮叮”特写）原提示词：\n\n    Replicate the EXACT 8-second multi-shot camera cuts, framing, speed, lighting, highway overpass\n    environment, wide rear overpass chase with the red biker, and the final close-up of the cat's face\n    opening its mouth at the end from the reference video 1-to-1, replacing ONLY the white cat with the\n    chubby pale cream-white heterochromia cat from Image 1 (one bright blue eye, one warm amber eye, round\n    chubby cheeks). Keep the cat's exact mid-air levitating invisible-motorcycle pose — paws raised\n    forward, feet NEVER touching the ground — and match the final mouth-opening expression.\n\n补充一下，因为 omni 模型输入（<10s）和输出（<15s）是有上限的，所以当时是先把原视频的 18 秒加倍速压缩到了 15 秒以内，生成之后再放回原速的。",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123687539642933402/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123687539642933402"
+ },
+ {
+  "id": "2123816445180088544",
+  "title": "Comparison of AI models drawing a strawberry",
+  "title_zh": "多款AI模型绘制草莓效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AIMind_Ai",
+   "name": "AiMind"
+  },
+  "postUrl": "https://x.com/AIMind_Ai/status/2123816445180088544",
+  "createdAt": "2026-11-20T16:31:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123816445180088544/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123816445180088544/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123816445180088544"
+ },
+ {
+  "id": "2123852190741856596",
+  "title": "Iced Americano Three.js model comparison",
+  "title_zh": "冰美式咖啡Three.js模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "TabbitBrowser",
+   "name": "Tabbit"
+  },
+  "postUrl": "https://x.com/TabbitBrowser/status/2123852190741856596",
+  "createdAt": "2026-11-20T18:53:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123852190741856596/video.mp4",
+  "promptShared": true,
+  "promptText": "All four Gemini 4 models are live in Tabbit, so we gave each the same order 🧊\n\n“One 3D iced Americano in Three.js, please.”\n\nArgon · 6m 51s · ~$0.87\nNeon · 11m 57s · ~$3.44\nCarbon · 38m 42s · ~$7.98\nHydrogen · 21m 05s · ~$5.42 (2 runs)\n\nWhich cup are you grabbing? Coffee’s on us ☕",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123852190741856596/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2123852190741856596"
+ },
+ {
+  "id": "2124202626141024638",
+  "title": "Kinetic typography animation set to Daft Punk",
+  "title_zh": "结合 Daft Punk 音乐的动态排版动画",
+  "category": "kinetic-type",
+  "author": {
+   "handle": "mattwatkajtys",
+   "name": "Matt"
+  },
+  "postUrl": "https://x.com/mattwatkajtys/status/2124202626141024638",
+  "createdAt": "2026-11-21T18:05:46.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124202626141024638/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124202626141024638/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124202626141024638"
+ },
+ {
+  "id": "2124387668461236268",
+  "title": "Procedural 3D fire lookout tower model comparison",
+  "title_zh": "WebGPU程序化3D瞭望塔生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "thebuggeddev",
+   "name": "The Bugged Dev"
+  },
+  "postUrl": "https://x.com/thebuggeddev/status/2124387668461236268",
+  "createdAt": "2026-11-22T06:21:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124387668461236268/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124387668461236268/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124387668461236268"
+ },
+ {
+  "id": "2124484540836245649",
+  "title": "Procedural rifle assembly and watermelon impact animation",
+  "title_zh": "Blender 程序化步枪装配与西瓜撞击模拟",
+  "category": "comparison",
+  "author": {
+   "handle": "vipinxtwt",
+   "name": "Vipin"
+  },
+  "postUrl": "https://x.com/vipinxtwt/status/2124484540836245649",
+  "createdAt": "2026-11-22T12:46:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124484540836245649/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124484540836245649/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124484540836245649"
+ },
+ {
+  "id": "2124815129057611854",
+  "title": "Perspective switching game in a hybrid 3D environment",
+  "title_zh": "横版与正向视角切换的 2D 与 3D 游戏",
+  "category": "game",
+  "author": {
+   "handle": "chongdashu",
+   "name": "Chong-U"
+  },
+  "postUrl": "https://x.com/chongdashu/status/2124815129057611854",
+  "createdAt": "2026-11-23T10:39:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124815129057611854/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124815129057611854/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124815129057611854"
+ },
+ {
+  "id": "2124835361591263335",
+  "title": "Custom video created for Leviwoyun",
+  "title_zh": "为云哥定制的视频创作",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "ChrisHKAI",
+   "name": "Chris"
+  },
+  "postUrl": "https://x.com/ChrisHKAI/status/2124835361591263335",
+  "createdAt": "2026-11-23T12:00:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124835361591263335/video.mp4",
+  "promptShared": true,
+  "promptText": "这次帮 @Leviwoyun 云哥做了个视频， \n用Gemini 4 Carbon High 做的， \n喜望云哥喜欢～  \n\nSkill 地址：   \nhttps://github.com/ChrisHKAI/ChrisHKAI-Video     \n\n用法请看下面文章",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124835361591263335/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2124835361591263335"
+ },
+ {
+  "id": "2125137914568864145",
+  "title": "AI generated video content with custom voiceover",
+  "title_zh": "带有自定义画外音的AI生成视频内容",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "LoPassFilter28",
+   "name": "Mella"
+  },
+  "postUrl": "https://x.com/LoPassFilter28/status/2125137914568864145",
+  "createdAt": "2026-11-24T08:02:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125137914568864145/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125137914568864145/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125137914568864145"
+ },
+ {
+  "id": "2125148076339794011",
+  "title": "Sci-fi game demo comparing AI models",
+  "title_zh": "科幻游戏原型开发效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "backerd_ceo5",
+   "name": "Backer"
+  },
+  "postUrl": "https://x.com/backerd_ceo5/status/2125148076339794011",
+  "createdAt": "2026-11-24T08:42:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125148076339794011/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125148076339794011/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125148076339794011"
+ },
+ {
+  "id": "2125161404047217135",
+  "title": "Calabash Brothers animated scene in Three.js",
+  "title_zh": "Three.js 制作的葫芦娃动画场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "elidlicom",
+   "name": "Litany（李丰一）"
+  },
+  "postUrl": "https://x.com/elidlicom/status/2125161404047217135",
+  "createdAt": "2026-11-24T09:35:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125161404047217135/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125161404047217135/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125161404047217135"
+ },
+ {
+  "id": "2125190276646043899",
+  "title": "A 3D model of the White House",
+  "title_zh": "代码构建的白宫 3D 模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "charliejhills",
+   "name": "Charlie Hills"
+  },
+  "postUrl": "https://x.com/charliejhills/status/2125190276646043899",
+  "createdAt": "2026-11-24T11:30:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125190276646043899/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125190276646043899/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125190276646043899"
+ },
+ {
+  "id": "2125271024287515114",
+  "title": "Same prompt test with Gemini 4 Carbon",
+  "title_zh": "Gemini 4 Carbon 同提示词生成测试",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "diegocabezas01",
+   "name": "Diego | AI 🚀 - e/acc"
+  },
+  "postUrl": "https://x.com/diegocabezas01/status/2125271024287515114",
+  "createdAt": "2026-11-24T16:51:12.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125271024287515114/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125271024287515114/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125271024287515114"
+ },
+ {
+  "id": "2125322475798192177",
+  "title": "Iterative web page redesign comparison across models",
+  "title_zh": "多款模型迭代优化网页界面的效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "DesignArena",
+   "name": "Intelligence (DesignArena)"
+  },
+  "postUrl": "https://x.com/DesignArena/status/2125322475798192177",
+  "createdAt": "2026-11-24T20:15:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/video.mp4",
+  "promptShared": true,
+  "promptText": "Today’s frontier models claim to fix AI slop in one edit. However, when asked to improve a page again, @GoogleDeepMind's Gemini 4 Carbon kept redesigning it up to edit 10, whereas @AnthropicAI's Claude Fable 5.2 was confident its page was already the best and barely changed it after edit 3.\n\nDesign tools increasingly make use of iterative coding agents, but these loops depend on consistent judgment, so follow-up prompts can improve a page without rewriting working layouts.\n\nWe gave four frontier models AI-slop web pages and had each model edit each page ten times in a row. Every edit was a separate call with only the latest HTML and the prompt \"Make the below website look less like AI slop. Reply with only the complete HTML file.\"\n\nAfter each edit, a separate judge call to the same model scored the page from 0% (no AI slop) to 100% (all AI slop).\n\nEvery model's judge deemed its work fixed on edit 1. However, @OpenAI's GPT-6.2 Astra kept making updates on later edits, and the other models' judges gave its output the lowest slop scores. @AIatMeta's Muse Wonder, on the other hand, shifted toward formulaic beige layouts with serif headlines.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125322475798192177"
  }
 ]
