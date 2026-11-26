@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 85 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 87 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (6)
+- [3D 场景](#3d-scene) (7)
 - [动效](#motion-graphics) (13)
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (2)
 - [粒子与形状](#particles) (1)
 - [图表图解](#data-viz) (1)
-- [讲解](#explainer) (1)
+- [讲解](#explainer) (2)
 - [动画](#anime) (1)
 - [测试对比](#comparison) (54)
 - [模型展示](#showcase) (3)
@@ -103,6 +103,57 @@ Build a deterministic, seamless-looping 3-minute (180.000 s, 10,800 frames at 19
 Gemini 4 Carbon High/Antigravity 
 
 Build a deterministic, real time capable 3 minute (180.000s, 10,800 frames at 60fps) solo piano concert film titled "PERF-01 // SYMPHONY NO. 7 IN A MAJOR, OP. 92 (II. ALLEGRETTO)" (Franz Liszt solo piano concert transcription S.464/7 of Beethoven's Allegretto) using Three.js 0.187.0 (native WebGPURenderer + three/tsl), headless Blender 5.2+ (Cycles GPU 4K OIDN baking + anatomical sculpting), AI texture lookdev, and multi-velocity grand piano synthesis.
+```
+
+### 使用代码在Godot引擎中生成的苔藓庭院
+
+[@KanaWorks_AI](https://x.com/KanaWorks_AI/status/2125773511738511621) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125773511738511621/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125773511738511621?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon、すごすぎでしょ🤯
+これ全部コード…？
+3Dモデル素材ゼロ、Godotで作った京都の苔庭。
+線を1本引くと、石がぷるんと跳ねて石橋に。
+
+このポストをそのままAIエージェント（Claude Code / Codex など）に渡せば、同じ動きを再現できるはずです。
+以下はエージェント向けの技術メモです👇
+■ 環境
+Godot 4.7.2（Forward+）、手元のMacで1080pリアルタイム描画。地形・石橋・建物・植物はすべてスクリプトでメッシュ生成（外部3Dモデルなし）
+
+■ 1. 一筆の「化学反応」
+・入力はCatmull-Romスプライン1本。0.24m間隔でリサンプリングし、各点で川のSDFを評価
+・水上区間（SDF≦0.48）が1.2m以上続いたら、前後に0.55mずつ延長してアーチ橋に置き換え。陸上部分は3段の乱積み石垣
+・アーチは 1−u² の放物線。迫石・要石・敷石・高欄・擬宝珠をそれぞれプロシージャル生成
+・2本目の線（飛び石）が石灯籠の近くまで伸びると点灯
+
+■ 2. ぷるっと着地する石
+・石ごとに2次系の減衰バネ（減衰比ζ=0.43、ω=23.5rad/s、オーバーシュート約22%）
+・体積を保つスクワッシュ&ストレッチ＋微小な揺れ
+・着水した瞬間に水面へ波紋を注入。橋脚は障害物として登録し、下流にV字の引き波が立つ
+
+■ 3. ふわふわの苔
+・20層のシェルテクスチャ（MultiMesh）。ノイズでアルファクリップして毛先を表現し、根元は暗い腐植色→先端は逆光で黄緑に透ける
+・石の揺れが収まって0.3秒後から、1.45秒かけて目地を這い上がるように成長
+
+■ 4. 水
+・RenderingDeviceのGLSLコンピュートシェーダーで256×256（rgba16f）の浅水波シミュレーション。9点ステンシルのラプラシアン、120Hz固定タイムステップ
+・結果はTexture2DRDで直接水面シェーダーへ（CPUへの読み戻しなし）。GPU時間は1ステップ約0.02ms
+・水面はIOR 1.333（F0=0.02）のフレネル＋12ステップのスクリーンスペース反射＋Beer-Lambert吸収
+
+■ 5. 光
+・Godot 4.7の新機能AreaLight3Dで障子を面光源に（area_normalize_energy=true）
+・SDFGI 4カスケード、AgXトーンマップ、CompositorEffectで木漏れ日の光芒
+
+■ 6. 種明かしワイプ
+・グローバルシェーダーユニフォーム（vec4）で3本の斜めワイプ位置を全マテリアルに渡し、ワイヤーフレーム／マスク／完成を1画面内で塗り分け
+
+■ 7. 書き出し
+・Movie Makerで120fps録画→ffmpegのtmixで2フレームずつブレンドして60fps（自然なモーションブラー）
+・カットの境目が2フレームにまたがると半透明の残像が1枚出るので、フレーム差分で検出して差し替え
+
+コード：Gemini 4 Carbon
+エンジン：Godot 4.7
+ナレーション・音楽：ElevenLabs
 ```
 
 <a id="motion-graphics"></a>
@@ -437,6 +488,44 @@ Gemini Carbonで、
     forward, feet NEVER touching the ground — and match the final mouth-opening expression.
 
 补充一下，因为 omni 模型输入（<10s）和输出（<15s）是有上限的，所以当时是先把原视频的 18 秒加倍速压缩到了 15 秒以内，生成之后再放回原速的。
+```
+
+### 多模型编码智能体工作流程演示
+
+[@de1lymoon](https://x.com/de1lymoon/status/2125703931263168809) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125703931263168809/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125703931263168809?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+DAMN, i'm praying you paste this into gemini 4 neon before your next coding session...
+
+you're still running one model in one chat, and nobody checks its work
+
+this setup turns antigravity into a full team: swarms, a verifier that sends broken work back, claude and gpt checking gemini, and agents that keep going while you sleep
+
+same model, different harness: neon solves 12.8% of SWE-sweep in a basic harness and 39.0% inside antigravity
+
+9 steps, 3 levels, one prompt in the video:
+
+lvl 1: [the setup]
+
+step 1 → settings: permission preset auto, queued messages send immediately, prevent sleep on, remote control on
+step 2 → gemini 4 neon on high for almost everything. carbon only for the longest jobs
+step 3 → start low on the ladder: ask, sub-agents, orchestrator, /run-workflow. climb only when you need to
+
+lvl 2: [the swarm]
+
+step 4 → /swarm with one module per worker, nobody touches another worker's files
+step 5 → write the verifier rules into the prompt: real browser, zero console errors, data survives a reload
+step 6 → workers on neon, verifier on claude opus 5.5, gpt checks only money, data and permissions
+
+lvl 3: [the machine]
+
+step 7 → end every session with /learn so your corrections become project rules
+step 8 → add a read-only reviewer: it reads the diff, runs tests and never edits
+step 9 → remote agents in the cloud + /automation every monday at 8am, steered from your phone
+
+do it in one evening: install, change the 4 settings, run one /swarm on a real task, end with /learn. tomorrow add the second model
+
+paste it into antigravity and please don't lose it ↓
 ```
 
 <a id="anime"></a>
@@ -1368,7 +1457,7 @@ Which cup are you grabbing? Coffee’s on us ☕
 
 ### 多款模型迭代优化网页界面的效果对比
 
-[@DesignArena](https://x.com/DesignArena/status/2125322475798192177) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125322475798192177?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+[@designarena_ai](https://x.com/designarena_ai/status/2125322475798192177) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125322475798192177?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
 
 ```text
 Today’s frontier models claim to fix AI slop in one edit. However, when asked to improve a page again, @GoogleDeepMind's Gemini 4 Carbon kept redesigning it up to edit 10, whereas @AnthropicAI's Claude Fable 5.2 was confident its page was already the best and barely changed it after edit 3.
