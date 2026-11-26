@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-87 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
+88 Gemini 4 Carbon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Carbon on SandBase Lab. New to prompting Carbon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -14,7 +14,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (2)
 - [Anime](#anime) (1)
-- [Tests & comparisons](#comparison) (54)
+- [Tests & comparisons](#comparison) (55)
 - [Model showcases](#showcase) (3)
 
 <a id="3d-scene"></a>
@@ -1469,6 +1469,31 @@ We gave four frontier models AI-slop web pages and had each model edit each page
 After each edit, a separate judge call to the same model scored the page from 0% (no AI slop) to 100% (all AI slop).
 
 Every model's judge deemed its work fixed on edit 1. However, @OpenAI's GPT-6.2 Astra kept making updates on later edits, and the other models' judges gave its output the lowest slop scores. @AIatMeta's Muse Wonder, on the other hand, shifted toward formulaic beige layouts with serif headlines.
+```
+
+### A red seaplane over an alpine lake comparison
+
+[@0xchromium](https://x.com/0xchromium/status/2126032096959627757) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126032096959627757?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+GEMINI 4 NEON VS OPUS 5.5
+
+Gemini 4 Neon is the middle tier model Google dropped last week, Opus 5.5 is the one most people still pay up for when the result matters
+
+same prompt for both, a red seaplane coming in over an alpine lake with a waterfall in the back, and here's how it went:
+
+> Neon finished in 1 hour 31 minutes for $11.84
+> Opus needed 2 hours 45 minutes and $31.85
+
+what stands out here:
+
+> Neon came in almost 3x cheaper on the exact same task
+> it also wrapped up more than an hour earlier
+> Neon brings the plane right up close, Opus keeps it out on the water
+> Opus goes for the wide shot with mountain reflections across the lake
+> and Neon isn't even Google's top model, Carbon still sits above it
+
+is the Opus shot worth the extra $20 or did Neon take this one
 ```
 
 <a id="showcase"></a>

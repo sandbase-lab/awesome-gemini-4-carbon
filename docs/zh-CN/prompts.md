@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 87 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 88 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -14,7 +14,7 @@
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (2)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (54)
+- [测试对比](#comparison) (55)
 - [模型展示](#showcase) (3)
 
 <a id="3d-scene"></a>
@@ -1469,6 +1469,31 @@ We gave four frontier models AI-slop web pages and had each model edit each page
 After each edit, a separate judge call to the same model scored the page from 0% (no AI slop) to 100% (all AI slop).
 
 Every model's judge deemed its work fixed on edit 1. However, @OpenAI's GPT-6.2 Astra kept making updates on later edits, and the other models' judges gave its output the lowest slop scores. @AIatMeta's Muse Wonder, on the other hand, shifted toward formulaic beige layouts with serif headlines.
+```
+
+### 高山湖泊上的红色水上飞机生成对比
+
+[@0xchromium](https://x.com/0xchromium/status/2126032096959627757) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126032096959627757?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+GEMINI 4 NEON VS OPUS 5.5
+
+Gemini 4 Neon is the middle tier model Google dropped last week, Opus 5.5 is the one most people still pay up for when the result matters
+
+same prompt for both, a red seaplane coming in over an alpine lake with a waterfall in the back, and here's how it went:
+
+> Neon finished in 1 hour 31 minutes for $11.84
+> Opus needed 2 hours 45 minutes and $31.85
+
+what stands out here:
+
+> Neon came in almost 3x cheaper on the exact same task
+> it also wrapped up more than an hour earlier
+> Neon brings the plane right up close, Opus keeps it out on the water
+> Opus goes for the wide shot with mountain reflections across the lake
+> and Neon isn't even Google's top model, Carbon still sits above it
+
+is the Opus shot worth the extra $20 or did Neon take this one
 ```
 
 <a id="showcase"></a>

@@ -231,7 +231,7 @@
   "durationMs": 30000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2112999200472596959/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2112999200472596959/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2112999200472596959"
  },
@@ -885,7 +885,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556254101692515/video.mp4",
   "promptShared": true,
   "promptText": "GOOGLE'S NEW GEMINI 4 CARBON IS SCARY GOOD AT 3D 🥶\n\nOne prompt: a robotic eye that blinks, focuses, then explodes into every part.\n\nGemini 4 Carbon → 29m 49s\n\nWaiting for it on",
-  "featured": 3,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2115556254101692515/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2115556254101692515"
  },
@@ -1564,7 +1564,7 @@
   "durationMs": 53571,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116578168874438910/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2116578168874438910/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2116578168874438910"
  },
@@ -2593,7 +2593,7 @@
   "durationMs": 26000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120188535152222407/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2120188535152222407/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2120188535152222407"
  },
@@ -5069,7 +5069,7 @@
   "durationMs": 10147,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122680051753751000/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122680051753751000/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2122680051753751000"
  },
@@ -6367,5 +6367,114 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125773511738511621/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125773511738511621"
+ },
+ {
+  "id": "2125894774842384433",
+  "title": "Post-WW2 experimental vehicle model comparison",
+  "title_zh": "二战后实验车辆模型生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "realRORBC",
+   "name": "Reformado Matador"
+  },
+  "postUrl": "https://x.com/realRORBC/status/2125894774842384433",
+  "createdAt": "2026-11-26T10:09:46.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125894774842384433/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125894774842384433/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125894774842384433"
+ },
+ {
+  "id": "2125936774388064749",
+  "title": "Combat drone flight and weapons simulator",
+  "title_zh": "战斗无人机飞行与射击模拟器",
+  "category": "game",
+  "author": {
+   "handle": "Dorianxxbt",
+   "name": "Dorian"
+  },
+  "postUrl": "https://x.com/Dorianxxbt/status/2125936774388064749",
+  "createdAt": "2026-11-26T12:56:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125936774388064749/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125936774388064749/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125936774388064749"
+ },
+ {
+  "id": "2125941455659368928",
+  "title": "Interactive 3D dragonfly compound eye optical lab",
+  "title_zh": "交互式三维蜻蜓复眼光学实验室",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Kisalay_",
+   "name": "Kisalay"
+  },
+  "postUrl": "https://x.com/Kisalay_/status/2125941455659368928",
+  "createdAt": "2026-11-26T13:15:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125941455659368928/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125941455659368928/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125941455659368928"
+ },
+ {
+  "id": "2125975862600507850",
+  "title": "Interactive 3D human cochlea explorer",
+  "title_zh": "交互式三维人类耳蜗结构演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Kisalay_",
+   "name": "Kisalay"
+  },
+  "postUrl": "https://x.com/Kisalay_/status/2125975862600507850",
+  "createdAt": "2026-11-26T15:31:59.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125975862600507850/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125975862600507850/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2125975862600507850"
+ },
+ {
+  "id": "2126032096959627757",
+  "title": "A red seaplane over an alpine lake comparison",
+  "title_zh": "高山湖泊上的红色水上飞机生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xchromium",
+   "name": "Chrome"
+  },
+  "postUrl": "https://x.com/0xchromium/status/2126032096959627757",
+  "createdAt": "2026-11-26T19:15:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/video.mp4",
+  "promptShared": true,
+  "promptText": "GEMINI 4 NEON VS OPUS 5.5\n\nGemini 4 Neon is the middle tier model Google dropped last week, Opus 5.5 is the one most people still pay up for when the result matters\n\nsame prompt for both, a red seaplane coming in over an alpine lake with a waterfall in the back, and here's how it went:\n\n> Neon finished in 1 hour 31 minutes for $11.84\n> Opus needed 2 hours 45 minutes and $31.85\n\nwhat stands out here:\n\n> Neon came in almost 3x cheaper on the exact same task\n> it also wrapped up more than an hour earlier\n> Neon brings the plane right up close, Opus keeps it out on the water\n> Opus goes for the wide shot with mountain reflections across the lake\n> and Neon isn't even Google's top model, Carbon still sits above it\n\nis the Opus shot worth the extra $20 or did Neon take this one",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126032096959627757"
+ },
+ {
+  "id": "2126043318371205255",
+  "title": "Character animations for an adventure game",
+  "title_zh": "冒险游戏角色动画制作展示",
+  "category": "game",
+  "author": {
+   "handle": "chongdashu",
+   "name": "Chong-U"
+  },
+  "postUrl": "https://x.com/chongdashu/status/2126043318371205255",
+  "createdAt": "2026-11-26T20:00:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126043318371205255/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126043318371205255/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126043318371205255"
  }
 ]
