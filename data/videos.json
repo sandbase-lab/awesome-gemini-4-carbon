@@ -6476,5 +6476,133 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126043318371205255/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126043318371205255"
+ },
+ {
+  "id": "2126062479017165147",
+  "title": "Testing four models on a 3D Blender prompt",
+  "title_zh": "四款模型在Blender中的3D生成测试",
+  "category": "comparison",
+  "author": {
+   "handle": "maxt3chno",
+   "name": "Max"
+  },
+  "postUrl": "https://x.com/maxt3chno/status/2126062479017165147",
+  "createdAt": "2026-11-26T21:16:09.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126062479017165147/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126062479017165147/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126062479017165147"
+ },
+ {
+  "id": "2126182622577774853",
+  "title": "Passing a camera through snow globe glass",
+  "title_zh": "镜头穿过雪花球玻璃的物理效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SKYEVAL_AI",
+   "name": "SKYEVAL"
+  },
+  "postUrl": "https://x.com/SKYEVAL_AI/status/2126182622577774853",
+  "createdAt": "2026-11-27T05:13:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/video.mp4",
+  "promptShared": true,
+  "promptText": "The Ultimate AI Video Challenge: Passing the camera THROUGH glass. ❄️\n \nGemini 4 Carbon VS Gemini 4 Hydrogen VS Gemini 4 Neon\n \nSame prompt: Orbit a snow globe beside a warm fire, then push the camera through the glass into the winter scene inside.\n \nHere is how they handled the physics:\n \nGemini 4 Neon (Winner):\n\n• The Win: The only model that actually attempted the camera transition. Gorgeous low poly 3D world with fantastic atmospheric lighting.\n\n• The Catch: It slightly clips the geometry during the transition, but it's the most visually coherent attempt overall.\n \nGemini 4 Carbon:\n\n• The Fail: The glass reflection causes extreme overexposure and glare, washing out all structural details. It also skips the transition, jumping straight inside.\n \nGemini 4 Hydrogen:\n\n• The Fail: Ignored the complex lighting requirements (glass refraction/warm firelight), resulting in a flat, low detail render. Like Carbon, it also hard cuts straight inside, skipping the glass-piercing shot.\n \nThe Verdict:\nPrompting for complex spatial transitions is still a huge blind spot. Carbon and Hydrogen opted for a hard cut to avoid rendering the glass, while Neon was the only one brave enough to animate the push through.\n \nWatch the 15s side by side video below to see exactly when they break. 👇\n \nWhich model's approach do you prefer?\n \n#Gemini #AIVideo #GenerativeAI #TechBenchmark #AI",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126182622577774853"
+ },
+ {
+  "id": "2126291966312984815",
+  "title": "Procedural 3D teardown car showroom in Three.js",
+  "title_zh": "Three.js程序化3D汽车拆解展厅",
+  "category": "3d-scene",
+  "author": {
+   "handle": "adityawaslost",
+   "name": "Aditya"
+  },
+  "postUrl": "https://x.com/adityawaslost/status/2126291966312984815",
+  "createdAt": "2026-11-27T12:28:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126291966312984815/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126291966312984815/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126291966312984815"
+ },
+ {
+  "id": "2126299300678549781",
+  "title": "Testing video to game conversion in Three.js",
+  "title_zh": "Three.js视频转游戏测试效果展示",
+  "category": "game",
+  "author": {
+   "handle": "kokushing",
+   "name": "黒神(kokushin)"
+  },
+  "postUrl": "https://x.com/kokushing/status/2126299300678549781",
+  "createdAt": "2026-11-27T12:57:12.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126299300678549781/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126299300678549781/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126299300678549781"
+ },
+ {
+  "id": "2126322654713876828",
+  "title": "Procedural 3D polyrhythm marble music machine",
+  "title_zh": "Three.js三维复节奏弹珠音乐机",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Kisalay_",
+   "name": "Kisalay"
+  },
+  "postUrl": "https://x.com/Kisalay_/status/2126322654713876828",
+  "createdAt": "2026-11-27T14:30:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126322654713876828/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126322654713876828/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126322654713876828"
+ },
+ {
+  "id": "2126369030248243423",
+  "title": "Interactive Kyoto moss garden built in Godot",
+  "title_zh": "Godot引擎制作的京都青苔庭园",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Vexo200",
+   "name": "Vexo"
+  },
+  "postUrl": "https://x.com/Vexo200/status/2126369030248243423",
+  "createdAt": "2026-11-27T17:34:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126369030248243423/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126369030248243423/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126369030248243423"
+ },
+ {
+  "id": "2126391889209565498",
+  "title": "Automated multi-agent crypto trading swarm demo",
+  "title_zh": "多智能体自动加密货币交易演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "0xGull",
+   "name": "Gull"
+  },
+  "postUrl": "https://x.com/0xGull/status/2126391889209565498",
+  "createdAt": "2026-11-27T19:05:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126391889209565498/video.mp4",
+  "promptShared": true,
+  "promptText": "GEMINI 4 NEON JUST F*CKED GROK BOT AND FABLE 5.2 ON MY TRADING DESK\n\nI used Google's Gemini 4 Neon to build an 8-agent trading swarm on Hyperliquid\n\nThe result: $150 → $8,192.03 in 12 hours\n\n270 trades. 188 wins, 82 losses, 69.6% win rate. 136 longs, 134 shorts. 90 setups killed before entry because the edge was too weak\n\nSame morning: Grok Bot lost $37.16. Fable made $3.17\n\nAll it took was one command in Google's Antigravity:\n\n/swarm take over. $150. Make it grow.\n\nNeon spawned 8 Hydrogen agents and traded SOL, HYPE and SUI for 12 hours straight.\n\nBest trade: +$386.13 on a 20x SOL short.\n\nEvery setup goes through the same pipeline:\n\nSCAN → 8 agents scan 40 perps in parallel\nTEST → every setup is backtested before entry\nARGON → bull vs bear debate\nCARBON → final call: GO, GO SMALLER or NO-GO\nEXEC → fills on Hyperliquid, code holds the stop\n\nThe agents literally talk to each other in the swarm chat.\n\nI didn't touch a single button.\n\nHere's the exact setup, prompt and repos 👇\n\nThe setup prompt (paste it into Antigravity first):\n\n\"You are my trading desk on Hyperliquid. When I type /swarm take over, spawn 8 Hydrogen agents: SCOUT, TREND, LIQ HUNTER, MOMENTUM, MEAN REV, ORDER FLOW, NEWS and X FEED. Each one scans its own setups across the top 40 perps. Backtest every setup before entry. Run an Argon committee, bull vs bear vs risk, then let Carbon make the final call: GO, GO SMALLER or NO-GO. Execute on Hyperliquid with a hard-coded stop on every trade. Rank the agents every hour and move capital to the winners. Report every trade to me.\"\n\nRepos it runs on:\nhttp://github.com/Senpi-ai/senpi-skills\nhttp://github.com/0xArchiveIO/0xarchive-quant\nhttp://github.com/BijectiveLabs/bitra\nhttp://github.com/hyperliquid-dex/hyperliquid-python-sdk\n\nStop scrolling and thinking this isn't real. Skip Netflix tonight and launch your own trading desk.\n\nAll you need to set up your own trading desk is in the article below 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126391889209565498/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126391889209565498"
  }
 ]

@@ -2,19 +2,19 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 88 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 90 条 Gemini 4 Carbon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Carbon 一键 **复刻**。第一次写 Carbon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (7)
 - [动效](#motion-graphics) (13)
 - [游戏](#game) (3)
-- [产品界面](#ui-demo) (2)
+- [产品界面](#ui-demo) (3)
 - [粒子与形状](#particles) (1)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (2)
 - [动画](#anime) (1)
-- [测试对比](#comparison) (55)
+- [测试对比](#comparison) (56)
 - [模型展示](#showcase) (3)
 
 <a id="3d-scene"></a>
@@ -406,6 +406,58 @@ Made in @fountible of the day: UI Kit Frost Box 3D Animation. Made using Bro. Mo
 See live and remix https://go.fountible.com/amberbox
 
 PS: Static shader/code layer is also in the file. Cheers
+```
+
+### 多智能体自动加密货币交易演示
+
+[@0xGull](https://x.com/0xGull/status/2126391889209565498) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126391889209565498/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126391889209565498?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+GEMINI 4 NEON JUST F*CKED GROK BOT AND FABLE 5.2 ON MY TRADING DESK
+
+I used Google's Gemini 4 Neon to build an 8-agent trading swarm on Hyperliquid
+
+The result: $150 → $8,192.03 in 12 hours
+
+270 trades. 188 wins, 82 losses, 69.6% win rate. 136 longs, 134 shorts. 90 setups killed before entry because the edge was too weak
+
+Same morning: Grok Bot lost $37.16. Fable made $3.17
+
+All it took was one command in Google's Antigravity:
+
+/swarm take over. $150. Make it grow.
+
+Neon spawned 8 Hydrogen agents and traded SOL, HYPE and SUI for 12 hours straight.
+
+Best trade: +$386.13 on a 20x SOL short.
+
+Every setup goes through the same pipeline:
+
+SCAN → 8 agents scan 40 perps in parallel
+TEST → every setup is backtested before entry
+ARGON → bull vs bear debate
+CARBON → final call: GO, GO SMALLER or NO-GO
+EXEC → fills on Hyperliquid, code holds the stop
+
+The agents literally talk to each other in the swarm chat.
+
+I didn't touch a single button.
+
+Here's the exact setup, prompt and repos 👇
+
+The setup prompt (paste it into Antigravity first):
+
+"You are my trading desk on Hyperliquid. When I type /swarm take over, spawn 8 Hydrogen agents: SCOUT, TREND, LIQ HUNTER, MOMENTUM, MEAN REV, ORDER FLOW, NEWS and X FEED. Each one scans its own setups across the top 40 perps. Backtest every setup before entry. Run an Argon committee, bull vs bear vs risk, then let Carbon make the final call: GO, GO SMALLER or NO-GO. Execute on Hyperliquid with a hard-coded stop on every trade. Rank the agents every hour and move capital to the winners. Report every trade to me."
+
+Repos it runs on:
+http://github.com/Senpi-ai/senpi-skills
+http://github.com/0xArchiveIO/0xarchive-quant
+http://github.com/BijectiveLabs/bitra
+http://github.com/hyperliquid-dex/hyperliquid-python-sdk
+
+Stop scrolling and thinking this isn't real. Skip Netflix tonight and launch your own trading desk.
+
+All you need to set up your own trading desk is in the article below 👇
 ```
 
 <a id="particles"></a>
@@ -1494,6 +1546,43 @@ what stands out here:
 > and Neon isn't even Google's top model, Carbon still sits above it
 
 is the Opus shot worth the extra $20 or did Neon take this one
+```
+
+### 镜头穿过雪花球玻璃的物理效果对比
+
+[@SKYEVAL_AI](https://x.com/SKYEVAL_AI/status/2126182622577774853) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-carbon/2126182622577774853?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-carbon&utm_content=prompt-index)
+
+```text
+The Ultimate AI Video Challenge: Passing the camera THROUGH glass. ❄️
+ 
+Gemini 4 Carbon VS Gemini 4 Hydrogen VS Gemini 4 Neon
+ 
+Same prompt: Orbit a snow globe beside a warm fire, then push the camera through the glass into the winter scene inside.
+ 
+Here is how they handled the physics:
+ 
+Gemini 4 Neon (Winner):
+
+• The Win: The only model that actually attempted the camera transition. Gorgeous low poly 3D world with fantastic atmospheric lighting.
+
+• The Catch: It slightly clips the geometry during the transition, but it's the most visually coherent attempt overall.
+ 
+Gemini 4 Carbon:
+
+• The Fail: The glass reflection causes extreme overexposure and glare, washing out all structural details. It also skips the transition, jumping straight inside.
+ 
+Gemini 4 Hydrogen:
+
+• The Fail: Ignored the complex lighting requirements (glass refraction/warm firelight), resulting in a flat, low detail render. Like Carbon, it also hard cuts straight inside, skipping the glass-piercing shot.
+ 
+The Verdict:
+Prompting for complex spatial transitions is still a huge blind spot. Carbon and Hydrogen opted for a hard cut to avoid rendering the glass, while Neon was the only one brave enough to animate the push through.
+ 
+Watch the 15s side by side video below to see exactly when they break. 👇
+ 
+Which model's approach do you prefer?
+ 
+#Gemini #AIVideo #GenerativeAI #TechBenchmark #AI
 ```
 
 <a id="showcase"></a>
